@@ -14,34 +14,67 @@ Tournament_Selection_size = 10
 
 def genetic_algorithm(ga_params):
     # define input_output_pairs
-    input_output_pairs = generate_input_output_pairs(sort=ga_params['case_study'],
+    input_output_pairs_training, input_output_pairs_control = generate_input_output_pairs(sort=ga_params['case_study'],
                                                      CA_size=ga_params['CA_size'],
                                                      percentage=ga_params['input_percentage'])
     # Initialize population randomly
     population = initialize_population(CA_size=ga_params['CA_size'],
                                        population_size=ga_params['population_size'],
-                                       percentage=ga_params['percentage'],
+                                       percentage=ga_params['input_percentage'],
                                        input_locations=ga_params['input_locations'],
-                                       input_order=ga_params['input_order'])
+                                       input_order=ga_params['input_order'],
+                                       sort_rules=ga_params['sort_rules'])
+
+    # Trackers for mean and best fitness
+    mean_fitness_training = []
+    mean_fitness_control = []
+    best_fitness_training = []
+    best_fitness_control = []
+    best_chromosomes = []  # List to track the best chromosome in each generation
+    last_control_fitness = None
 
     for generation in range(generations):
-        # Prepare arguments for parallel fitness evaluation
-        fitness_evaluation_args = []
+        # Prepare arguments for parallel fitness evaluation for both training and control
+        fitness_evaluation_args_training = []
+        fitness_evaluation_args_control = []
         for individual in population:
-            # Extract input and output locations for each individual
-            input_cells = individual['input_location']
+            input_cells = individual['input_locations']
             output_cells = individual['output_location']
 
-            # Append the arguments needed for evaluate_fitness function
-            fitness_evaluation_args.append(
-                (individual['chromosome'], input_output_pairs, input_cells, output_cells, ga_params[''], ga_params['distance'])
+            fitness_evaluation_args_training.append(
+                (individual['chromosome'], input_output_pairs_training, input_cells, output_cells, ga_params[''],
+                 ga_params['distance'])
             )
 
-        # Parallel fitness evaluation
+            fitness_evaluation_args_control.append(
+                (individual['chromosome'], input_output_pairs_control, input_cells, output_cells, ga_params[''],
+                 ga_params['distance'])
+            )
+
+        # Parallel fitness evaluation for training and control
         with Pool(processes=cpu_count()) as pool:
-            fitnesses = pool.starmap(evaluate_fitness, fitness_evaluation_args)
-        # Selection
-        parents = select_parents(population, fitnesses, ga_params['selection'])
+            fitnesses_training = pool.starmap(evaluate_fitness, fitness_evaluation_args_training)
+
+        if generation % 20 == 0 or generation == 0:
+            with Pool(processes=cpu_count()) as pool:
+                fitnesses_control = pool.starmap(evaluate_fitness, fitness_evaluation_args_control)
+            last_control_fitness = fitness_control
+        else:
+            # Use the last calculated control fitness
+            fitness_control = last_control_fitness
+
+        # Update trackers
+        mean_fitness_training.append(np.mean(fitnesses_training))
+        mean_fitness_control.append(np.mean(fitnesses_control))
+        best_fitness_training.append(np.max(fitnesses_training))
+        best_fitness_control.append(np.max(fitnesses_control))
+
+        # Find and store the best chromosome of the current generation
+        best_chromosome_index = np.argmax(fitnesses_training)
+        best_chromosomes.append(population[best_chromosome_index])
+
+        # Selection (based on training fitnesses)
+        parents = select_parents(population, fitnesses_training, ga_params['selection'])
 
         # Crossover and mutation
         offspring = []
@@ -67,11 +100,15 @@ def genetic_algorithm(ga_params):
         # Create the new population
         population = offspring
 
-        # Optionally, implement a termination condition or evaluation here
+        print(mean_fitness_training)
 
+    save_info(mean_fitness_training, mean_fitness_control, best_fitness_training, best_fitness_control, ga_params, 'D:/PythonProjects/Thesis/configurations/output')
+    save_chromosomes(best_chromosomes, 'D:/PythonProjects/Thesis/configurations/chromosomes')
     # Return the best solution found
-    best_index = np.argmax(fitnesses)
-    return population[best_index]
+    # For example:
+    best_overall_index = np.argmax(best_fitness_training)  # Index of best overall in best_fitness_training list
+    best_overall_chromosome = best_chromosomes[best_overall_index]  # The best ov
+    return population[best_overall_index]
 
 
 def generate_random_configuration():
@@ -92,6 +129,7 @@ def generate_random_configuration():
     case_study_options = ['number_divided_by_two', 'number_plus_one']
     input_location_options = ['random', 'evenly_distributed']
     input_order_options = ['random', 'ordered']
+    sort_rules_options = ['random', 'big_average_low_std', 'big_average_big_std', 'low_average_low_std', 'equal_behaviour', 'different_behaviour']
 
     # Randomly select a configuration for each key
     config = {
@@ -102,10 +140,11 @@ def generate_random_configuration():
         'case_study': np.random.choice(case_study_options),
         'CA_size': np.random.choice(range(10, 51, 5)),
         'population_size': np.random.choice(range(30, 201, 10)),
-        'input_location': np.random.choice(input_location_options),
+        'input_locations': np.random.choice(input_location_options),
         'input_order': np.random.choice(input_order_options),
         'input_percentage': np.random.rand(),
-        'steps': np.random.randint(10, 30)
+        'steps': np.random.randint(10, 30),
+        'sort_rules': np.random.choice(sort_rules_options)
     }
 
     return config

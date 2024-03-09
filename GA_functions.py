@@ -1,5 +1,6 @@
 import numpy as np
 import cupy as cp
+import os
 
 def rule_to_binary_gpu(rule_number):
     """Convert a rule number to its 8-bit binary representation."""
@@ -214,13 +215,26 @@ def evaluate_fitness(individual, input_output_pairs, input_cells, output_cells, 
 
     return cp.mean(fitness_scores).get()
 
-def initialize_population(CA_size, population_size, percentage, input_locations, input_order):
+def initialize_population(CA_size, population_size, percentage, input_locations, input_order, sort_rules):
     population = []
 
     num_locations = int(CA_size * percentage)
 
-    # Use CuPy to generate the chromosomes directly on the GPU
-    chromosomes = cp.random.randint(0, 256, size=(population_size, CA_size), dtype=cp.int32)
+    if sort_rules == 'random':
+        possible_rules = [i for i in range(255)]
+    if sort_rules == 'big_average_low_std':
+        possible_rules = [105, 165, 122, 129]
+    if sort_rules == 'big_average_big_std':
+        possible_rules = [242, 243, 245, 139, 58, 112]
+    if sort_rules == 'low_average_low_std':
+        possible_rules = [71, 233, 164, 217, 178]
+    if sort_rules == 'equal_behaviour':
+        possible_rules = [137, 193, 110, 124, 147, 54]
+    if sort_rules == 'different_behaviour':
+        possible_rules = [162, 232, 2, 193, 150, 212]
+    # Generating chromosomes from possible_rules using CuPy
+    indices = cp.random.randint(0, len(possible_rules), size=(population_size, CA_size))
+    chromosomes = cp.array(possible_rules)[indices]
 
     for i in range(population_size):
         individual = {'chromosome': chromosomes[i].get()}  # Use .get() to transfer array from GPU to CPU
@@ -246,3 +260,54 @@ def initialize_population(CA_size, population_size, percentage, input_locations,
         population.append(individual)
 
     return population
+
+
+def save_info(mean_fitness_training, mean_fitness_control, best_fitness_training, best_fitness_control, ga_params,
+              base_path):
+    # Determine the file path with an index that doesn't already exist
+    index = 0
+    path = f"{base_path}{index}.txt"
+    while os.path.exists(path):
+        index += 1
+        path = f"{base_path}{index}.txt"
+
+    with open(path, 'w') as file:
+        # Write ga_params details
+        file.write("GA Parameters:\n")
+        for key, value in ga_params.items():
+            file.write(f"{key}: {value}\n")
+
+        # Write mean fitness for training
+        file.write("\nMean Fitness Training:\n")
+        file.write(', '.join(map(str, mean_fitness_training)) + '\n')
+
+        # Write mean fitness for control
+        file.write("\nMean Fitness Control:\n")
+        file.write(', '.join(map(str, mean_fitness_control)) + '\n')
+
+        # Write best fitness for training
+        file.write("\nBest Fitness Training:\n")
+        file.write(', '.join(map(str, best_fitness_training)) + '\n')
+
+        # Write best fitness for control
+        file.write("\nBest Fitness Control:\n")
+        file.write(', '.join(map(str, best_fitness_control)) + '\n')
+
+    print(f"Info saved to: {path}")
+
+def save_chromosomes(best_chromosomes, base_path):
+    # Determine the file path with an index that doesn't already exist
+    index = 0
+    path = f"{base_path}{index}.txt"
+    while os.path.exists(path):
+        index += 1
+        path = f"{base_path}{index}.txt"
+
+    with open(path, 'w') as file:
+        file.write("Best chromosomes:\n")
+        for chromosome in best_chromosomes:
+            # Assuming chromosome is iterable, convert it to a string to write
+            chromosome_str = ', '.join(map(str, chromosome))  # Convert each element to string and join with commas
+            file.write(chromosome_str + '\n')  # Write each chromosome on a new line
+
+    print(f"Info saved to: {path}")
