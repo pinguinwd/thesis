@@ -2,18 +2,19 @@ import numpy as np
 import cupy as cp
 import os
 
-def rule_to_binary_gpu(rule_number):
-    """Convert a rule number to its 8-bit binary representation."""
-    return cp.binary_repr(rule_number, width=8)
+def rule_to_binary_gpu(rule_number, amount_of_cells):
+    binary_string = cp.binary_repr(rule_number, width=amount_of_cells)
+    return [int(bit) for bit in binary_string]  # Convert each bit to an integer
+
 
 def apply_rule_gpu(left, center, right, rule_binary):
     """Apply the rule based on the current and neighbor states."""
     index = 7 - cp.left_shift(left, 2) + cp.left_shift(center, 1) + right
     return rule_binary[index]
 
-def evolve_cellular_automata_gpu(initial_sequence, rule_numbers, steps):
+def evolve_cellular_automata_gpu(initial_sequence, rule_numbers, steps, amount_of_cells):
     # Convert rule numbers to binary representations and prepare rules as a 2D array
-    rules_binary = cp.array([cp.array(list(map(int, rule_to_binary_gpu(rule)))) for rule in rule_numbers])
+    rules_binary = cp.array([rule_to_binary_gpu(int(rule), amount_of_cells) for rule in rule_numbers])
 
     current_sequence = cp.array(initial_sequence)
     for _ in range(steps):
@@ -92,11 +93,11 @@ def hamming_distance(s1, s2):
 
 def euclidean_distance(s1, s2):
     """Calculate the Euclidean distance between two binary strings."""
-    return np.sqrt(sum((el1 - el2) ** 2 for el1, el2 in zip(s1, s2)))
+    return np.sqrt(sum((int(el1) - int(el2)) ** 2 for el1, el2 in zip(s1, s2)))
 
 def manhattan_distance(s1, s2):
     """Calculate the Manhattan distance between two binary strings."""
-    return sum(abs(el1 - el2) for el1, el2 in zip(s1, s2))
+    return sum(abs(int(el1) - int(el2)) for el1, el2 in zip(s1, s2))
 
 def perfect_match_distance(str1, str2):
     """Returns 1 if the strings are perfectly equal, 0 otherwise."""
@@ -211,18 +212,18 @@ def evaluate_fitness(individual, input_output_pairs, input_cells, output_cells, 
         for idx, bit in zip(input_cells, input_binary):
             initial_sequence[idx] = int(bit)
 
-        final_sequence = evolve_cellular_automata_gpu(initial_sequence, individual, steps)
+        final_sequence = evolve_cellular_automata_gpu(initial_sequence, individual, steps, len(input_cells))
 
-        output_binary = ''.join(str(final_sequence[idx].get()) for idx in output_cells)
+        output_binary = ''.join(str(final_sequence[idx]) for idx in output_cells)
         expected_output_binary = format(expected_output, '0' + str(len(output_cells)) + 'b')
 
         # Calculate distance on GPU if possible or transfer data back to CPU for complex operations
         distance = calculate_distance(output_binary, expected_output_binary, distance_method)  # Adapt this for GPU
 
         fitness_score = 1 / (1 + distance)  # Inverse of distance as fitness
-        fitness_scores.append(fitness_score.get())
+        fitness_scores.append(fitness_score)
 
-    return cp.mean(fitness_scores).get()
+    return np.mean(fitness_scores)
 
 def initialize_population(CA_size, population_size, percentage, input_locations, input_order, sort_rules):
     population = []

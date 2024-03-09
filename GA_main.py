@@ -32,33 +32,29 @@ def genetic_algorithm(ga_params):
     best_fitness_control = []
     best_chromosomes = []  # List to track the best chromosome in each generation
     last_control_fitness = None
+    fitnesses_training = []
+    fitnesses_control = []
 
     for generation in range(generations):
-        # Prepare arguments for parallel fitness evaluation for both training and control
-        fitness_evaluation_args_training = []
-        fitness_evaluation_args_control = []
+
         for individual in population:
             input_cells = individual['input_locations']
             output_cells = individual['output_locations']
 
-            fitness_evaluation_args_training.append(
-                (individual['chromosome'], input_output_pairs_training, input_cells, output_cells, ga_params['steps'],
-                 ga_params['distance'])
-            )
 
-            fitness_evaluation_args_control.append(
-                (individual['chromosome'], input_output_pairs_control, input_cells, output_cells, ga_params['steps'],
-                 ga_params['distance'])
-            )
-
-        # Parallel fitness evaluation for training and control
-        with Pool(processes=cpu_count()) as pool:
-            fitnesses_training = pool.starmap(evaluate_fitness, fitness_evaluation_args_training)
+            fitness = evaluate_fitness(individual['chromosome'], input_output_pairs_training, input_cells, output_cells, ga_params['steps'],
+                    ga_params['distance'])
+            fitnesses_training.append(fitness)
 
         if generation % 20 == 0 or generation == 0:
-            with Pool(processes=cpu_count()) as pool:
-                fitnesses_control = pool.starmap(evaluate_fitness, fitness_evaluation_args_control)
-            last_control_fitness = fitness_control
+            for individual in population:
+                input_cells = individual['input_locations']
+                output_cells = individual['output_locations']
+
+                fitnesses = evaluate_fitness(individual['chromosome'], input_output_pairs_control, input_cells, output_cells, ga_params['steps'],
+                    ga_params['distance'])
+                fitnesses_control.append(fitnesses)
+            last_control_fitness = np.mean(fitnesses_control)
         else:
             # Use the last calculated control fitness
             fitness_control = last_control_fitness
@@ -161,7 +157,7 @@ def main():
     # Generate a list of GA configurations based on the number of available CPU cores
     for i in range(100):
         num_cpus = cpu_count()
-        ga_configurations = [generate_random_configuration() for _ in range(num_cpus)]
+        ga_configurations = [generate_random_configuration() for _ in range(int(num_cpus))] #divided by two to fix memory issue
         with ProcessPoolExecutor(max_workers=num_cpus) as executor:
             futures = [executor.submit(run_ga, ga_params) for ga_params in ga_configurations]
             results = [future.result() for future in futures]
