@@ -106,7 +106,16 @@ def perfect_match_distance(str1, str2):
 def generate_input_output_pairs(sort, CA_size, percentage):
     # Calculate the number of bits and total inputs
     num_bits = int(CA_size * percentage)
+
+    if num_bits > 8:
+        num_bits = 8
+
+    if num_bits < 3:
+        num_bits = 3
+
     total_inputs = 2 ** num_bits
+
+
 
     # Choose the output function based on sort
     if sort == 'number_divided_by_two':
@@ -220,6 +229,12 @@ def initialize_population(CA_size, population_size, percentage, input_locations,
 
     num_locations = int(CA_size * percentage)
 
+    if num_locations > 8:
+        num_locations = 8
+
+    if num_locations < 3:
+        num_locations = 3
+
     if sort_rules == 'random':
         possible_rules = [i for i in range(255)]
     if sort_rules == 'big_average_low_std':
@@ -255,7 +270,7 @@ def initialize_population(CA_size, population_size, percentage, input_locations,
             locations = np.sort(locations)
 
         # Assuming input and output locations are the same for simplification
-        individual['input_location'] = individual['output_location'] = locations.tolist()
+        individual['input_locations'] = individual['output_locations'] = locations.tolist()
 
         population.append(individual)
 

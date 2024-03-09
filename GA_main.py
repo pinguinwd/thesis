@@ -39,15 +39,15 @@ def genetic_algorithm(ga_params):
         fitness_evaluation_args_control = []
         for individual in population:
             input_cells = individual['input_locations']
-            output_cells = individual['output_location']
+            output_cells = individual['output_locations']
 
             fitness_evaluation_args_training.append(
-                (individual['chromosome'], input_output_pairs_training, input_cells, output_cells, ga_params[''],
+                (individual['chromosome'], input_output_pairs_training, input_cells, output_cells, ga_params['steps'],
                  ga_params['distance'])
             )
 
             fitness_evaluation_args_control.append(
-                (individual['chromosome'], input_output_pairs_control, input_cells, output_cells, ga_params[''],
+                (individual['chromosome'], input_output_pairs_control, input_cells, output_cells, ga_params['steps'],
                  ga_params['distance'])
             )
 
@@ -112,10 +112,12 @@ def genetic_algorithm(ga_params):
 
 
 def generate_random_configuration():
-    # Define possible configurations for each parameter
+    # Define possible configurations for each parameter, including single-point crossover
     crossover_options = {
         'uniform': {'type': 'uniform', 'rate': np.random.rand()},  # Random rate between 0 and 1
+        'single_point': {'type': 'single_point', 'rate': np.random.rand()},  # Random rate between 0 and 1
     }
+
     mutation_options = {
         'bit_flip': {'type': 'bit_flip', 'rate': np.random.rand()},  # Random rate between 0 and 1
         'gaussian': {'type': 'gaussian', 'std_dev': np.random.uniform(1, 10)},  # Random std dev between 1 and 10
