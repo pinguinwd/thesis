@@ -1,0 +1,8995 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Sutner, K
+AF Sutner, K
+ER
+
+PT C
+AU Karmakar, S
+   Chowdhury, DR
+AF Karmakar, Sandip
+   Chowdhury, Dipanwita Roy
+BE Kari, J
+   Kutrib, M
+   Malcher, A
+ER
+
+PT C
+AU Castillo-Ramirez, A
+   Gadouleau, M
+AF Castillo-Ramirez, Alonso
+   Gadouleau, Maximilien
+BE Cook, M
+   Neary, T
+ER
+
+PT C
+AU Konno, N
+AF Konno, Norio
+BE Umeo, H
+   Morishita, S
+   Nishinari, K
+   Komatsuzaki, T
+   Bandini, S
+ER
+
+PT C
+AU Salo, V
+   Törmä, I
+AF Salo, Ville
+   Torma, Ilkka
+BE Kari, J
+   Kutrib, M
+   Malcher, A
+ER
+
+PT J
+AU Bhardwaj, R
+   Upadhyay, A
+AF Bhardwaj, Rupali
+   Upadhyay, Anil
+ER
+
+PT J
+AU Mingarelli, AB
+AF Mingarelli, Angelo B.
+ER
+
+PT C
+AU Maiti, NS
+   Ghosh, S
+   Chaudhuri, PP
+AF Maiti, Nirmalya Sundar
+   Ghosh, Soumyabrata
+   Chaudhuri, Parimal Pal
+BE Was, J
+   Sirakoulis, GC
+   Bandini, S
+ER
+
+PT J
+AU Bandini, S
+   Mauri, G
+AF Bandini, S
+   Mauri, G
+ER
+
+PT J
+AU Castillo-Ramirez, A
+   Gadouleau, M
+AF Castillo-Ramirez, Alonso
+   Gadouleau, Maximilien
+ER
+
+PT J
+AU Beigy, H
+   Meybodi, MR
+AF Beigy, Hamid
+   Meybodi, M. R.
+ER
+
+PT C
+AU Tsormpatzoglou, GI
+   Karafyllidis, IG
+AF Tsormpatzoglou, Georgios I.
+   Karafyllidis, Ioannis G.
+BE Sirakoulis, GC
+   Bandini, S
+ER
+
+PT C
+AU Kayama, Y
+AF Kayama, Yoshihiko
+BE Sirakoulis, GC
+   Bandini, S
+ER
+
+PT J
+AU Dennunzio, A
+   Guillon, P
+   Masson, B
+AF Dennunzio, Alberto
+   Guillon, Pierre
+   Masson, Beniot
+ER
+
+PT C
+AU Salo, V
+AF Salo, Ville
+BE Kari, J
+ER
+
+PT J
+AU Hibbard, T
+   Jadur, C
+   Yazlle, J
+AF Hibbard, Thomas
+   Jadur, Camilo
+   Yazlle, Jorge
+ER
+
+PT J
+AU Di Lena, P
+   Margara, L
+AF Di Lena, Pietro
+   Margara, Luciano
+ER
+
+PT C
+AU Salo, V
+   Törmä, I
+AF Salo, Ville
+   Torma, Ilkka
+BE Kari, J
+   Kutrib, M
+   Malcher, A
+ER
+
+PT J
+AU Mofrad, MH
+   Sadeghi, S
+   Rezvanian, A
+   Meybodi, MR
+AF Mofrad, Mohammad Hasanzadeh
+   Sadeghi, Sana
+   Rezvanian, Alireza
+   Meybodi, Mohammad Reza
+ER
+
+PT J
+AU Sutner, K
+AF Sutner, Klaus
+ER
+
+PT J
+AU Beigy, H
+   Meybodi, MR
+AF Beigy, Hamid
+   Meybodi, M. R.
+ER
+
+PT J
+AU Freund, R
+   Tafill, F
+AF Freund, Rudolf
+   Tafill, Fritz
+ER
+
+PT C
+AU Alonso-Sanz, R
+AF Alonso-Sanz, Ramon
+BE Kari, J
+   Kutrib, M
+   Malcher, A
+ER
+
+PT C
+AU Plénet, T
+   El Yacoubi, S
+   Raïevsky, C
+   Lefèvre, L
+AF Plenet, Theo
+   El Yacoubi, Samira
+   Raievsky, Clement
+   Lefevre, Laurent
+BE Gwizdalla, TM
+   Manzoni, L
+   Sirakoulis, GC
+   Bandini, S
+   Podlaski, K
+ER
+
+PT J
+AU Jalonen, J
+   Kari, J
+AF Jalonen, Joonatan
+   Kari, Jarkko
+ER
+
+PT J
+AU Boccara, N
+AF Boccara, Nino
+ER
+
+PT J
+AU Kari, J
+   Salo, V
+   Worsch, T
+AF Kari, Jarkko
+   Salo, Ville
+   Worsch, Thomas
+ER
+
+PT J
+AU Alonso-Sanz, R
+AF Alonso-Sanz, Ramon
+ER
+
+PT J
+AU Moriceau, S
+AF Moriceau, Sebastien
+ER
+
+PT C
+AU Fúster-Sabater, A
+   Caballero-Gil, P
+AF Fuster-Sabater, Amparo
+   Caballero-Gil, Pino
+BE Bandini, S
+   Manzoni, S
+   Umeo, H
+   Vizzari, G
+ER
+
+PT J
+AU Arrighi, P
+   Di Molfetta, G
+   Eon, N
+AF Arrighi, Pablo
+   Di Molfetta, Giuseppe
+   Eon, Nathanael
+ER
+
+PT J
+AU Di Lena, P
+AF Di Lena, Pietro
+ER
+
+PT J
+AU Salo, VO
+   Törmä, IA
+AF Salo, Ville O.
+   Torma, Ilkka A.
+ER
+
+PT J
+AU Beigy, H
+   Meybodi, MR
+AF Beigy, H
+   Meybodi, MR
+ER
+
+PT J
+AU Markus, M
+   Hahn, T
+   Kusch, I
+AF Markus, M
+   Hahn, T
+   Kusch, I
+ER
+
+PT C
+AU Chakraborty, K
+   Chowdhury, DR
+AF Chakraborty, Kaushik
+   Chowdhury, Dipanwita Roy
+BE Sirakoulis, GC
+   Bandini, S
+ER
+
+PT C
+AU Barman, D
+   Das, S
+AF Barman, Debopriya
+   Das, Sukanta
+BE Gwizdalla, TM
+   Manzoni, L
+   Sirakoulis, GC
+   Bandini, S
+   Podlaski, K
+ER
+
+PT C
+AU Vorel, J
+AF Vorel, Jakub
+BE Pinto, NN
+   Dourado, J
+   Natalio, A
+ER
+
+PT J
+AU Schonfisch, B
+AF Schonfisch, B
+ER
+
+PT J
+AU Schofisch, B
+   Hadeler, KP
+AF Schofisch, B
+   Hadeler, KP
+ER
+
+PT C
+AU Pérez-Brokate, CF
+   di Caprio, D
+   Féron, D
+   De Lamare, J
+   Chaussé, A
+AF Perez-Brokate, Cristian Felipe
+   di Caprio, Dung
+   Feron, Damien
+   De Lamare, Jacques
+   Chausse, Annie
+BE Was, J
+   Sirakoulis, GC
+   Bandini, S
+ER
+
+PT C
+AU Fatès, N
+AF Fates, Nazim
+BE Dennunzio, A
+   Formenti, E
+   Manzoni, L
+   Porreca, AE
+ER
+
+PT J
+AU Makowiec, D
+AF Makowiec, Danuta
+ER
+
+PT C
+AU Chatzinikolaou, TP
+   Karamani, RE
+   Sirakoulis, GC
+AF Chatzinikolaou, Theodoros Panagiotis
+   Karamani, Rafailia-Eleni
+   Sirakoulis, Georgios Ch
+BE Chopard, B
+   Bandini, S
+   Dennunzio, A
+   Haddad, MA
+ER
+
+PT C
+AU Beigy, H
+   Meybodi, MR
+AF Beigy, H
+   Meybodi, MR
+BE Callaos, N
+   Sanchez, M
+   Pineda, JM
+ER
+
+PT J
+AU Roy, S
+   Barman, D
+   Das, S
+AF Roy, Souvik
+   Barman, Debopriya
+   Das, Sukanta
+ER
+
+PT C
+AU Simek, V
+   Ruzicka, R
+   Crha, A
+   Tesar, R
+AF Simek, Vaclav
+   Ruzicka, Richard
+   Crha, Adam
+   Tesar, Radek
+BE Was, J
+   Sirakoulis, GC
+   Bandini, S
+ER
+
+PT J
+AU Morita, K
+AF Morita, Kenichi
+ER
+
+PT C
+AU Capobianco, S
+AF Capobianco, Silvio
+BE MartinVide, C
+   Otto, F
+   Fernau, H
+ER
+
+PT J
+AU Allouche, JP
+   Von Haeseler, F
+   Lange, E
+   Petersen, A
+   Skordev, G
+AF Allouche, JP
+   Von Haeseler, F
+   Lange, E
+   Petersen, A
+   Skordev, G
+ER
+
+PT J
+AU Matamala, M
+AF Matamala, M
+ER
+
+PT C
+AU Magiera, K
+   Dzwinel, W
+AF Magiera, Krzysztof
+   Dzwinel, Witold
+BE Was, J
+   Sirakoulis, GC
+   Bandini, S
+ER
+
+PT J
+AU Bolognesi, T
+   Ciancia, V
+AF Bolognesi, Tommaso
+   Ciancia, Vincenzo
+ER
+
+PT C
+AU Kari, J
+AF Kari, Jarkko
+BE Isokawa, T
+   Imai, K
+   Matsui, N
+   Peper, F
+   Umeo, H
+ER
+
+PT J
+AU Martin, B
+AF Martin, B
+ER
+
+PT C
+AU Kutrib, M
+   Malcher, A
+   Wendlandt, M
+AF Kutrib, Martin
+   Malcher, Andreas
+   Wendlandt, Matthias
+BE Isokawa, T
+   Imai, K
+   Matsui, N
+   Peper, F
+   Umeo, H
+ER
+
+PT J
+AU Tarakanov, A
+   Prokaev, A
+AF Tarakanov, Alexander
+   Prokaev, Alexander
+ER
+
+PT C
+AU Banerjee, T
+   Chowdhury, DR
+AF Banerjee, Tapadyoti
+   Chowdhury, Dipanwita Roy
+BE Gwizdalla, TM
+   Manzoni, L
+   Sirakoulis, GC
+   Bandini, S
+   Podlaski, K
+ER
+
+PT J
+AU Dennunzio, A
+   Formenti, E
+   Manzoni, L
+AF Dennunzio, Alberto
+   Formenti, Enrico
+   Manzoni, Luca
+ER
+
+PT C
+AU Macauley, M
+   Mortveit, HS
+AF Macauley, Matthew
+   Mortveit, Henning S.
+BE Bandini, S
+   Manzoni, S
+   Umeo, H
+   Vizzari, G
+ER
+
+PT J
+AU Delorme, M
+   Mazoyer, J
+AF Delorme, Marianne
+   Mazoyer, Jacques
+ER
+
+PT C
+AU Bagnoli, F
+   Dridi, S
+   El Yacoubi, S
+   Rechtman, R
+AF Bagnoli, Franco
+   Dridi, Sara
+   El Yacoubi, Samira
+   Rechtman, Raul
+BE Mauri, G
+   Yacoubi, SE
+   Dennunzio, A
+   Nishinari, K
+   Manzoni, L
+ER
+
+PT C
+AU Mraz, M
+   Zimic, N
+   Lapanja, I
+   Bajec, I
+AF Mraz, M
+   Zimic, N
+   Lapanja, I
+   Bajec, I
+GP IEEE COMPUTER SOCIETY
+   IEEE COMPUTER SOCIETY
+ER
+
+PT C
+AU Cervelle, J
+   Guillon, P
+AF Cervelle, Julien
+   Guillon, Pierre
+BE Kucera, L
+   Kucera, A
+ER
+
+PT J
+AU Kokolakis, I
+   Andreadis, I
+   Tsalides, P
+AF Kokolakis, I
+   Andreadis, I
+   Tsalides, P
+ER
+
+PT C
+AU Castillo-Ramirez, A
+   Gadouleau, M
+AF Castillo-Ramirez, Alonso
+   Gadouleau, Maximilien
+BE Dennunzio, A
+   Formenti, E
+   Manzoni, L
+   Porreca, AE
+ER
+
+PT S
+AU Fúster-Sabater, A
+   de la Guía-Martínez, D
+AF Fúster-Sabater, A
+   de la Guía-Martínez, D
+BE Sloot, PMA
+   Chopard, B
+   Hoekstra, AG
+ER
+
+PT J
+AU Kutrib, M
+AF Kutrib, Martin
+ER
+
+PT C
+AU Sidiropoulos, E
+AF Sidiropoulos, Epaminondas
+BE Sirakoulis, GC
+   Bandini, S
+ER
+
+PT J
+AU Dzwinel, W
+   Magiera, K
+AF Dzwinel, Witold
+   Magiera, Krzysztof
+ER
+
+PT J
+AU von Haeseler, F
+AF von Haeseler, Fritz
+ER
+
+PT J
+AU Redeker, M
+   Adamatzky, A
+   Martínez, GJ
+AF Redeker, Markus
+   Adamatzky, Andrew
+   Martinez, Genaro J.
+ER
+
+PT C
+AU Kretzschmar, WA
+   Juuso, I
+AF Kretzschmar, William A.
+   Juuso, Ilkka
+BE Was, J
+   Sirakoulis, GC
+   Bandini, S
+ER
+
+PT C
+AU Di Lena, P
+AF Di Lena, Pietro
+BE Dennunzio, A
+   Formenti, E
+   Manzoni, L
+   Porreca, AE
+ER
+
+PT J
+AU Powley, EJ
+   Stepney, S
+AF Powley, Edward J.
+   Stepney, Susan
+ER
+
+PT C
+AU Hoekstra, AG
+   Falcone, JL
+   Caiazzo, A
+   Chopard, B
+AF Hoekstra, Alfons G.
+   Falcone, Jean-Luc
+   Caiazzo, Alfonso
+   Chopard, Bastien
+BE Umeo, H
+   Morishita, S
+   Nishinari, K
+   Komatsuzaki, T
+   Bandini, S
+ER
+
+PT J
+AU Itoh, M
+   Chua, LO
+AF Itoh, Makoto
+   Chua, Leon O.
+ER
+
+PT J
+AU Sekanina, L
+   Komenda, T
+AF Sekanina, Lukas
+   Komenda, Tomas
+ER
+
+PT J
+AU Anghelescu, P
+   Ionita, S
+   Sofron, E
+AF Anghelescu, Petre
+   Ionita, Silviu
+   Sofron, Emil
+ER
+
+PT J
+AU Capobianco, S
+AF Capobianco, Silvio
+ER
+
+PT J
+AU Martínez, GJ
+AF Martinez, Genaro J.
+ER
+
+PT C
+AU Wongthanavasu, S
+   Ponkaew, J
+AF Wongthanavasu, Sartra
+   Ponkaew, Jesada
+GP IEEE
+ER
+
+PT J
+AU Bolt, W
+   Baetens, JM
+   De Baets, B
+AF Bolt, Witold
+   Baetens, Jan M.
+   De Baets, Bernard
+ER
+
+PT S
+AU Alonso-Sanz, R
+   Martín, M
+AF Alonso-Sanz, Ramon
+   Martin, Margarita
+BE Yacoubi, SE
+   Chopard, B
+   Bandini, S
+ER
+
+PT J
+AU Betel, H
+   Flocchini, P
+AF Betel, Heather
+   Flocchini, Paola
+ER
+
+PT J
+AU Löwe, JT
+AF Löwe, JT
+ER
+
+PT J
+AU Dennunzio, A
+   Formenti, E
+   Provillard, J
+AF Dennunzio, Alberto
+   Formenti, Enrico
+   Provillard, Julien
+ER
+
+PT J
+AU Sutner, K
+AF Sutner, K
+ER
+
+PT C
+AU Makarenko, A
+   Brajon, J
+AF Makarenko, Alexander
+   Brajon, Jordan
+BE Gwizdalla, TM
+   Manzoni, L
+   Sirakoulis, GC
+   Bandini, S
+   Podlaski, K
+ER
+
+PT J
+AU El Yacoubi, S
+   Mingarelli, AB
+AF El Yacoubi, Samira
+   Mingarelli, Angelo B.
+ER
+
+PT C
+AU Makowiec, D
+AF Makowiec, Danuta
+BE Umeo, H
+   Morishita, S
+   Nishinari, K
+   Komatsuzaki, T
+   Bandini, S
+ER
+
+PT J
+AU Kamilya, S
+   Das, S
+   Sikdar, BK
+AF Kamilya, Supreeti
+   Das, Sukanta
+   Sikdar, Biplab K.
+ER
+
+PT J
+AU Sutner, K
+AF Sutner, K
+ER
+
+PT C
+AU Oliveira, GMB
+   Vidica, PM
+AF Oliveira, Gina M. B.
+   Vidica, Paulo M.
+BE Sirakoulis, GC
+   Bandini, S
+ER
+
+PT J
+AU Soto, JMG
+   Avila, DD
+AF Soto, Jose Manuel Gomez
+   Avila, Diego Delgado
+ER
+
+PT C
+AU Mariot, L
+AF Mariot, Luca
+BE ElYacoubi, S
+   Was, J
+   Bandini, S
+ER
+
+PT J
+AU Wolnik, B
+   Dziemianczuk, M
+   De Baets, B
+AF Wolnik, Barbara
+   Dziemianczuk, Maciej
+   De Baets, Bernard
+ER
+
+PT J
+AU Perrotin, P
+AF Perrotin, Pacome
+ER
+
+PT J
+AU Mukhopadhyay, D
+AF Mukhopadhyay, Debdeep
+ER
+
+PT C
+AU Dennunzio, A
+   Formenti, E
+AF Dennunzio, Alberto
+   Formenti, Enrico
+BE Ito, M
+   Toyama, M
+ER
+
+PT C
+AU Minoofam, SAH
+   Bastanfard, A
+AF Minoofam, Seyyed Amir Hadi
+   Bastanfard, Azam
+BE Bandini, S
+   Manzoni, S
+   Umeo, H
+   Vizzari, G
+ER
+
+PT J
+AU Esnaashari, M
+   Meybodi, MR
+AF Esnaashari, Mehdi
+   Meybodi, Mohammad Reza
+ER
+
+PT J
+AU Ollinger, N
+   Theyssier, G
+AF Ollinger, Nicolas
+   Theyssier, Guillaume
+ER
+
+PT J
+AU Kutrib, M
+AF Kutrib, M
+ER
+
+PT J
+AU ADAMIDES, ED
+   TSALIDES, P
+   THANAILAKIS, A
+AF ADAMIDES, ED
+   TSALIDES, P
+   THANAILAKIS, A
+ER
+
+PT J
+AU Maeda, KI
+   Sakama, C
+AF Maeda, Ken-Ichi
+   Sakama, Chiaki
+ER
+
+PT C
+AU Bidlo, M
+   Vasicek, Z
+AF Bidlo, Michal
+   Vasicek, Zdenek
+BE Sirakoulis, GC
+   Bandini, S
+ER
+
+PT J
+AU Chang, CH
+   Yang, YC
+AF Chang, Chih-Hung
+   Yang, Ya-Chu
+ER
+
+PT J
+AU Margenstern, M
+AF Margenstern, Maurice
+ER
+
+PT J
+AU Dürr, C
+   Rapaport, I
+   Theyssier, G
+AF Dürr, C
+   Rapaport, I
+   Theyssier, G
+ER
+
+PT J
+AU Karmakar, S
+   Mukhopadhyay, D
+   Chowdhury, DR
+AF Karmakar, Sandip
+   Mukhopadhyay, Debdeep
+   Chowdhury, Dipanwita Roy
+ER
+
+PT C
+AU Makarenko, A
+   Krushinski, D
+   Musienko, A
+   Goldengorin, B
+AF Makarenko, Alexander
+   Krushinski, Dmitry
+   Musienko, Anton
+   Goldengorin, Boris
+BE Bandini, S
+   Manzoni, S
+   Umeo, H
+   Vizzari, G
+ER
+
+PT J
+AU Dow, RA
+AF Dow, RA
+ER
+
+PT J
+AU Lárraga, ME
+   Alvarez-Icaza, L
+AF Larraga, M. E.
+   Alvarez-Icaza, L.
+ER
+
+PT C
+AU Tanimoto, N
+   Imai, K
+AF Tanimoto, Naonori
+   Imai, Katsunobu
+BE Umeo, H
+   Morishita, S
+   Nishinari, K
+   Komatsuzaki, T
+   Bandini, S
+ER
+
+PT C
+AU Li, X
+   Chen, YM
+   Ai, B
+AF Li, Xia
+   Chen, Yimin
+   Ai, Bin
+BE Pinto, NN
+   Dourado, J
+   Natalio, A
+ER
+
+PT J
+AU Mazoyer, J
+   Terrier, V
+AF Mazoyer, J
+   Terrier, V
+ER
+
+PT C
+AU Gullace, F
+   Avolio, MV
+   Di Gregorio, S
+AF Gullace, Francesco
+   Avolio, Maria Vittoria
+   Di Gregorio, Salvatore
+BE Was, J
+   Sirakoulis, GC
+   Bandini, S
+ER
+
+PT J
+AU Tougaw, D
+   Will, JD
+AF Tougaw, Douglas
+   Will, Jeffrey D.
+ER
+
+PT J
+AU Jadur, C
+   Nasu, M
+   Yazlle, J
+AF Jadur, Camilo
+   Nasu, Masakazu
+   Yazlle, Jorge
+ER
+
+PT J
+AU Banerjee, T
+   Chowdhury, DR
+AF Banerjee, Tapadyoti
+   Chowdhury, Dipanwita Roy
+ER
+
+PT J
+AU Mitra, A
+   Teodorescu, HN
+AF Mitra, Arnab
+   Teodorescu, Horia-Nicolai
+ER
+
+PT C
+AU Makarenko, A
+   Popov, A
+   Pribega, V
+AF Makarenko, Alexander
+   Popov, Anton
+   Pribega, Volodimir
+BE Chopard, B
+   Bandini, S
+   Dennunzio, A
+   Haddad, MA
+ER
+
+PT C
+AU Joseph, J
+   Jacob, J
+   Abinshad, MK
+   Ambili, KN
+   Jose, J
+AF Joseph, Jossy
+   Jacob, Joseph
+   Abinshad, M. K.
+   Ambili, K. N.
+   Jose, Jimmy
+BE Gwizdalla, TM
+   Manzoni, L
+   Sirakoulis, GC
+   Bandini, S
+   Podlaski, K
+ER
+
+PT J
+AU Durand, B
+   Formenti, E
+   Róka, Z
+AF Durand, B
+   Formenti, E
+   Róka, Z
+ER
+
+PT J
+AU ADAMATZKY, AI
+AF ADAMATZKY, AI
+ER
+
+PT C
+AU Guillon, P
+   Richard, G
+AF Guillon, Pierre
+   Richard, Gaetan
+BE Marion, JY
+   Schwentick, T
+ER
+
+PT C
+AU Ishida, T
+   Inokuchi, S
+   Kawahara, Y
+AF Ishida, Toshikazu
+   Inokuchi, Shuichi
+   Kawahara, Yasuo
+BE Was, J
+   Sirakoulis, GC
+   Bandini, S
+ER
+
+PT J
+AU Di Lena, P
+   Margara, L
+AF Di Lena, Pietro
+   Margara, Luciano
+ER
+
+PT J
+AU Flocchini, P
+   Cezar, V
+AF Flocchini, Paola
+   Cezar, Vladimir
+ER
+
+PT J
+AU Yukita, S
+AF Yukita, S
+ER
+
+PT C
+AU Perzynski, K
+   Sitko, M
+   Madej, L
+AF Perzynski, Konrad
+   Sitko, Mateusz
+   Madej, Lukasz
+BE Was, J
+   Sirakoulis, GC
+   Bandini, S
+ER
+
+PT C
+AU Das, S
+   Saha, M
+   Sikdar, BK
+AF Das, Sukanta
+   Saha, Meghnath
+   Sikdar, Biplab K.
+GP IEEE
+ER
+
+PT J
+AU Chemlal, R
+AF Chemlal, Rezki
+ER
+
+PT C
+AU Delacourt, M
+   Ollinger, N
+AF Delacourt, Martin
+   Ollinger, Nicolas
+BE Kari, J
+   Manea, F
+   Petre, I
+ER
+
+PT J
+AU Inui, N
+   Nakamura, K
+   Ide, Y
+   Konno, N
+AF Inui, Norio
+   Nakamura, Kazuya
+   Ide, Yusuke
+   Konno, Norio
+ER
+
+PT C
+AU Wang, H
+   Zhang, YJ
+   Liu, HZ
+AF Wang, Hong
+   Zhang, Yunjie
+   Liu, Hongze
+GP IEEE
+ER
+
+PT C
+AU Gwizdalla, TM
+AF Gwizdalla, Tomasz M.
+BE Sirakoulis, GC
+   Bandini, S
+ER
+
+PT J
+AU Taati, S
+AF Taati, Siamak
+ER
+
+PT J
+AU Plénet, T
+   El Yacoubi, S
+   Raievsky, C
+   Lefévre, L
+AF Plenet, Theo
+   El Yacoubi, Samira
+   Raievsky, Clement
+   Lefevre, Laurent
+ER
+
+PT C
+AU Gasior, J
+   Seredynski, F
+AF Gasior, Jakub
+   Seredynski, Franciszek
+BE ElYacoubi, S
+   Was, J
+   Bandini, S
+ER
+
+PT C
+AU Fúster-Sabater, A
+   Caballero-Gil, P
+   Delgado, O
+AF Fuster-Sabater, A.
+   Caballero-Gil, P.
+   Delgado, O.
+BE Umeo, H
+   Morishita, S
+   Nishinari, K
+   Komatsuzaki, T
+   Bandini, S
+ER
+
+PT J
+AU Boccara, N
+AF Boccara, Nino
+ER
+
+PT J
+AU Schumann, A
+AF Schumann, Andrew
+ER
+
+PT J
+AU Freiwald, U
+   Weimar, JR
+AF Freiwald, U
+   Weimar, JR
+ER
+
+PT J
+AU Turney, PD
+AF Turney, Peter D.
+ER
+
+PT S
+AU Porter, R
+   Bergmann, N
+AF Porter, R
+   Bergmann, N
+BE McKay, B
+   Yao, X
+   Newton, CS
+   Kim, JH
+   Furuhashi, T
+ER
+
+PT J
+AU Costa, PCS
+   Portugal, R
+   de Melo, F
+AF Costa, Pedro C. S.
+   Portugal, Renato
+   de Melo, Fernando
+ER
+
+PT C
+AU Makarenko, A
+   Musienko, A
+   Popova, A
+   Poveshenko, G
+   Samorodov, E
+   Trofimenko, A
+AF Makarenko, Alexander
+   Musienko, Anton
+   Popova, Anna
+   Poveshenko, Gennadiy
+   Samorodov, Evgeniy
+   Trofimenko, Alexander
+BE Sirakoulis, GC
+   Bandini, S
+ER
+
+PT C
+AU Yu, YC
+   Wang, JD
+   Ding, JL
+AF Yu Yuecheng
+   Wang Jiandong
+   Ding Jianli
+BE Luo, Q
+   Yi, JU
+   Bin, C
+ER
+
+PT J
+AU Ban, JC
+   Chang, CH
+   Chen, TJ
+   Lin, MS
+AF Ban, Jung-Chao
+   Chang, Chih-Hung
+   Chen, Ting-Ju
+   Lin, Mei-Shao
+ER
+
+PT J
+AU Ahmed, E
+   Elgazzar, AS
+AF Ahmed, E
+   Elgazzar, AS
+ER
+
+PT C
+AU Fuks, H
+AF Fuks, Henryk
+BE Chopard, B
+   Bandini, S
+   Dennunzio, A
+   Haddad, MA
+ER
+
+PT J
+AU Siap, I
+   Akin, H
+   Uguz, S
+AF Siap, Irfan
+   Akin, Hasan
+   Uguz, Selman
+ER
+
+PT J
+AU Kutrib, M
+   Worsch, T
+AF Kutrib, Martin
+   Worsch, Thomas
+ER
+
+PT J
+AU Delorme, M
+   Mazoyer, J
+   Ollinger, N
+   Theyssier, G
+AF Delorme, M.
+   Mazoyer, J.
+   Ollinger, N.
+   Theyssier, G.
+ER
+
+PT J
+AU Martínez, GJ
+   Adamatzky, A
+   Stephens, CR
+   Hoeflich, AF
+AF Martinez, Genaro J.
+   Adamatzky, Andrew
+   Stephens, Christopher R.
+   Hoeflich, Alejandro F.
+ER
+
+PT J
+AU Fuks, H
+   Sullivan, K
+AF Fuks, Henryk
+   Sullivan, Kate
+ER
+
+PT J
+AU Goles, E
+   Montalva-Medel, M
+   Mortveit, H
+   Ramirez-Flandes, S
+AF Goles, Eric
+   Montalva-Medel, Marco
+   Mortveit, Henning
+   Ramirez-Flandes, Salvador
+ER
+
+PT C
+AU Mukhopadhyay, D
+AF Mukhopadhyay, Debdeep
+BE Sirakoulis, GC
+   Bandini, S
+ER
+
+PT J
+AU Fuks, H
+AF Fuks, Henryk
+ER
+
+PT J
+AU Shahryari, M
+AF Shahryari, Mohammad
+ER
+
+PT S
+AU Gobron, S
+   Finck, D
+   Even, P
+   Kerautret, B
+AF Gobron, Stephane
+   Finck, Denis
+   Even, Philippe
+   Kerautret, Bertrand
+BE Yacoubi, SE
+   Chopard, B
+   Bandini, S
+ER
+
+PT J
+AU Di Lena, P
+   Margara, L
+AF Di Lena, P.
+   Margara, L.
+ER
+
+PT C
+AU Garner, J
+   Ashlock, D
+AF Garner, Jennifer
+   Ashlock, Daniel
+GP IEEE
+ER
+
+PT J
+AU Edvardsson, E
+   Mossberg, E
+AF Edvardsson, Elisabet
+   Mossberg, Eva
+ER
+
+PT J
+AU Li, XW
+   Cho, SJ
+   Kim, ST
+AF Li, Xiao-wei
+   Cho, Sung-jin
+   Kim, Seok-tae
+ER
+
+PT C
+AU Das, S
+   Chowdhury, DR
+AF Das, Sourav
+   Chowdhury, Dipanwita Roy
+BE Bandini, S
+   Manzoni, S
+   Umeo, H
+   Vizzari, G
+ER
+
+PT J
+AU Burkhead, EG
+   Hawkins, JM
+AF Burkhead, E. G.
+   Hawkins, J. M.
+ER
+
+PT J
+AU Allouche, JP
+   Skordev, G
+AF Allouche, JP
+   Skordev, G
+ER
+
+PT J
+AU Guan, JB
+   Chen, FY
+AF Guan, Junbiao
+   Chen, Fangyue
+ER
+
+PT J
+AU Peper, F
+   Isokawa, T
+   Kouda, N
+   Matsui, N
+AF Peper, F
+   Isokawa, T
+   Kouda, N
+   Matsui, N
+ER
+
+PT C
+AU Formenti, E
+   Paquelin, JL
+AF Formenti, Enrico
+   Paquelin, Jean-Louis
+BE Gwizdalla, TM
+   Manzoni, L
+   Sirakoulis, GC
+   Bandini, S
+   Podlaski, K
+ER
+
+PT J
+AU POMEAU, Y
+AF POMEAU, Y
+ER
+
+PT J
+AU Moraal, H
+AF Moraal, H
+ER
+
+PT J
+AU Terrier, V
+AF Terrier, V
+ER
+
+PT C
+AU Andreica, A
+AF Andreica, Anca
+BE Hong, H
+   Negru, V
+   Petcu, D
+   Zaharie, D
+ER
+
+PT C
+AU Carrieri, A
+   Crociani, L
+   Vizzari, G
+   Bandini, S
+AF Carrieri, Antonio
+   Crociani, Luca
+   Vizzari, Giuseppe
+   Bandini, Stefania
+BE Mauri, G
+   Yacoubi, SE
+   Dennunzio, A
+   Nishinari, K
+   Manzoni, L
+ER
+
+PT J
+AU Bernardi, V
+   Durand, B
+   Formenti, E
+   Kari, J
+AF Bernardi, V
+   Durand, B
+   Formenti, E
+   Kari, J
+ER
+
+PT J
+AU STEIF, JE
+AF STEIF, JE
+ER
+
+PT C
+AU Lugo, I
+   Valdivia, M
+AF Lugo, Igor
+   Valdivia, Marcos
+BE Pinto, NN
+   Dourado, J
+   Natalio, A
+ER
+
+PT J
+AU Roy, S
+   Paul, S
+   Das, S
+AF Roy, Souvik
+   Paul, Subrata
+   Das, Sukanta
+ER
+
+PT J
+AU Kutrib, M
+   Vollmar, R
+   Worsch, T
+AF Kutrib, M
+   Vollmar, R
+   Worsch, T
+ER
+
+PT J
+AU Schumann, A
+AF Schumann, Andrew
+ER
+
+PT J
+AU Mardiris, VA
+   Sirakoulis, GC
+   Karafyllidis, IG
+AF Mardiris, Vassilios A.
+   Sirakoulis, Georgios Ch.
+   Karafyllidis, Ioannis G.
+ER
+
+PT J
+AU Goles, E
+   Lobos, F
+   Montealegre, P
+   Ruivo, ELP
+   de Oliveira, PPB
+AF Goles, Eric
+   Lobos, Fabiola
+   Montealegre, Pedro
+   Ruivo, Eurico L. P.
+   de Oliveira, Pedro P. B.
+ER
+
+PT C
+AU Anghelescu, P
+   Ionita, S
+   Bostan, I
+AF Anghelescu, Petre
+   Ionita, Silviu
+   Bostan, Ionel
+BE Abraham, A
+   Herrera, F
+   Carvalho, A
+   Pai, V
+ER
+
+PT J
+AU Baldwin, JT
+   Shelah, S
+AF Baldwin, JT
+   Shelah, S
+ER
+
+PT J
+AU Imai, K
+   Iwamoto, C
+   Morita, K
+AF Imai, Katsunobu
+   Iwamoto, Chuzo
+   Morita, Kenichi
+ER
+
+PT C
+AU Ivanac, V
+   Basic, BD
+   Vanjak, Z
+AF Ivanac, Vedran
+   Basic, Bojana Dalbelo
+   Vanjak, Zvonimir
+BE Sirakoulis, GC
+   Bandini, S
+ER
+
+PT B
+AU Blair, HA
+   Dushin, F
+   Humenn, P
+AF Blair, HA
+   Dushin, F
+   Humenn, P
+BE Dix, J
+   Furbach, U
+   Nerode, A
+ER
+
+PT C
+AU Peper, F
+   Bandyopadhyay, A
+   Oono, H
+   Sahu, S
+   Pati, R
+   Ghosh, S
+   Isokawa, T
+   Fujita, D
+AF Peper, Ferdinand
+   Bandyopadhyay, Anirban
+   Oono, Hiroshi
+   Sahu, Satyajit
+   Pati, Ranjit
+   Ghosh, Subrata
+   Isokawa, Teijiro
+   Fujita, Daisuke
+BE Fujita, H
+   Sasaki, J
+ER
+
+PT J
+AU Goncu, E
+   Yalcin, ME
+AF Goncu, Emre
+   Yalcin, Mustak E.
+ER
+
+PT J
+AU Fatès, N
+AF Fates, Nazim
+ER
+
+PT J
+AU Beros, A
+   Chyba, M
+   Markovichenko, O
+AF Beros, Achilles
+   Chyba, Monique
+   Markovichenko, Oleksandr
+ER
+
+PT C
+AU Marzolla, M
+AF Marzolla, Moreno
+BE Mauri, G
+   Yacoubi, SE
+   Dennunzio, A
+   Nishinari, K
+   Manzoni, L
+ER
+
+PT C
+AU Cervelle, J
+   Formenti, E
+   Guillon, P
+AF Cervelle, Julien
+   Formenti, Enrico
+   Guillon, Pierre
+BE Cooper, SB
+   Lowe, B
+   Sorbi, A
+ER
+
+PT J
+AU Chang, CH
+AF Chang, Chih-Hung
+ER
+
+PT J
+AU Maji, P
+AF Maji, Pradipta
+ER
+
+PT J
+AU El Yacoubi, S
+   El Jai, A
+AF El Yacoubi, S
+   El Jai, A
+ER
+
+PT C
+AU de Oliveira, PPB
+AF de Oliveira, Pedro P. B.
+BE Kari, J
+   Kutrib, M
+   Malcher, A
+ER
+
+PT J
+AU Dekking, FM
+   Van Driel, L
+   Fey, A
+AF Dekking, F. Michel
+   Van Driel, Leonard
+   Fey, Anne
+ER
+
+PT J
+AU Takada, Y
+   Isokawa, T
+   Peper, F
+   Matsui, N
+AF Takada, Yousuke
+   Isokawa, Teijiro
+   Peper, Ferdinand
+   Matsui, Nobuyuki
+ER
+
+PT J
+AU Dündar, EB
+   Korkmaz, EE
+AF Dundar, Enes Burak
+   Korkmaz, Emin Erkan
+ER
+
+PT C
+AU Silva, F
+   Correia, L
+AF Silva, Fernando
+   Correia, Luis
+BE Sirakoulis, GC
+   Bandini, S
+ER
+
+PT C
+AU Piwonska, A
+   Seredynski, F
+   Szaban, M
+AF Piwonska, Anna
+   Seredynski, Franciszek
+   Szaban, Miroslaw
+BE Sirakoulis, GC
+   Bandini, S
+ER
+
+PT J
+AU Schaller, M
+   Svozil, K
+AF Schaller, Martin
+   Svozil, Kari
+ER
+
+PT J
+AU Castillo-Ramirez, A
+   Gadouleau, M
+AF Castillo-Ramirez, Alonso
+   Gadouleau, Maximilien
+ER
+
+PT J
+AU Zhao, Y
+   Billings, SA
+AF Zhao, Y.
+   Billings, S. A.
+ER
+
+PT C
+AU Bi, YH
+   Zhang, YJ
+   Chen, Y
+AF Bi, Yanhui
+   Zhang, Yunjie
+   Chen, Ying
+GP IEEE
+ER
+
+PT J
+AU Agapie, A
+   Andreica, A
+   Giuclea, M
+AF Agapie, Alexandru
+   Andreica, Anca
+   Giuclea, Marius
+ER
+
+PT J
+AU Balister, P
+   Bollobás, B
+   Morris, R
+   Smith, P
+AF Balister, Paul
+   Bollobas, Bela
+   Morris, Robert
+   Smith, Paul
+ER
+
+PT J
+AU Adamatzky, A
+   Chua, L
+AF Adamatzky, Andrew
+   Chua, Leon
+ER
+
+PT J
+AU Hassan, YF
+AF Hassan, Yasser F.
+ER
+
+PT C
+AU Enayatifar, R
+   Meybodi, MR
+AF Enayatifar, R.
+   Meybodi, M. R.
+GP IEEE COMPUTER SOC
+ER
+
+PT J
+AU Goles, E
+   Guillon, P
+   Rapaport, I
+AF Goles, Eric
+   Guillon, Pierre
+   Rapaport, Ivan
+ER
+
+PT J
+AU Quieta, MT
+   Guan, SU
+AF Quieta, MT
+   Guan, SU
+ER
+
+PT C
+AU Plénet, T
+   El Yacoubi, S
+   Raievsky, C
+   Lefèvre, L
+   Bagnoli, F
+AF Plenet, Theo
+   El Yacoubi, Samira
+   Raievsky, Clement
+   Lefevre, Laurent
+   Bagnoli, Franco
+BE Chopard, B
+   Bandini, S
+   Dennunzio, A
+   Haddad, MA
+ER
+
+PT J
+AU Mayer, GR
+   Sarjoughian, HS
+AF Mayer, Gary R.
+   Sarjoughian, Hessam S.
+ER
+
+PT J
+AU Del Rey, AM
+   Sánchez, GR
+AF Del Rey, A. Martin
+   Rodriguez Sanchez, G.
+ER
+
+PT C
+AU Piwonska, A
+   Seredynski, F
+AF Piwonska, Anna
+   Seredynski, Franciszek
+BE Bandini, S
+   Manzoni, S
+   Umeo, H
+   Vizzari, G
+ER
+
+PT J
+AU Formenti, E
+   Grange, A
+AF Formenti, E
+   Grange, A
+ER
+
+PT C
+AU Zagoris, K
+   Pratikakis, I
+AF Zagoris, Konstantinos
+   Pratikakis, Ioannis
+BE Sirakoulis, GC
+   Bandini, S
+ER
+
+PT C
+AU Mariot, L
+   Leporati, A
+AF Mariot, Luca
+   Leporati, Alberto
+BE Mauri, G
+   Yacoubi, SE
+   Dennunzio, A
+   Nishinari, K
+   Manzoni, L
+ER
+
+PT C
+AU Toupance, PA
+   Chopard, B
+   Lefèvre, L
+AF Toupance, Pierre-Alain
+   Chopard, Bastien
+   Lefevre, Laurent
+BE Chopard, B
+   Bandini, S
+   Dennunzio, A
+   Haddad, MA
+ER
+
+PT C
+AU Laspidou, CS
+   Liakopoulos, A
+   Spiliotopoulos, MG
+AF Laspidou, Chrysi S.
+   Liakopoulos, Antonis
+   Spiliotopoulos, Marios G.
+BE Sirakoulis, GC
+   Bandini, S
+ER
+
+PT J
+AU Akin, H
+   Ban, JC
+   Chang, CH
+AF Akin, Hasan
+   Ban, Jung-Chao
+   Chang, Chih-Hung
+ER
+
+PT C
+AU Mariot, L
+   Formenti, E
+   Leporati, A
+AF Mariot, Luca
+   Formenti, Enrico
+   Leporati, Alberto
+BE Dennunzio, A
+   Formenti, E
+   Manzoni, L
+   Porreca, AE
+ER
+
+PT C
+AU Tachibana, K
+   Takebayashi, R
+   Urneo, H
+AF Tachibana, Koutarou
+   Takebayashi, Ryoh
+   Urneo, Hiroshi
+GP IEEE
+ER
+
+PT C
+AU Hodgkinson, A
+AF Hodgkinson, Arran
+BE Mauri, G
+   Yacoubi, SE
+   Dennunzio, A
+   Nishinari, K
+   Manzoni, L
+ER
+
+PT C
+AU Szaban, M
+   Seredynski, F
+AF Szaban, Miroslaw
+   Seredynski, Franciszek
+BE Umeo, H
+   Morishita, S
+   Nishinari, K
+   Komatsuzaki, T
+   Bandini, S
+ER
+
+PT J
+AU Freitas, JA
+   Severino, R
+AF Freitas, Jose Antonio
+   Severino, Ricardo
+ER
+
+PT J
+AU Salo, V
+AF Salo, Ville
+ER
+
+PT C
+AU Lukasz, B
+   Janusz, S
+   Dung, DC
+AF Lukasz, Bartosik
+   Janusz, Stafiej
+   Dung, Di Caprio
+BE Was, J
+   Sirakoulis, GC
+   Bandini, S
+ER
+
+PT J
+AU Salo, V
+AF Salo, Ville
+ER
+
+PT J
+AU Dennunzio, A
+   Formenti, E
+   Manzoni, L
+   Mauri, G
+AF Dennunzio, Alberto
+   Formenti, Enrico
+   Manzoni, Luca
+   Mauri, Giancarlo
+ER
+
+PT C
+AU Salo, V
+   Törmä, I
+AF Salo, Ville
+   Torma, Ilkka
+BE Kari, J
+   Manea, F
+   Petre, I
+ER
+
+PT J
+AU Pivato, M
+AF Pivato, Marcus
+ER
+
+PT J
+AU Goles, E
+   Maldonado, D
+   Montealegre, P
+   Ríos-Wilson, M
+AF Goles, Eric
+   Maldonado, Diego
+   Montealegre, Pedro
+   Rios-Wilson, Martin
+ER
+
+PT J
+AU Sutner, K
+AF Sutner, Klaus
+ER
+
+PT C
+AU Ghosh, M
+   Kumar, R
+   Saha, M
+   Sikdar, BK
+AF Ghosh, Manisha
+   Kumar, Rajeev
+   Saha, Mousumi
+   Sikdar, Biplab K.
+GP IEEE
+ER
+
+PT J
+AU Hassan, Y
+   Tazaki, E
+AF Hassan, Y
+   Tazaki, E
+ER
+
+PT C
+AU Lima, DA
+   Tinoco, CR
+   Oliveira, GMB
+AF Lima, Danielli A.
+   Tinoco, Claudiney R.
+   Oliveira, Gina M. B.
+BE ElYacoubi, S
+   Was, J
+   Bandini, S
+ER
+
+PT C
+AU Yarahmadi, A
+   Setayeshi, S
+AF Yarahmadi, Ali
+   Setayeshi, Saeed
+BE AlDabass, D
+   Pantelous, A
+   Orsoni, A
+   Abraham, A
+ER
+
+PT S
+AU Golzari, S
+   Meybodi, MR
+AF Golzari, Shahram
+   Meybodi, Mohammad Reza
+BE Yacoubi, SE
+   Chopard, B
+   Bandini, S
+ER
+
+PT J
+AU Morita, K
+AF Morita, Kenichi
+ER
+
+PT J
+AU Manzoni, L
+AF Manzoni, Luca
+ER
+
+PT J
+AU Dantchev, S
+AF Dantchev, Stefan
+ER
+
+PT J
+AU Rajasekaran, S
+   Amalraj, R
+AF Rajasekaran, S
+   Amalraj, R
+ER
+
+PT J
+AU Morita, K
+   Margenstern, N
+   Imai, K
+AF Morita, K
+   Margenstern, N
+   Imai, K
+ER
+
+PT J
+AU Alonso-Sanz, R
+   Bull, L
+AF Alonso-Sanz, Ramon
+   Bull, Larry
+ER
+
+PT J
+AU Finkel, O
+AF Finkel, Olivier
+ER
+
+PT J
+AU Wu, CH
+AF Wu, C. H.
+ER
+
+PT J
+AU Coven, EM
+   Pivato, M
+   Yassawi, R
+AF Coven, Ethan M.
+   Pivato, Marcus
+   Yassawi, Reem
+ER
+
+PT J
+AU Plénet, T
+   Bagnoli, F
+   El Yacoubi, S
+   Raïevsky, C
+   Lefèvre, L
+AF Plenet, Theo
+   Bagnoli, Franco
+   El Yacoubi, Samira
+   Raievsky, Clement
+   Lefevre, Laurent
+ER
+
+PT J
+AU Inokuchi, S
+   Ito, T
+   Fujio, M
+   Mizoguchi, Y
+AF Inokuchi, Shuichi
+   Ito, Takahiro
+   Fujio, Mitsuhiko
+   Mizoguchi, Yoshihiro
+ER
+
+PT C
+AU Sundaram, GS
+   Pavithra, S
+   Arthi, A
+   Bala, BM
+   Mahalakshmi, S
+AF Sundaram, G. Shanmuga
+   Pavithra, S.
+   Arthi, A.
+   Bala, B. Madu
+   Mahalakshmi, S.
+GP IEEE
+ER
+
+PT C
+AU Vispoel, M
+   Daly, AJ
+   Baetens, JM
+AF Vispoel, Milan
+   Daly, Aisling J.
+   Baetens, Jan M.
+BE Chopard, B
+   Bandini, S
+   Dennunzio, A
+   Haddad, MA
+ER
+
+PT C
+AU Kumar, S
+   Rao, S
+AF Kumar, Shailesh
+   Rao, Shrisha
+BE Lee, G
+ER
+
+PT S
+AU Fúster-Sabater, A
+   Caballero-Gil, P
+AF Fuster-Sabater, A.
+   Caballero-Gil, P.
+BE Yacoubi, SE
+   Chopard, B
+   Bandini, S
+ER
+
+PT J
+AU ALLINSON, NM
+   SALES, MJ
+AF ALLINSON, NM
+   SALES, MJ
+ER
+
+PT J
+AU Kroczek, L
+   Zelinka, I
+AF Kroczek, Lukas
+   Zelinka, Ivan
+ER
+
+PT J
+AU Adamatzky, A
+AF Adamatzky, A
+ER
+
+PT J
+AU Margenstern, M
+AF Margenstern, Maurice
+ER
+
+PT J
+AU Betel, H
+   Flocchini, P
+AF Betel, Heather
+   Flocchini, Paola
+ER
+
+PT J
+AU Dennunzio, A
+   Formenti, E
+   Di Lena, P
+   Margara, L
+AF Dennunzio, Alberto
+   Formenti, Enrico
+   Di Lena, Pietro
+   Margara, Luciano
+ER
+
+PT S
+AU Theyssier, G
+AF Theyssier, G
+BE Diekert, V
+   Durand, B
+ER
+
+PT C
+AU Kawaharada, A
+   Shoji, E
+   Nishimori, H
+   Awazu, A
+   Izumi, S
+   Iima, M
+AF Kawaharada, Akane
+   Shoji, Erika
+   Nishimori, Hiraku
+   Awazu, Akinori
+   Izumi, Shunsuke
+   Iima, Makoto
+BE Suzuki, Y
+   Hagiya, M
+ER
+
+PT J
+AU Roy, S
+AF Roy, Souvik
+ER
+
+PT C
+AU Zaloudek, L
+   Sekanina, L
+   Simek, V
+AF Zaloudek, Ludek
+   Sekanina, Lukas
+   Simek, Vaclav
+GP IEEE
+ER
+
+PT C
+AU Golab, R
+   Sitko, M
+   Szyndler, J
+   Madej, L
+AF Golab, Rafal
+   Sitko, Mateusz
+   Szyndler, Joanna
+   Madej, Lukasz
+BE Was, J
+   Sirakoulis, GC
+   Bandini, S
+ER
+
+PT J
+AU Kurka, P
+AF Kurka, P
+ER
+
+PT J
+AU Karamani, RE
+   Fyrigos, IA
+   Tsakalos, KA
+   Ntinas, V
+   Tsompanas, MA
+   Sirakoulis, GC
+AF Karamani, Rafailia-Eleni
+   Fyrigos, Iosif-Angelos
+   Tsakalos, Karolos-Alexandros
+   Ntinas, Vasileios
+   Tsompanas, Michail-Antisthenis
+   Sirakoulis, Georgios Ch
+ER
+
+PT C
+AU Peldek, S
+   Becerikli, Y
+AF Peldek, Serkan
+   Becerikli, Yesar
+BE Adali, E
+ER
+
+PT C
+AU Barbé, A
+   Von Haeseler, F
+AF Barbé, A
+   Von Haeseler, F
+BE Novak, MM
+ER
+
+PT J
+AU Worsch, T
+AF Worsch, T
+ER
+
+PT C
+AU Avolio, MV
+   Errera, A
+   Lupiano, V
+   Mazzanti, P
+   Di Gregorio, S
+AF Avolio, Maria Vittoria
+   Errera, Alessia
+   Lupiano, Valeria
+   Mazzanti, Paolo
+   Di Gregorio, Salvatore
+BE Bandini, S
+   Manzoni, S
+   Umeo, H
+   Vizzari, G
+ER
+
+PT S
+AU Fúster-Sabater, A
+   de la Guía-Martínez, D
+AF Fúster-Sabater, A
+   de la Guía-Martínez, D
+BE Palade, V
+   Howlett, RJ
+   Jain, L
+ER
+
+PT C
+AU Das, S
+   Shaw, C
+   Sikdar, BK
+AF Das, Sukanta
+   Shaw, Chandrama
+   Sikdar, Biplab K.
+BE Umeo, H
+   Morishita, S
+   Nishinari, K
+   Komatsuzaki, T
+   Bandini, S
+ER
+
+PT C
+AU Saharia, V
+   Ghosh, R
+   Alam, J
+   Kumar, A
+   Deo, M
+AF Saharia, Vipin
+   Ghosh, Ria
+   Alam, Jahangir
+   Kumar, Amit
+   Deo, Manish
+GP IEEE
+ER
+
+PT C
+AU Ayyagari, T
+   Saji, A
+   John, A
+   Jose, J
+AF Ayyagari, Tarun
+   Saji, Anirudh
+   John, Anita
+   Jose, Jimmy
+BE Chopard, B
+   Bandini, S
+   Dennunzio, A
+   Haddad, MA
+ER
+
+PT J
+AU Salo, V
+   Theyssier, G
+   Törmä, I
+AF Salo, Ville
+   Theyssier, Guillaume
+   Torma, Ilkka
+ER
+
+PT C
+AU Jose, J
+   Chowdhury, DR
+AF Jose, Jimmy
+   Chowdhury, Dipanwita Roy
+BE ElYacoubi, S
+   Was, J
+   Bandini, S
+ER
+
+PT J
+AU Sethi, B
+   Roy, S
+   Das, S
+AF Sethi, Biswanath
+   Roy, Souvik
+   Das, Sukanta
+ER
+
+PT J
+AU Viher, B
+   Dobnikar, A
+   Zazula, D
+AF Viher, B
+   Dobnikar, A
+   Zazula, D
+ER
+
+PT J
+AU Das, S
+   Chakraborty, MK
+AF Das, Sukanta
+   Chakraborty, Mihir K.
+ER
+
+PT C
+AU Khanjary, M
+AF Khanjary, Mohammad
+BE Smys, S
+   Tavares, JMRS
+   Balas, VE
+ER
+
+PT C
+AU Wacker, S
+AF Wacker, Simon
+BE ElYacoubi, S
+   Was, J
+   Bandini, S
+ER
+
+PT C
+AU Uguz, S
+   Sahin, U
+   Sahin, F
+AF Uguz, Selman
+   Sahin, Ugur
+   Sahin, Ferat
+GP IEEE
+ER
+
+PT J
+AU Törmä, I
+AF Torma, Ilkka
+ER
+
+PT C
+AU Lin, Y
+   Mynett, A
+   Chen, QW
+AF Lin, Yuqing
+   Mynett, Arthur
+   Chen, Qiuwen
+BE Zhang, CK
+   Tang, HW
+ER
+
+PT J
+AU Sirakoulis, GC
+AF Sirakoulis, Georgios Ch
+ER
+
+PT J
+AU Courbage, M
+   Kaminski, B
+AF Courbage, Maurice
+   Kaminski, Brunon
+ER
+
+PT C
+AU Usta, T
+   Dündar, EB
+   Korkmaz, EE
+AF Usta, Tugba
+   Dundar, Enes Burak
+   Korkmaz, Emin Erkan
+BE DeMarsico, M
+   DiBaja, GS
+   Fred, A
+ER
+
+PT J
+AU Theyssier, G
+AF Theyssier, Guillaume
+ER
+
+PT J
+AU Weimar, JR
+AF Weimar, JR
+ER
+
+PT C
+AU Svyetlichnyy, DS
+   Nowak, J
+   Lach, L
+AF Svyetlichnyy, Dmytro S.
+   Nowak, Jaroslaw
+   Lach, Lukasz
+BE Sirakoulis, GC
+   Bandini, S
+ER
+
+PT J
+AU Müller, J
+   Jiang, HR
+AF Mueller, Johannes
+   Jiang, Hengrui
+ER
+
+PT J
+AU Akishin, PG
+   Altaisky, MV
+   Antoniou, I
+   Budnik, AD
+   Ivanov, VV
+AF Akishin, P. G.
+   Altaisky, M. V.
+   Antoniou, I.
+   Budnik, A. D.
+   Ivanov, V. V.
+ER
+
+PT C
+AU Fúster-Sabater, A
+AF Fuster-Sabater, Amparo
+BE Luengo, I
+ER
+
+PT C
+AU Borello, A
+   Richard, G
+   Terrier, V
+AF Borello, Alex
+   Richard, Gaetan
+   Terrier, Veronique
+BE Schwentick, T
+   Durr, C
+ER
+
+PT C
+AU Ievgen, T
+   Alexander, M
+AF Ievgen, Terpil
+   Alexander, Makarenko
+BE Was, J
+   Sirakoulis, GC
+   Bandini, S
+ER
+
+PT J
+AU Fuks, H
+AF Fuks, Henryk
+ER
+
+PT C
+AU Chang, CL
+   Zhang, YJ
+   Gdong, YY
+AF Chang, CL
+   Zhang, YJ
+   Gdong, YY
+GP ieee
+ER
+
+PT C
+AU Macêdo, HB
+   Oliveira, GMB
+   Ribeiro, CHC
+AF Macedo, Heverton B.
+   Oliveira, Gina M. B.
+   Ribeiro, Carlos H. C.
+GP IEEE
+ER
+
+PT J
+AU Alonso-Sanz, R
+AF Alonso-Sanz, Ramon
+ER
+
+PT C
+AU Zhang, CW
+AF Zhang Chuanwu
+BE Cui, J
+   Jiming, Q
+ER
+
+PT C
+AU Schaeffer, L
+AF Schaeffer, Luke
+GP ACM
+ER
+
+PT J
+AU Kari, J
+   Taati, S
+AF Kari, Jarkko
+   Taati, Siamak
+ER
+
+PT J
+AU Akin, H
+AF Akin, Hasan
+ER
+
+PT J
+AU Zaitsev, DA
+AF Zaitsev, Dmitry A.
+ER
+
+PT J
+AU Mingarelli, AB
+AF Mingarelli, Angelo B.
+ER
+
+PT C
+AU Lassarre, S
+   Tordeux, A
+AF Lassarre, Sylvain
+   Tordeux, Antoine
+BE Pinto, NN
+   Dourado, J
+   Natalio, A
+ER
+
+PT C
+AU Toguchi, S
+   Akamine, Y
+   Endo, S
+AF Toguchi, Seita
+   Akamine, Yuhei
+   Endo, Satoshi
+BE Umeo, H
+   Morishita, S
+   Nishinari, K
+   Komatsuzaki, T
+   Bandini, S
+ER
+
+PT C
+AU Fatès, N
+AF Fates, Nazim
+BE Was, J
+   Sirakoulis, GC
+   Bandini, S
+ER
+
+PT J
+AU Umeo, H
+AF Umeo, Hiroshi
+ER
+
+PT C
+AU Bandini, S
+   Briola, D
+   Dennunzio, A
+   Gasparini, F
+   Giltri, M
+   Vizzari, G
+AF Bandini, Stefania
+   Briola, Daniela
+   Dennunzio, Alberto
+   Gasparini, Francesca
+   Giltri, Marta
+   Vizzari, Giuseppe
+BE Chopard, B
+   Bandini, S
+   Dennunzio, A
+   Haddad, MA
+ER
+
+PT J
+AU Moothathu, TKS
+AF Moothathu, TKS
+ER
+
+PT J
+AU Liu, QX
+   Jin, Z
+AF Liu, QX
+   Jin, Z
+ER
+
+PT J
+AU Ceccherini-Silberstein, TG
+   Machì, A
+   Scarabotti, F
+AF Ceccherini-Silberstein, TG
+   Machì, A
+   Scarabotti, F
+ER
+
+PT C
+AU Abdennour, I
+   Ouardouz, M
+   Bernoussi, AS
+AF Abdennour, Iliasse
+   Ouardouz, Mustapha
+   Bernoussi, Abdes Samed
+BE Gwizdalla, TM
+   Manzoni, L
+   Sirakoulis, GC
+   Bandini, S
+   Podlaski, K
+ER
+
+PT J
+AU Zagoris, K
+   Pratikakis, I
+AF Zagoris, Konstantinos
+   Pratikakis, Ioannis
+ER
+
+PT S
+AU Jeon, JC
+   Yoo, KY
+AF Jeon, Jun-Cheol
+   Yoo, Kee-Young
+BE Yacoubi, SE
+   Chopard, B
+   Bandini, S
+ER
+
+PT J
+AU Choudhury, S
+   Salomaa, K
+   Akl, SG
+AF Choudhury, Salimur
+   Salomaa, Kai
+   Akl, Selim G.
+ER
+
+PT J
+AU D'Alotto, L
+AF D'Alotto, Louis
+ER
+
+PT J
+AU Baetens, JM
+   Gravner, J
+AF Baetens, Jan M.
+   Gravner, Janko
+ER
+
+PT C
+AU Szaban, M
+AF Szaban, Miroslaw
+BE ElYacoubi, S
+   Was, J
+   Bandini, S
+ER
+
+PT C
+AU Ray, A
+   Das, D
+AF Ray, Abhishek
+   Das, Debasis
+BE Das, VV
+   Vijayakumar, R
+   Debnath, NC
+   Stephen, J
+   Meghanathan, N
+   Sankaranarayanan, S
+   Thankachan, PM
+   Gaol, FL
+   Thankachan, N
+ER
+
+PT J
+AU Benito-Ostolaza, JM
+   Hernández, P
+   Palacios-Marqués, D
+   Vila, J
+AF Benito-Ostolaza, Juan M.
+   Hernandez, Penelope
+   Palacios-Marques, Daniel
+   Vila, Jose
+ER
+
+PT J
+AU Ortigoza, GM
+AF Ortigoza, Gerardo M.
+ER
+
+PT C
+AU Chen, W
+   Li, YX
+   Tu, H
+AF Chen, W
+   Li, YX
+   Tu, H
+BE Lishan, K
+   Zhihua, C
+   Xuesong, Y
+ER
+
+PT J
+AU LI, WT
+AF LI, WT
+ER
+
+PT C
+AU Wang, H
+   Liu, YQ
+   Zhou, LH
+AF Wang Hong
+   Liu Yu-qiu
+   Zhou Li-hui
+BE Yang, A
+   Du, WJ
+ER
+
+PT C
+AU Li, HX
+   Shao, CF
+   Wu, HL
+   Tian, JF
+   Ji, X
+AF Li, Hui-xuan
+   Shao, Chun-fu
+   Wu, Hao-ling
+   Tian, Jun-fang
+   Ji, Xun
+BE Was, J
+   Sirakoulis, GC
+   Bandini, S
+ER
+
+PT J
+AU Saghiri, AM
+   Meybodi, MR
+AF Saghiri, Ali Mohammad
+   Meybodi, Mohammad Reza
+ER
+
+PT J
+AU Beros, A
+   Chyba, M
+   Noe, K
+AF Beros, Achilles
+   Chyba, Monique
+   Noe, Kari
+ER
+
+PT J
+AU Esnaashari, M
+   Meybodi, MR
+AF Esnaashari, Mehdi
+   Meybodi, Mohammad Reza
+ER
+
+PT J
+AU Matamala, M
+AF Matamala, M
+ER
+
+PT J
+AU Ganguly, N
+   Sikdar, BK
+   Chaudhuri, PP
+AF Ganguly, Niloy
+   Sikdar, Biplab K.
+   Chaudhuri, P. Pal
+ER
+
+PT J
+AU Ahangaran, M
+   Taghizadeh, N
+   Beigy, H
+AF Ahangaran, Meysam
+   Taghizadeh, Nasrin
+   Beigy, Hamid
+ER
+
+PT C
+AU Kroczek, L
+   Zelinka, I
+AF Kroczek, Lukas
+   Zelinka, Ivan
+BE Pan, JS
+   Snasel, V
+   Sung, TW
+   Wang, XD
+ER
+
+PT C
+AU Sah, F
+   Siap, I
+   Akin, H
+AF Sah, Ferhat
+   Siap, Irfan
+   Akin, Hasan
+BE Ashyralyev, A
+   Lukashov, A
+ER
+
+PT J
+AU Praba, B
+   Saranya, R
+AF Praba, B.
+   Saranya, R.
+ER
+
+PT S
+AU Fekih, AB
+   El Jai, A
+AF Fekih, A. Bel
+   El Jai, A.
+BE Yacoubi, SE
+   Chopard, B
+   Bandini, S
+ER
+
+PT J
+AU Schönfisch, B
+   de Roos, A
+AF Schönfisch, B
+   de Roos, A
+ER
+
+PT C
+AU Qadir, F
+   Ahmad, PZ
+   Wani, SJ
+   Peer, MA
+AF Qadir, Fasel
+   Ahmad, Peer Zahoor
+   Wani, Shahi Jahan
+   Peer, M. A.
+BE Pandit, AK
+   Tomar, G
+   Garg, D
+ER
+
+PT J
+AU Babson, N
+   Teuscher, C
+AF Babson, Neil
+   Teuscher, Christof
+ER
+
+PT J
+AU Calidonna, CR
+   Di Gregorio, S
+   Furnari, MM
+AF Calidonna, CR
+   Di Gregorio, S
+   Furnari, MM
+ER
+
+PT J
+AU Wolnik, B
+   De Baets, B
+AF Wolnik, Barbara
+   De Baets, Bernard
+ER
+
+PT C
+AU Tinoco, CR
+   Oliveira, GMB
+AF Tinoco, Claudiney R.
+   Oliveira, Gina M. B.
+BE Mauri, G
+   Yacoubi, SE
+   Dennunzio, A
+   Nishinari, K
+   Manzoni, L
+ER
+
+PT C
+AU Nugraheni, CE
+   Natali, V
+AF Nugraheni, Cecilia E.
+   Natali, Vania
+ER
+
+PT J
+AU Nayak, DR
+   Dash, R
+   Majhi, B
+   Mohammed, J
+AF Nayak, Deepak R.
+   Dash, Ratnakar
+   Majhi, Banshidhar
+   Mohammed, Jahangir
+ER
+
+PT C
+AU Wacker, S
+AF Wacker, Simon
+BE Cook, M
+   Neary, T
+ER
+
+PT J
+AU Vafashoar, R
+   Meybodi, MR
+AF Vafashoar, Reza
+   Meybodi, Mohammad Reza
+ER
+
+PT C
+AU Namiki, T
+AF Namiki, Takao
+GP IEEE
+ER
+
+PT J
+AU Ban, JC
+   Chang, CH
+AF Ban, Jung-Chao
+   Chang, Chih-Hung
+ER
+
+PT J
+AU ITAMI, RM
+AF ITAMI, RM
+ER
+
+PT J
+AU Karafyllidis, I
+AF Karafyllidis, I
+ER
+
+PT J
+AU Fernandez, A
+   Maignan, L
+   Spicher, A
+AF Fernandez, Alexandre
+   Maignan, Luidnel
+   Spicher, Antoine
+ER
+
+PT C
+AU Nandi, S
+   Chakraborty, S
+   Roy, S
+   Karaa, WB
+   Nath, S
+   Dey, N
+AF Nandi, Subrata
+   Chakraborty, Sayan
+   Roy, Satyabrata
+   Karaa, Wahiba Ben Abdessalem
+   Nath, Siddhartha
+   Dey, Nilanjan
+GP IEEE
+ER
+
+PT J
+AU Burguet, D
+AF Burguet, David
+ER
+
+PT J
+AU Das, S
+   Roychowdhury, D
+AF Das, Sourav
+   Roychowdhury, Dipanwita
+ER
+
+PT C
+AU Mathew, P
+   Nizar, MA
+AF Mathew, Prince
+   Nizar, M. Abdul
+ER
+
+PT C
+AU Byari, M
+   Bernoussi, AS
+   Ouardouz, M
+   Amharref, M
+AF Byari, Mohamed
+   Bernoussi, Abdes Samed
+   Ouardouz, Mustapha
+   Amharref, Mina
+BE Gwizdalla, TM
+   Manzoni, L
+   Sirakoulis, GC
+   Bandini, S
+   Podlaski, K
+ER
+
+PT J
+AU de Oliveira, PPB
+AF de Oliveira, Pedro P. B.
+ER
+
+PT J
+AU Bartholdi, L
+AF Bartholdi, Laurent
+ER
+
+PT C
+AU Kone, A
+   Fontaine, A
+   Loireau, M
+   Jangorzo, SN
+   El Yacoubi, S
+AF Kone, Alassane
+   Fontaine, Allyx
+   Loireau, Maud
+   Jangorzo, Salifou Nouhou
+   El Yacoubi, Samira
+BE Gwizdalla, TM
+   Manzoni, L
+   Sirakoulis, GC
+   Bandini, S
+   Podlaski, K
+ER
+
+PT J
+AU Lafe, O
+AF Lafe, O
+ER
+
+PT J
+AU Gütschow, J
+   Nesme, V
+   Werner, RF
+AF Guetschow, Johannes
+   Nesme, Vincent
+   Werner, Reinhard F.
+ER
+
+PT C
+AU Das, D
+AF Das, Debasis
+BE Krishna, PV
+   Babu, MR
+   Ariwa, E
+ER
+
+PT J
+AU Capobianco, S
+   Kari, J
+   Taati, S
+AF Capobianco, Silvio
+   Kari, Jarkko
+   Taati, Siamak
+ER
+
+PT J
+AU del Rey, AM
+   Sánchez, GR
+AF Martin del Rey, A.
+   Rodriguez Sanchez, G.
+ER
+
+PT J
+AU White, R
+AF White, Roger
+ER
+
+PT C
+AU Xia, XW
+   Xiong, ZG
+   Li, YX
+AF Xia, Xuewen
+   Xiong, Zenggang
+   Li, Yuanxiang
+BE Yang, YX
+ER
+
+PT C
+AU Cattaneo, G
+   Dennunzio, A
+   Formenti, E
+   Provillard, J
+AF Cattaneo, Gianpiero
+   Dennunzio, Alberto
+   Formenti, Enrico
+   Provillard, Julien
+BE Dediu, AH
+   Ionescu, AM
+   MartinVide, C
+ER
+
+PT C
+AU Avolio, MV
+   Di Gregorio, S
+   Lupiano, V
+   Trunfio, GA
+AF Avolio, Maria Vittoria
+   Di Gregorio, Salvatore
+   Lupiano, Valeria
+   Trunfio, Giuseppe A.
+BE Sirakoulis, GC
+   Bandini, S
+ER
+
+PT J
+AU Costa, PCS
+AF Costa, Pedro C. S.
+ER
+
+PT C
+AU Okayama, T
+   Murase, H
+AF Okayama, T
+   Murase, H
+GP IEEE
+   IEEE
+ER
+
+PT C
+AU Stepien, J
+   Stafiej, J
+AF Stepien, Jan
+   Stafiej, Janusz
+BE Mauri, G
+   Yacoubi, SE
+   Dennunzio, A
+   Nishinari, K
+   Manzoni, L
+ER
+
+PT J
+AU Gajardo, A
+   Nesme, V
+   Theyssier, G
+AF Gajardo, A.
+   Nesme, V
+   Theyssier, G.
+ER
+
+PT C
+AU Avolio, MV
+   Di Gregorio, S
+   Spataro, W
+   Trunfio, GA
+AF Avolio, Maria Vittoria
+   Di Gregorio, Salvatore
+   Spataro, William
+   Trunfio, Giuseppe A.
+BE Sirakoulis, GC
+   Bandini, S
+ER
+
+PT C
+AU Kassogué, H
+   Bernoussi, A
+   Amharref, M
+   Ouardouz, M
+AF Kassogue, Hamidou
+   Bernoussi, Abdessamed
+   Amharref, Mina
+   Ouardouz, Mustapha
+BE ElYacoubi, S
+   Was, J
+   Bandini, S
+ER
+
+PT J
+AU Abdo, AA
+   Lian, SG
+   Ismail, IA
+   Amin, M
+   Diab, H
+AF Abdo, A. A.
+   Lian, Shiguo
+   Ismail, I. A.
+   Amin, M.
+   Diab, H.
+ER
+
+PT C
+AU Anghelescu, P
+   Sofron, E
+   Rîncu, CI
+   Iana, VG
+AF Anghelescu, Petre
+   Sofron, Emil
+   Rincu, Cristian-Iulian
+   Iana, Vasile-Gabriel
+GP IEEE
+ER
+
+PT J
+AU Debled-Rennesson, I
+   Margenstern, M
+AF Debled-Rennesson, Isabelle
+   Margenstern, Maurice
+ER
+
+PT J
+AU Tanimoto, N
+   Imai, K
+AF Tanimoto, Naonori
+   Imai, Katsunobu
+ER
+
+PT J
+AU Qi, W
+   Han, J
+   Zhang, Y
+   Bai, LF
+AF Qi, Wei
+   Han, Jing
+   Zhang, Yi
+   Bai, Lian-fa
+ER
+
+PT J
+AU Sutner, K
+AF Sutner, K
+ER
+
+PT J
+AU Jones, DH
+   McWilliam, R
+   Purvis, A
+AF Jones, David H.
+   McWilliam, Richard
+   Purvis, Alan
+ER
+
+PT J
+AU Goles, E
+   Meunier, PE
+   Rapaport, I
+   Theyssier, G
+AF Goles, E.
+   Meunier, P. -E.
+   Rapaport, I.
+   Theyssier, G.
+ER
+
+PT J
+AU Margenstern, M
+AF Margenstern, Maurice
+ER
+
+PT J
+AU Glabisz, W
+AF Glabisz, W.
+ER
+
+PT J
+AU Chaitin, G
+AF Chaitin, G
+ER
+
+PT J
+AU Karmakar, S
+   Chowdhury, DR
+AF Karmakar, Sandip
+   Chowdhury, Dipanwita Roy
+ER
+
+PT J
+AU Serrano, DH
+   del Rey, AM
+AF Hernandez Serrano, D.
+   Martin del Rey, A.
+ER
+
+PT C
+AU Kobayashi, M
+AF Kobayashi, Mio
+BE Was, J
+   Sirakoulis, GC
+   Bandini, S
+ER
+
+PT J
+AU Lei, Q
+   Li, T
+   Lee, J
+   Xu, WL
+   Peper, F
+AF Lei, Qin
+   Li, Tao
+   Lee, Jia
+   Xu, Wen-Li
+   Peper, Ferdinand
+ER
+
+PT J
+AU Baas, NA
+   Helvik, T
+AF Baas, NA
+   Helvik, T
+ER
+
+PT C
+AU Das, S
+   RoyChowdhury, D
+AF Das, Sourav
+   RoyChowdhury, Dipanwita
+BE Umeo, H
+   Morishita, S
+   Nishinari, K
+   Komatsuzaki, T
+   Bandini, S
+ER
+
+PT C
+AU Adams, R
+   van Zijl, L
+AF Adams, Roxane
+   van Zijl, Lynette
+GP ACM
+ER
+
+PT J
+AU Ahmed, E
+AF Ahmed, E
+ER
+
+PT C
+AU Ghosh, S
+   Maiti, NS
+   Chaudhuri, PP
+AF Ghosh, Soumyabrata
+   Maiti, Nirmalya S.
+   Chaudhuri, Parimal Pal
+BE Was, J
+   Sirakoulis, GC
+   Bandini, S
+ER
+
+PT J
+AU Lee, J
+AF Lee, Jia
+ER
+
+PT C
+AU Padovani, D
+   Neto, JJ
+   Cereda, PRM
+AF Padovani, Djalma
+   Jose Neto, Joao
+   Massa Cereda, Paulo Roberto
+BE Shakshuki, E
+   Yasar, A
+ER
+
+PT J
+AU Alonso-Sanz, R
+   Bull, L
+AF Alonso-Sanz, Ramon
+   Bull, Larry
+ER
+
+PT J
+AU Guan, JB
+   Chen, FY
+AF Guan, Junbiao
+   Chen, Fangyue
+ER
+
+PT J
+AU Kumari, A
+   Bhanja, S
+AF Kumari, Anita
+   Bhanja, Sanjukta
+ER
+
+PT J
+AU Tan, SK
+   Guan, SU
+AF Tan, Syn Kiat
+   Guan, Sheng-Uei
+ER
+
+PT J
+AU Laurio, K
+   Linåker, F
+   Narayanan, A
+AF Laurio, K
+   Linåker, F
+   Narayanan, A
+ER
+
+PT J
+AU Iwamoto, C
+   Yoneda, H
+   Morita, K
+   Imai, K
+AF Iwamoto, Chuzo
+   Yoneda, Harumasa
+   Morita, Kenichi
+   Imai, Katsunobu
+ER
+
+PT J
+AU Bao, F
+AF Bao, F
+ER
+
+PT J
+AU Wójtowicz, M
+AF Wójtowicz, M
+ER
+
+PT J
+AU Iudin, DI
+   Grigoriev, AN
+AF Iudin, DI
+   Grigoriev, AN
+ER
+
+PT C
+AU Bhattacharjee, K
+   Paul, D
+   Das, S
+AF Bhattacharjee, Kamalika
+   Paul, Dipanjyoti
+   Das, Sukanta
+BE ElYacoubi, S
+   Was, J
+   Bandini, S
+ER
+
+PT C
+AU Yacoubi, SE
+   Mingarelli, A
+AF Yacoubi, Samira El
+   Mingarelli, Angelo
+BE Umeo, H
+   Morishita, S
+   Nishinari, K
+   Komatsuzaki, T
+   Bandini, S
+ER
+
+PT J
+AU Kutrib, M
+   Malcher, A
+AF Kutrib, Martin
+   Malcher, Andreas
+ER
+
+PT C
+AU Castillo-Ramirez, A
+   Sanchez-Alvarez, M
+AF Castillo-Ramirez, Alonso
+   Sanchez-Alvarez, Miguel
+BE CastilloRamirez, A
+   DeOliveira, PPB
+ER
+
+PT J
+AU Hess, K
+AF Hess, Karl
+ER
+
+PT J
+AU Tarakanov, A
+   Adamatzky, A
+AF Tarakanov, A
+   Adamatzky, A
+ER
+
+PT J
+AU Dennunzio, A
+   Di Lena, P
+   Formenti, E
+   Margara, L
+AF Dennunzio, A.
+   Di Lena, P.
+   Formenti, E.
+   Margara, L.
+ER
+
+PT C
+AU Karafyllidis, IG
+   Sirakoulis, GC
+AF Karafyllidis, Ioannis G.
+   Sirakoulis, Georgios Ch
+BE Mauri, G
+   Yacoubi, SE
+   Dennunzio, A
+   Nishinari, K
+   Manzoni, L
+ER
+
+PT C
+AU McIntyre, D
+   Homer, M
+AF McIntyre, Deacon
+   Homer, Michael
+BE Homer, M
+   Hermans, F
+   Tanimoto, S
+   Anslow, C
+ER
+
+PT J
+AU Minoofam, SAH
+   Dehshibi, MM
+   Bastanfard, A
+   Eftekhari, P
+AF Minoofam, Seyyed Amir Hadi
+   Dehshibi, Mohammad Mahdi
+   Bastanfard, Azam
+   Eftekhari, Parvin
+ER
+
+PT J
+AU Hubbard, TJ
+   Antonsson, EK
+AF Hubbard, TJ
+   Antonsson, EK
+ER
+
+PT J
+AU Del Rey, AM
+   Sánchez, GR
+AF Martin Del Rey, A.
+   Rodriguez Sanchez, G.
+ER
+
+PT C
+AU Li, ZJ
+   Duan, XD
+   Wang, CR
+   Yun, J
+AF Li, Zhijie
+   Duan, Xiaodong
+   Wang, Cunrui
+   Yun, Jian
+BE Cheng, B
+   Liang, W
+ER
+
+PT J
+AU Cattaneo, G
+   Formenti, E
+   Margara, L
+   Mauri, G
+AF Cattaneo, G
+   Formenti, E
+   Margara, L
+   Mauri, G
+ER
+
+PT J
+AU Shukla, AP
+AF Shukla, Anand Prakash
+ER
+
+PT C
+AU Kari, J
+   Salo, V
+   Worsch, T
+AF Kari, Jarkko
+   Salo, Ville
+   Worsch, Thomas
+BE Baetens, JM
+   Kutrib, M
+ER
+
+PT J
+AU Boccara, N
+AF Boccara, N.
+ER
+
+PT J
+AU Crasmaru, M
+AF Crasmaru, M
+ER
+
+PT J
+AU Durand-Lose, JO
+AF Durand-Lose, JO
+ER
+
+PT J
+AU Kari, J
+AF Kari, Jarkko
+ER
+
+PT J
+AU Spencer, J
+AF Spencer, Jason
+ER
+
+PT J
+AU Castellaro, S
+   Mulargia, F
+AF Castellaro, S
+   Mulargia, F
+ER
+
+PT J
+AU Cavagnetto, S
+AF Cavagnetto, Stefano
+ER
+
+PT J
+AU Ramos, CC
+   El Bouziani, N
+   Tlemçani, M
+   Fernandes, S
+AF Ramos, C. Correia
+   El Bouziani, Nada
+   Tlemcani, Mouhaydine
+   Fernandes, Sara
+ER
+
+PT J
+AU Adamatzky, AI
+AF Adamatzky, AI
+ER
+
+PT J
+AU Bashkin, VA
+   Lomazova, IA
+AF Bashkin, Vladimir A.
+   Lomazova, Irina A.
+ER
+
+PT J
+AU Soto, JMG
+AF Gomez Soto, Jose Manuel
+ER
+
+PT J
+AU Yamashita, T
+   Isokawa, T
+   Peper, F
+   Kawamata, I
+   Hagiya, M
+AF Yamashita, Tatsuya
+   Isokawa, Teijiro
+   Peper, Ferdinand
+   Kawamata, Ibuki
+   Hagiya, Masami
+ER
+
+PT C
+AU Ghosh, S
+   Sengupta, A
+   Saha, D
+   Chowdhury, DR
+AF Ghosh, Shamit
+   Sengupta, Abhrajit
+   Saha, Dhiman
+   Chowdhury, Dipanwita Roy
+BE Was, J
+   Sirakoulis, GC
+   Bandini, S
+ER
+
+PT J
+AU Cattaneo, G
+   Flocchini, P
+   Mauri, G
+   Vogliotti, CQ
+   Santoro, N
+AF Cattaneo, G
+   Flocchini, P
+   Mauri, G
+   Vogliotti, CQ
+   Santoro, N
+ER
+
+PT C
+AU Popovici, A
+   Popovici, D
+AF Popovici, A
+   Popovici, D
+BE Zaharie, D
+   Petcu, D
+   Negru, V
+   Jebelean, T
+   Ciobanu, G
+   Cicortas, A
+   Abraham, A
+   Paprzycki, M
+ER
+
+PT C
+AU Jiménez-Morales, F
+   Guisado-Lizar, JL
+   Guerra, JM
+AF Jimenez-Morales, Francisco
+   Guisado-Lizar, Jose-Luis
+   Guerra, Jose Manuel
+BE Chopard, B
+   Bandini, S
+   Dennunzio, A
+   Haddad, MA
+ER
+
+PT J
+AU Barbosa, VC
+   Miranda, FMN
+   Agostini, MCM
+AF Barbosa, VC
+   Miranda, FMN
+   Agostini, MCM
+ER
+
+PT J
+AU Auer, C
+   Wuchner, P
+   De Meer, H
+AF Auer, Christopher
+   Wuchner, Patrick
+   De Meer, Hermann
+ER
+
+PT J
+AU Mei, SS
+   Billings, SA
+   Guo, LZ
+AF Mei, SS
+   Billings, SA
+   Guo, LZ
+ER
+
+PT J
+AU Eizenberg, A
+   Kifer, Y
+AF Eizenberg, A
+   Kifer, Y
+ER
+
+PT C
+AU Delarosa, O
+   Soros, LB
+AF Delarosa, Omar
+   Soros, L. B.
+GP IEEE
+ER
+
+PT J
+AU Soma, NY
+   Melo, JP
+AF Soma, NY
+   Melo, JP
+ER
+
+PT J
+AU Kier, LB
+   Cheng, CK
+   Testa, B
+   Carrupt, PA
+AF Kier, LB
+   Cheng, CK
+   Testa, B
+   Carrupt, PA
+ER
+
+PT J
+AU D'Autilia, R
+   Hetman, J
+AF D'Autilia, Roberto
+   Hetman, Janet
+ER
+
+PT J
+AU Di Lena, P
+   Margara, L
+AF Di Lena, Pietro
+   Margara, Luciano
+ER
+
+PT C
+AU Krrabaj, S
+   Canhasi, E
+   Bajrami, X
+AF Krrabaj, Samedin
+   Canhasi, Ercan
+   Bajrami, Xhevahir
+BE Stojanovic, R
+   Jozwiak, L
+   Lutovac, B
+   Kubatova, H
+ER
+
+PT J
+AU Nanda, SK
+   Mohanty, S
+   Pattnaik, PK
+   Sain, M
+AF Nanda, Surendra Kumar
+   Mohanty, Suneeta
+   Pattnaik, Prasant Kumar
+   Sain, Mangal
+ER
+
+PT J
+AU Delacourt, M
+   Poupet, V
+   Sablik, M
+   Theyssier, G
+AF Delacourt, M.
+   Poupet, V.
+   Sablik, M.
+   Theyssier, G.
+ER
+
+PT C
+AU Banerjee, C
+AF Banerjee, Chayan
+GP IEEE
+ER
+
+PT J
+AU Yilmaz, O
+AF Yilmaz, Ozgur
+ER
+
+PT J
+AU Cassiano, KK
+   Barbosa, VC
+AF Cassiano, Katia K.
+   Barbosa, Valmir C.
+ER
+
+PT J
+AU John, A
+   Reddy, SKM
+   Jose, J
+AF John, Anita
+   Reddy, Sai Kallupalle Mineesh
+   Jose, Jimmy
+ER
+
+PT J
+AU Boyle, M
+   Maass, A
+AF Boyle, M
+   Maass, A
+ER
+
+PT J
+AU Morita, K
+AF Morita, Kenichi
+ER
+
+PT J
+AU Alonso-Sanz, R
+AF Alonso-Sanz, Ramon
+ER
+
+PT J
+AU Meyer, DA
+AF Meyer, DA
+ER
+
+PT J
+AU Konno, N
+   Mistuda, K
+   Soshi, I
+   Yoo, HJ
+AF Konno, N
+   Mistuda, K
+   Soshi, I
+   Yoo, HJ
+ER
+
+PT C
+AU Bidlo, M
+   Vasicek, Z
+AF Bidlo, Michal
+   Vasicek, Zdenek
+GP IEEE
+ER
+
+PT J
+AU Takesue, S
+AF Takesue, Shinji
+ER
+
+PT C
+AU Mariot, L
+   Leporati, A
+AF Mariot, Luca
+   Leporati, Alberto
+BE Was, J
+   Sirakoulis, GC
+   Bandini, S
+ER
+
+PT C
+AU Latif, A
+   Dalhoum, A
+   Al-Dhamari, I
+AF Latif, Abdel
+   Dalhoum, Abu
+   Al-Dhamari, Ibraheem
+BE Mastorakis, N
+   Mladenov, V
+   Bojkovic, Z
+ER
+
+PT J
+AU Mora, JCST
+   Vergara, SVC
+   Martinez, GJ
+   McIntosh, HV
+AF Mora, JCST
+   Vergara, SVC
+   Martinez, GJ
+   McIntosh, HV
+ER
+
+PT C
+AU Shalizi, CR
+   Shalizi, KL
+AF Shalizi, CR
+   Shalizi, KL
+BE SchimanskyGeier, L
+   Abbott, D
+   Neiman, A
+   VanDenBroeck, C
+ER
+
+PT J
+AU López, FJ
+   Sanz, G
+AF López, FJ
+   Sanz, G
+ER
+
+PT J
+AU Ceccherini-Silberstein, T
+   Coornaert, M
+AF Ceccherini-Silberstein, Tullio
+   Coornaert, Michel
+ER
+
+PT J
+AU Li, XW
+   Cho, SJ
+   Kim, ST
+AF Li, Xiao Wei
+   Cho, Sung Jin
+   Kim, Seok Tae
+ER
+
+PT C
+AU Deng, F
+   Chen, J
+   Chen, WJ
+   Zhu, L
+AF Deng Fang
+   Chen Jie
+   Chen Wenjie
+   Zhu Lin
+BA Wu, M
+BF Wu, M
+GP Beihang University PRess
+BE Cheng, DZ
+ER
+
+PT J
+AU Kunishima, W
+   Nishiyama, A
+   Tanaka, H
+   Tokihiro, T
+AF Kunishima, W
+   Nishiyama, A
+   Tanaka, H
+   Tokihiro, T
+ER
+
+PT C
+AU Ghosh, S
+   Chaudhuri, PP
+AF Ghosh, Soumyabrata
+   Chaudhuri, Parimal Pal
+BE Mauri, G
+   Yacoubi, SE
+   Dennunzio, A
+   Nishinari, K
+   Manzoni, L
+ER
+
+PT C
+AU Bolt, W
+   Bolt, A
+   Wolnik, B
+   Baetens, JM
+   De Baets, B
+AF Bolt, Witold
+   Bolt, Aleksander
+   Wolnik, Barbara
+   Baetens, Jan M.
+   De Baets, Bernard
+BE Martin-Vide, C
+   Neruda, R
+   Vega-Rodriguez, MA
+ER
+
+PT J
+AU Craiu, RV
+   Lee, TCM
+AF Craiu, RV
+   Lee, TCM
+ER
+
+PT J
+AU Minondo, I
+   Reiter, CA
+AF Minondo, Inaki
+   Reiter, Clifford A.
+ER
+
+PT J
+AU Mora, JCST
+   Vergara, SVC
+   Martínez, GJ
+   McIntosh, HV
+AF Mora, JCST
+   Vergara, SVC
+   Martínez, GJ
+   McIntosh, HV
+ER
+
+PT J
+AU Eloranta, K
+AF Eloranta, K
+ER
+
+PT J
+AU Cuéllar, MP
+   Rueda, R
+   Ruiz, LGB
+   Pegalajar, MD
+AF Cuellar, Manuel P.
+   Rueda, Ramon
+   Ruiz, Luis G. Baca
+   Pegalajar, Maria Del Carmen
+ER
+
+PT J
+AU Briceño, R
+   Meunier, PE
+AF Briceno, Raimundo
+   Meunier, Pierre-Etienne
+ER
+
+PT J
+AU Edlund, E
+   Jacobi, MN
+AF Edlund, E.
+   Jacobi, M. Nilsson
+ER
+
+PT C
+AU Medvedev, Y
+AF Medvedev, Yu
+BE Hsu, CH
+   Malyshkin, V
+ER
+
+PT J
+AU Schlingemann, DM
+   Vogts, H
+   Werner, RF
+AF Schlingemann, Dirk-M.
+   Vogts, Holger
+   Werner, Reinhard F.
+ER
+
+PT C
+AU Yamagishi, S
+   Morishita, S
+AF Yamagishi, Seiya
+   Morishita, Shin
+BE Was, J
+   Sirakoulis, GC
+   Bandini, S
+ER
+
+PT J
+AU Khan, AR
+   Choudhury, PP
+   Dihidar, K
+   Verma, R
+AF Khan, AR
+   Choudhury, PP
+   Dihidar, K
+   Verma, R
+ER
+
+PT J
+AU Chelghoum, K
+   Margenstern, M
+   Martin, B
+   Pecci, I
+AF Chelghoum, K
+   Margenstern, M
+   Martin, B
+   Pecci, I
+ER
+
+PT C
+AU Vourkas, I
+   Michail, D
+   Sirakoulis, GC
+AF Vourkas, Ioannis
+   Michail, Dimitrios
+   Sirakoulis, Georgios Ch
+BE Sirakoulis, GC
+   Bandini, S
+ER
+
+PT J
+AU Sepúlveda, C
+   Goles, E
+   Ríos-Wilson, M
+   Adamatzky, A
+AF Sepulveda, Carlos
+   Goles, Eric
+   Rios-wilson, Martin
+   Adamatzky, Andrew
+ER
+
+PT J
+AU Nishida, Y
+   Watanabe, S
+   Fukuda, A
+   Watanabe, Y
+AF Nishida, Yuki
+   Watanabe, Sennosuke
+   Fukuda, Akiko
+   Watanabe, Yoshihide
+ER
+
+PT J
+AU Praba, B
+   Saranya, R
+AF Praba, B.
+   Saranya, R.
+ER
+
+PT C
+AU Stachura-Terlecka, B
+   Ligeza, A
+AF Stachura-Terlecka, Bernadetta
+   Ligeza, Antoni
+BE Dziech, A
+   Leszczuk, M
+   Baran, R
+ER
+
+PT C
+AU Bidlo, M
+   Vasicek, Z
+   Slany, K
+AF Bidlo, Michal
+   Vasicek, Zdenek
+   Slany, Karel
+BE Tempesti, G
+   Tyrrell, AM
+   Miller, JF
+ER
+
+PT C
+AU Kishore, MPK
+   Kiran, SK
+   Bhavya, BB
+   Chaitanya, SSH
+AF Kishore, M. Phani Krishna
+   Kiran, S. Kanthi
+   Bhavya, B. Bangaru
+   Chaitanya, S. Harsha S.
+BE Ao, SI
+   Gelman, L
+   Hukins, DWL
+   Hunter, A
+   Korsunsky, AM
+ER
+
+PT C
+AU Roy, S
+   Nandi, S
+   Dansana, J
+   Pattnaik, PK
+AF Roy, Satyabrata
+   Nandi, Subrata
+   Dansana, Jayanti
+   Pattnaik, Prasant Kumar
+GP IEEE
+ER
+
+PT C
+AU Pla-Castells, M
+   García-Fernández, I
+   Martínez-Durá, RJ
+AF Pla-Castells, Marta
+   Garcia-Fernandez, Ignacio
+   Martinez-Dura, Rafael J.
+BE Lencse, G
+   Muka, L
+ER
+
+PT C
+AU Vihas, C
+   Georgoudas, IG
+   Sirakoulis, GC
+AF Vihas, Christos
+   Georgoudas, Ioakeim G.
+   Sirakoulis, Georgios Ch.
+BE Sirakoulis, GC
+   Bandini, S
+ER
+
+PT J
+AU Peled, BY
+   Carmi, AY
+AF Peled, Bar Y.
+   Carmi, Avishy Y.
+ER
+
+PT J
+AU Margenstern, M
+AF Margenstern, Maurice
+ER
+
+PT J
+AU Liu, X
+   Cao, S
+   Zheng, L
+   Gong, FM
+   Wang, X
+   Zhou, JH
+AF Liu, Xin
+   Cao, Shuai
+   Zheng, Liang
+   Gong, Faming
+   Wang, Xiao
+   Zhou, Jiehan
+ER
+
+PT J
+AU Eloranta, K
+AF Eloranta, K
+ER
+
+PT J
+AU Javid, MAJ
+   Alghamdi, W
+   Ursyn, A
+   Zimmer, R
+   al-Rifaie, MM
+AF Javid, Mohammad Ali Javaheri
+   Alghamdi, Wajdi
+   Ursyn, Anna
+   Zimmer, Robert
+   al-Rifaie, Mohammad Majid
+ER
+
+PT J
+AU Castillo-Ramirez, A
+AF Castillo-Ramirez, Alonso
+ER
+
+PT J
+AU Roy, S
+AF Roy, Souvik
+ER
+
+PT J
+AU Dolzhenko, E
+   Jonoska, N
+AF Dolzhenko, Egor
+   Jonoska, Natasa
+ER
+
+PT C
+AU Queen, CA
+   Anbuselvi, M
+   Salivahanan, S
+AF Queen, C. Abisha
+   Anbuselvi, M.
+   Salivahanan, S.
+BE Dash, SS
+   Bhaskar, MA
+   Panigrahi, BK
+   Das, S
+ER
+
+PT C
+AU Xu, WL
+   Lee, J
+AF Xu, Wen-Li
+   Lee, Jia
+GP IEEE
+ER
+
+PT C
+AU Margenstern, M
+AF Margenstern, Maurice
+BE Mastorakis, NE
+   Mladenov, V
+   Bojkovic, Z
+   Kartalopoulos, S
+   Varonides, A
+   Jha, M
+   Simian, D
+ER
+
+PT J
+AU Cheung, D
+   Pérez-Delgado, CA
+AF Cheung, Donny
+   Perez-Delgado, Carlos A.
+ER
+
+PT C
+AU Acerbi, L
+   Dennunzio, A
+   Fermenti, E
+AF Acerbi, Luigi
+   Dennunzio, Alberto
+   Fermenti, Enrico
+BE Cooper, SB
+   Lowe, B
+   Sorbi, A
+ER
+
+PT C
+AU Lo, SC
+AF Lo, Shih-Ching
+BE Simos, TE
+   Maroulis, G
+ER
+
+PT J
+AU Marchese, FM
+AF Marchese, FM
+ER
+
+PT C
+AU Topa, P
+   Mlocek, P
+AF Topa, Pawel
+   Mlocek, Pawel
+BE Wyrzykowski, R
+   Dongarra, J
+   Karczewski, K
+   Wasniewski, J
+ER
+
+PT J
+AU Dembowski, M
+   Wolnik, B
+   Bolt, W
+   Baetens, JM
+   De Baets, B
+AF Dembowski, Marcin
+   Wolnik, Barbara
+   Bolt, Witold
+   Baetens, Jan M.
+   De Baets, Bernard
+ER
+
+PT J
+AU Wurthner, JU
+   Mukhopadhyay, AK
+   Peimann, CJ
+AF Wurthner, JU
+   Mukhopadhyay, AK
+   Peimann, CJ
+ER
+
+PT J
+AU Xiao, RB
+   Wang, YC
+   Tao, ZW
+AF Xiao, Renbin
+   Wang, Yingcong
+   Tao, Zhenwu
+ER
+
+PT C
+AU Jose, J
+   Das, S
+   Chowdhury, DR
+AF Jose, Jimmy
+   Das, Sourav
+   Chowdhury, Dipanwita Roy
+BE Was, J
+   Sirakoulis, GC
+   Bandini, S
+ER
+
+PT J
+AU Amrogowicz, S
+   Zhao, YT
+   Zhao, YF
+AF Amrogowicz, Sebastian
+   Zhao, Yitian
+   Zhao, Yifan
+ER
+
+PT S
+AU Roy, S
+   Saha, B
+AF Roy, Samir
+   Saha, Biswajit
+BE Yacoubi, SE
+   Chopard, B
+   Bandini, S
+ER
+
+PT J
+AU Roy, S
+   Das, S
+AF Roy, Souvik
+   Das, Sukanta
+ER
+
+PT J
+AU Sobottka, M
+AF Sobottka, Marcelo
+ER
+
+PT J
+AU Alonso-Sanz, R
+AF Alonso-Sanz, R
+ER
+
+PT J
+AU Goles, E
+   Montalva-Medel, M
+   MacLean, S
+   Mortveit, H
+AF Goles, Eric
+   Montalva-Medel, Marco
+   MacLean, Stephanie
+   Mortveit, Henning
+ER
+
+PT J
+AU Alberto, DL
+AF Luis Alberto, Diego
+ER
+
+PT J
+AU Di Lena, P
+AF Di Lena, Pietro
+ER
+
+PT J
+AU Dürr, C
+   Santha, M
+AF Dürr, C
+   Santha, M
+ER
+
+PT C
+AU Diwakar, M
+   Patel, PK
+   Gupta, K
+AF Diwakar, Manoj
+   Patel, Pawan Kumar
+   Gupta, Kunal
+GP IEEE
+ER
+
+PT J
+AU Ayyad, M
+   Coulibaly, S
+AF Ayyad, Marouane
+   Coulibaly, Saliya
+ER
+
+PT J
+AU Chang, CH
+   Su, JY
+   Akin, H
+   Sah, F
+AF Chang, Chih-Hung
+   Su, Jing-Yi
+   Akin, Hasan
+   Sah, Ferhat
+ER
+
+PT C
+AU Afshar, MH
+   Azizipour, M
+AF Afshar, Mohammad Hadi
+   Azizipour, Mohammad
+BE ElYacoubi, S
+   Was, J
+   Bandini, S
+ER
+
+PT J
+AU Zhao, Y
+   Billings, SA
+   Routh, AF
+AF Zhao, Y.
+   Billings, S. A.
+   Routh, Alexander F.
+ER
+
+PT C
+AU Das, S
+   Chakraborty, A
+   Sikdar, BK
+AF Das, Sukanta
+   Chakraborty, Avik
+   Sikdar, Biplab K.
+BE Sirakoulis, GC
+   Bandini, S
+ER
+
+PT J
+AU Boccara, N
+   Roger, M
+AF Boccara, N
+   Roger, M
+ER
+
+PT J
+AU Umeo, H
+AF Umeo, Hiroshi
+ER
+
+PT C
+AU de Macêdo, HB
+   de Oliveira, GMB
+   Ribeiro, CHC
+AF de Macedo, Heverton Barros
+   Barbosa de Oliveira, Gina Maira
+   Costa Ribeiro, Carlos Henrique
+GP IEEE
+ER
+
+PT J
+AU Austin, RJ
+   Chen, AS
+   Savic, DA
+   Djordjevic, S
+AF Austin, Rebecca J.
+   Chen, Albert S.
+   Savic, Dragan A.
+   Djordjevic, Slobodan
+ER
+
+PT C
+AU Adak, S
+   Mukherjee, S
+   Das, S
+AF Adak, Sumit
+   Mukherjee, Sukanya
+   Das, Sukanta
+BE Mauri, G
+   Yacoubi, SE
+   Dennunzio, A
+   Nishinari, K
+   Manzoni, L
+ER
+
+PT J
+AU Dogaru, R
+   Dogaru, I
+   Kim, H
+AF Dogaru, Radu
+   Dogaru, Ioana
+   Kim, Hyongsuk
+ER
+
+PT J
+AU Meunier, PÉ
+AF Meunier, Pierre-Etienne
+ER
+
+PT J
+AU Lee, J
+   Adachi, S
+   Peper, F
+   Mashiko, S
+AF Lee, J
+   Adachi, S
+   Peper, F
+   Mashiko, S
+ER
+
+PT J
+AU Chen, B
+   Chen, FY
+   Guan, JBA
+   He, QB
+AF Chen, Bo
+   Chen, Fangyue
+   Guan, Junbiao
+   He, Qinbin
+ER
+
+PT J
+AU Madain, A
+   Abu Dalhoum, AL
+   Hiary, H
+   Ortega, A
+   Alfonseca, M
+AF Madain, Alia
+   Abu Dalhoum, Abdel Latif
+   Hiary, Hazem
+   Ortega, Alfonso
+   Alfonseca, Manuel
+ER
+
+PT C
+AU Ghisu, T
+   Arca, B
+   Pellizzaro, G
+   Duce, P
+AF Ghisu, Tiziano
+   Arca, Bachisio
+   Pellizzaro, Grazia
+   Duce, Pierpaolo
+BE Koziel, S
+   Leifsson, L
+   Lees, M
+   Krzhizhanovskaya, VV
+   Dongarra, J
+   Sloot, PMA
+ER
+
+PT C
+AU Karamani, RE
+   Fyrigos, IA
+   Ntinas, V
+   Liolis, O
+   Dimitrakopoulos, G
+   Altun, M
+   Adamatzky, A
+   Stan, MR
+   Sirakoulis, GC
+AF Karamani, Rafailia-Eleni
+   Fyrigos, Iosif-Angelos
+   Ntinas, Vasileios
+   Liolis, Orestis
+   Dimitrakopoulos, Giorgos
+   Altun, Mustafa
+   Adamatzky, Andrew
+   Stan, Mircea R.
+   Sirakoulis, Georgios Ch
+GP IEEE
+ER
+
+PT J
+AU Kari, J
+   Le Gloannec, B
+AF Kari, Jarkko
+   Le Gloannec, Bastien
+ER
+
+PT J
+AU Beigy, H
+   Meybodi, MR
+AF Beigy, Hamid
+   Meybodi, Mohammad Reza
+ER
+
+PT J
+AU Del Rey, AM
+   Sanchez, GR
+AF Martin Del Rey, A.
+   Rodriguez Sanchez, G.
+ER
+
+PT J
+AU Nutaro, J
+   Stump, B
+   Shukla, P
+AF Nutaro, James
+   Stump, Benjamin
+   Shukla, Pratishtha
+ER
+
+PT J
+AU Jiménez, A
+AF Jimenez, Abigail
+ER
+
+PT C
+AU Ghosh, AK
+   Choudhury, PP
+   Basuray, A
+AF Ghosh, Amal K.
+   Choudhury, Pabitra Pal
+   Basuray, Amitabha
+BE Sobh, T
+ER
+
+PT J
+AU Ceccherini-Silberstein, T
+   Coornaert, M
+AF Ceccherini-Silberstein, Tullio
+   Coornaert, Michel
+ER
+
+PT J
+AU Arrighi, P
+   Nesme, V
+   Werner, R
+AF Arrighi, Pablo
+   Nesme, Vincent
+   Werner, Reinhard
+ER
+
+PT C
+AU Mariot, L
+   Leporati, A
+AF Mariot, Luca
+   Leporati, Alberto
+BE ElYacoubi, S
+   Was, J
+   Bandini, S
+ER
+
+PT J
+AU Murata, M
+AF Murata, Mikio
+ER
+
+PT J
+AU Malarz, K
+   Kulakowski, K
+AF Malarz, K.
+   Kulakowski, K.
+ER
+
+PT J
+AU Bowers, GA
+   Seybold, PG
+AF Bowers, Gregory A.
+   Seybold, Paul G.
+ER
+
+PT J
+AU Bandini, S
+   Pavesi, G
+AF Bandini, S
+   Pavesi, G
+ER
+
+PT C
+AU Shimura, K
+   Tanaka, Y
+   Nishinari, K
+AF Shimura, Kenichiro
+   Tanaka, Yuki
+   Nishinari, Katsuhiro
+BE Bandini, S
+   Manzoni, S
+   Umeo, H
+   Vizzari, G
+ER
+
+PT J
+AU Evsutin, O
+   Shelupanov, A
+   Meshcheryakov, R
+   Bondarenko, D
+   Rashchupkina, A
+AF Evsutin, Oleg
+   Shelupanov, Alexander
+   Meshcheryakov, Roman
+   Bondarenko, Dmitry
+   Rashchupkina, Angelika
+ER
+
+PT C
+AU Sirakoulis, GC
+AF Sirakoulis, Georgios Ch
+BE Holzer, M
+   Kutrib, M
+ER
+
+PT J
+AU León, A
+   Barticevic, Z
+   Pacheco, M
+AF Leon, A.
+   Barticevic, Z.
+   Pacheco, M.
+ER
+
+PT J
+AU Sahoo, S
+   Choudhury, PP
+   Pal, A
+   Nayak, BK
+AF Sahoo, Sudhakar
+   Choudhury, Pabitra Pal
+   Pal, Amita
+   Nayak, Birendra Kumar
+ER
+
+PT J
+AU Kutrib, M
+   Malcher, A
+AF Kutrib, Martin
+   Malcher, Andreas
+ER
+
+PT C
+AU Anghelescu, P
+   Sofron, E
+   Ionita, S
+AF Anghelescu, Petre
+   Sofron, Emil
+   Ionita, Silviu
+GP IEEE
+ER
+
+PT J
+AU Zhou, HL
+   Gao, ZY
+   Li, KP
+AF Zhou, Hua-Liang
+   Gao, Zi-You
+   Li, Ke-Ping
+ER
+
+PT J
+AU Benavides, L
+   Alcalá, M
+   Almaguer, FJ
+   Schaeffer, E
+   Berrones, A
+AF Benavides, Luis
+   Alcala, Monica
+   Almaguer, F-Javier
+   Schaeffer, Elisa
+   Berrones, Arturo
+ER
+
+PT C
+AU Arrighi, P
+   Di Molfetta, G
+   Eon, N
+AF Arrighi, Pablo
+   Di Molfetta, Giuseppe
+   Eon, Nathanael
+BE MartinVide, C
+   Pond, G
+   VegaRodriguez, MA
+ER
+
+PT C
+AU Lach, L
+   Svyetlichnyy, DS
+AF Lach, Lukasz
+   Svyetlichnyy, Dmytro S.
+BE Merklein, M
+   Hagenah, H
+ER
+
+PT J
+AU Spezzano, G
+   Talia, D
+AF Spezzano, G
+   Talia, D
+ER
+
+PT J
+AU Jiménez-Morales, F
+AF Jiménez-Morales, F
+ER
+
+PT J
+AU Neebel, DJ
+   Kime, CR
+AF Neebel, DJ
+   Kime, CR
+ER
+
+PT J
+AU Kier, LB
+   Cheng, CK
+   Seybold, PG
+AF Kier, LB
+   Cheng, CK
+   Seybold, PG
+ER
+
+PT S
+AU Mukhopadhyay, D
+   RoyChowdhury, D
+AF Mukhopadhyay, Debdeep
+   RoyChowdhury, Dipanwita
+BE Yacoubi, SE
+   Chopard, B
+   Bandini, S
+ER
+
+PT C
+AU Abdalla, MM
+   Setoodeh, S
+   Gürdal, Z
+AF Abdalla, Mostafa M.
+   Setoodeh, Shahriar
+   Gurdal, Zafer
+BE Bendsoe, MP
+   Olhoff, N
+   Sigmund, O
+ER
+
+PT J
+AU Redeker, M
+AF Redeker, Markus
+ER
+
+PT J
+AU Kutrib, M
+   Malcher, A
+AF Kutrib, Martin
+   Malcher, Andreas
+ER
+
+PT J
+AU Augustynowicz, A
+   Baetens, JM
+   De Baets, B
+   Dzedzej, A
+   Nenca, A
+   Wolnik, B
+AF Augustynowicz, Antoni
+   Baetens, Jan M.
+   De Baets, Bernard
+   Dzedzej, Adam
+   Nenca, Anna
+   Wolnik, Barbara
+ER
+
+PT J
+AU Macauley, M
+   McCammond, J
+   Mortveit, HS
+AF Macauley, Matthew
+   McCammond, Jon
+   Mortveit, Henning S.
+ER
+
+PT J
+AU Fuks, H
+   Mudiyanselage, SA
+AF Fuks, Henryk
+   Mudiyanselage, Sanchala Abeykoon
+ER
+
+PT J
+AU Kawaharada, A
+AF Kawaharada, Akane
+ER
+
+PT C
+AU Franti, E
+   Goschin, S
+   Dascalu, M
+   Catrina, N
+   Dobrin, M
+AF Franti, E
+   Goschin, S
+   Dascalu, M
+   Catrina, N
+   Dobrin, M
+GP IEEE
+ER
+
+PT J
+AU Wozniak, J
+AF Wozniak, Jaroslaw
+ER
+
+PT C
+AU Yu, FX
+   Xiong, WQ
+   Li, G
+AF Yu, Fengxia
+   Xiong, Weiqing
+   Li, Gang
+BE Yu, YX
+   Yu, ZT
+   Zhao, JY
+ER
+
+PT J
+AU Kiliç, H
+AF Kilic, Hurevren
+ER
+
+PT C
+AU Lakra, R
+   John, A
+   Jose, J
+AF Lakra, Rohit
+   John, Anita
+   Jose, Jimmy
+BE Mauri, G
+   Yacoubi, SE
+   Dennunzio, A
+   Nishinari, K
+   Manzoni, L
+ER
+
+PT J
+AU Yan, F
+   Feng, XT
+   Pan, PZ
+   Li, YP
+AF Yan, Fei
+   Feng, Xia-Ting
+   Pan, Peng-Zhi
+   Li, Yin-Ping
+ER
+
+PT C
+AU Nishio, H
+AF Nishio, Hidenosuke
+BE DurandLose, J
+   Margenstern, M
+ER
+
+PT C
+AU Liu, SY
+   Wan, Q
+   Zhang, H
+AF Liu Suyi
+   Wan Qian
+   Zhang Heng
+BE Luo, Q
+ER
+
+PT C
+AU Javid, MAJ
+   al-Rifaie, MM
+   Zimmer, R
+AF Javid, Mohammad Ali Javaheri
+   al-Rifaie, Mohammad Majid
+   Zimmer, Robert
+BE Dediu, AH
+   Lozano, M
+   MartinVide, C
+ER
+
+PT J
+AU Boccara, N
+   Fuks, H
+AF Boccara, Nino
+   Fuks, Henryk
+ER
+
+PT C
+AU Ouardouz, M
+   Bernoussi, A
+   Kassogué, H
+   Amharref, M
+AF Ouardouz, Mustapha
+   Bernoussi, Abdessamed
+   Kassogue, Hamidou
+   Amharref, Mina
+BE Vinh, PC
+   Barolli, L
+ER
+
+PT J
+AU Kutrib, M
+   Malcher, A
+AF Kutrib, Martin
+   Malcher, Andreas
+ER
+
+PT J
+AU Guzmán, J
+   Romero, N
+AF Guzman, Jairo
+   Romero, Neptali
+ER
+
+PT C
+AU Lin, YQ
+   Chen, RS
+   Li, MJ
+AF Lin Yuan-qing
+   Chen Rang-sheng
+   Li Mei-juan
+BE Zhang, SY
+   Han, ZG
+   Wang, F
+ER
+
+PT J
+AU Ambili, KN
+   Jose, JIMMY
+AF Ambili, K. N.
+   Jose, J. I. M. M. Y.
+ER
+
+PT C
+AU Cui, YY
+   Zeng, ZY
+   Zhang, SZ
+AF Cui, Yuyong
+   Zeng, Zhiyuan
+   Zhang, Sizhe
+BE Qui, R
+   Zhao, H
+ER
+
+PT J
+AU Herr, CM
+   Kvan, T
+AF Herr, Christiane M.
+   Kvan, Thomas
+ER
+
+PT J
+AU Kheyrandish, M
+   Setayeshi, S
+   Rahmani, AM
+AF Kheyrandish, Mohammad
+   Setayeshi, Saeed
+   Rahmani, Amir Masoud
+ER
+
+PT C
+AU del Rey, AM
+   Sánchez, GR
+   Cuenca, AD
+AF Martin del Rey, A.
+   Rodriguez Sanchez, G.
+   de la Villa Cuenca, A.
+BE Corchado, E
+   Snasel, V
+   Abraham, A
+   Wozniak, M
+   Grana, M
+   Cho, SB
+ER
+
+PT J
+AU Tzionas, PG
+AF Tzionas, PG
+ER
+
+PT J
+AU Matic, P
+   Geltmacher, AB
+AF Matic, P
+   Geltmacher, AB
+ER
+
+PT C
+AU Zhang, KZ
+   Zhang, LJ
+AF Zhang, Kuize
+   Zhang, Lijun
+BE Cheng, D
+ER
+
+PT J
+AU Contreras, G
+   Goidanich, S
+   Maggi, S
+   Piccardi, C
+   Diamanti, MV
+   Pedeferri, MP
+   Lazzari, L
+AF Contreras, Grabriela
+   Goidanich, Sara
+   Maggi, Stefano
+   Piccardi, Carlo
+   Diamanti, Maria Vittoria
+   Pedeferri, Maria Pia
+   Lazzari, Luciano
+ER
+
+PT J
+AU Kari, J
+AF Kari, Jarkko
+ER
+
+PT J
+AU Jalonen, J
+   Kari, J
+AF Jalonen, Joonatan
+   Kari, Jarkko
+ER
+
+PT C
+AU Richard, G
+AF Richard, Gaetan
+BE Vollmer, H
+   Vallee, B
+ER
+
+PT C
+AU Parashar, D
+   Roy, S
+   Jain, V
+AF Parashar, Deepika
+   Roy, Satyabrata
+   Jain, Vipin
+GP IEEE
+ER
+
+PT J
+AU Lárraga, ME
+   del Río, JA
+   Alvarez-lcaza, L
+AF Lárraga, ME
+   del Río, JA
+   Alvarez-lcaza, L
+ER
+
+PT C
+AU Grasso, C
+   Bongard, J
+AF Grasso, Caitlin
+   Bongard, Josh
+GP ACM
+ER
+
+PT C
+AU Stathis, D
+   Vourkas, I
+   Sirakoulis, GC
+AF Stathis, Dimitrios
+   Vourkas, Ioannis
+   Sirakoulis, Georgios Ch.
+BE Was, J
+   Sirakoulis, GC
+   Bandini, S
+ER
+
+PT J
+AU Ahmed, E
+   Agiza, HN
+   Hassan, SZ
+AF Ahmed, E
+   Agiza, HN
+   Hassan, SZ
+ER
+
+PT C
+AU Abe, S
+   Fujioka, K
+AF Abe, Sayaka
+   Fujioka, Kaoru
+BE Barolli, L
+   Xhafa, F
+   Chen, X
+   Ikeda, M
+ER
+
+PT J
+AU Regnault, D
+   Schabanel, N
+   Thierry, É
+AF Regnault, Damien
+   Schabanel, Nicolas
+   Thierry, Eric
+ER
+
+PT C
+AU Bhandari, S
+   Overskott, S
+   Adamopoulos, I
+   Lind, PG
+   Denysov, S
+   Nichele, S
+AF Bhandari, Shailendra
+   Overskott, Sebastian
+   Adamopoulos, Ioannis
+   Lind, Pedro G.
+   Denysov, Sergiy
+   Nichele, Stefano
+BE Chopard, B
+   Bandini, S
+   Dennunzio, A
+   Haddad, MA
+ER
+
+PT J
+AU Martínez, SJ
+   Mendoza, IM
+   Martínez, GJ
+   Ninagawa, S
+AF Martinez, Sergio J.
+   Mendoza, Ivan M.
+   Martinez, Genaro J.
+   Ninagawa, Shigeru
+ER
+
+PT J
+AU Seredynski, F
+   Zomaya, AY
+AF Seredynski, F
+   Zomaya, AY
+ER
+
+PT J
+AU Jadur, C
+   Yazlle, J
+AF Jadur, Camilo
+   Yazlle, Jorge
+ER
+
+PT C
+AU Zhang, SA
+   Zhao, JY
+   Li, LY
+AF Zhang, Shuai
+   Zhao, Jingyin
+   Li, Linyi
+BE Li, DL
+ER
+
+PT J
+AU Reinoso-Burrows, JC
+   Toro, N
+   Cortés-Carmona, M
+   Pineda, F
+   Henriquez, M
+   Madrid, FMG
+AF Reinoso-Burrows, Juan C.
+   Toro, Norman
+   Cortes-Carmona, Marcelo
+   Pineda, Fabiola
+   Henriquez, Mauro
+   Madrid, Felipe M. Galleguillos
+ER
+
+PT J
+AU Pulecio, JF
+   Pendru, PK
+   Kumari, A
+   Bhanja, S
+AF Pulecio, Javier F.
+   Pendru, Pruthvi K.
+   Kumari, Anita
+   Bhanja, Sanjukta
+ER
+
+PT J
+AU Ren, ZL
+   Deng, ZD
+   Sun, ZQ
+AF Ren, ZL
+   Deng, ZD
+   Sun, ZQ
+ER
+
+PT J
+AU Kong, GT
+   Imai, K
+   Nakanishi, T
+AF Kong, Gil-Tak
+   Imai, Katsunobu
+   Nakanishi, Toru
+ER
+
+PT C
+AU Somarakis, CE
+   Papavassilopoulos, GP
+   Udwadia, FE
+AF Somarakis, C. E.
+   Papavassilopoulos, G. P.
+   Udwadia, F. E.
+BE Louca, LS
+   Chrysanthou, Y
+   Oplatkova, Z
+   AlBegain, K
+ER
+
+PT J
+AU Dennunzio, A
+   Formenti, E
+   Provillard, J
+AF Dennunzio, Alberto
+   Formenti, Enrico
+   Provillard, Julien
+ER
+
+PT J
+AU Pivato, M
+AF Pivato, Marcus
+ER
+
+PT C
+AU John, A
+   Nandu, BC
+   Ajesh, A
+   Jose, J
+AF John, Anita
+   Nandu, B. C.
+   Ajesh, Athul
+   Jose, Jimmy
+BE Gwizdalla, TM
+   Manzoni, L
+   Sirakoulis, GC
+   Bandini, S
+   Podlaski, K
+ER
+
+PT J
+AU Margenstern, M
+AF Margenstern, Maurice
+ER
+
+PT J
+AU Kawaharada, A
+AF Kawaharada, Akane
+ER
+
+PT J
+AU Sarkar, P
+   Barua, R
+AF Sarkar, P
+   Barua, R
+ER
+
+PT J
+AU Sirakoulis, GC
+   Karafyllidis, I
+   Thanailakis, A
+AF Sirakoulis, GC
+   Karafyllidis, I
+   Thanailakis, A
+ER
+
+PT C
+AU Myroniv, I
+   Ostapov, S
+   Zhikharevich, V
+AF Myroniv, Ivan
+   Ostapov, Sergey
+   Zhikharevich, Volodymyr
+GP IEEE
+ER
+
+PT J
+AU Baños, LD
+   García-Ramos, F
+AF de los Santos Banos, Luguis
+   Garcia-Ramos, Felipe
+ER
+
+PT J
+AU Sanchez, JR
+AF Sanchez, JR
+ER
+
+PT J
+AU Maji, P
+AF Maji, Pradipta
+ER
+
+PT J
+AU Jones, DH
+   McWilliam, R
+   Purvis, A
+AF Jones, David H.
+   McWilliam, Richard
+   Purvis, Alan
+ER
+
+PT J
+AU Alonso-Sanz, R
+AF Alonso-Sanz, Ramon
+ER
+
+PT J
+AU Lobo, JL
+   Del Ser, J
+   Herrera, F
+AF Lobo, Jesus L.
+   Del Ser, Javier
+   Herrera, Francisco
+ER
+
+PT J
+AU Akin, H
+AF Akin, Hasan
+ER
+
+PT J
+AU Carvalho, TI
+   Carneiro, MG
+   Oliveira, GMB
+AF Carvalho, Tiago, I
+   Carneiro, Murillo G.
+   Oliveira, Gina M. B.
+ER
+
+PT J
+AU Naskar, N
+   Sivaraj, BK
+   Mukherjee, S
+AF Naskar, Nazma
+   Sivaraj, B. K.
+   Mukherjee, Sukanya
+ER
+
+PT C
+AU Corrêa, RD
+   de Oliveira, PPB
+AF Correa, Ronaldo de Castro
+   de Oliveira, Pedro P. B.
+BE Cook, M
+   Neary, T
+ER
+
+PT J
+AU Yuan, WF
+   Tan, KH
+AF Yuan, Welfeng
+   Tan, Kang Hal
+ER
+
+PT J
+AU Ashraf, M
+   Sarim, M
+   Shaikh, AB
+AF Ashraf, Muhammad
+   Sarim, Muhammad
+   Shaikh, Abdul Basit
+ER
+
+PT J
+AU Cheney, N
+   Lipson, H
+AF Cheney, Nick
+   Lipson, Hod
+ER
+
+PT J
+AU Salazar, G
+   Ugalde, E
+   Urías, J
+AF Salazar, G
+   Ugalde, E
+   Urías, J
+ER
+
+PT C
+AU Hoffmann, R
+   Désérable, D
+AF Hoffmann, Rolf
+   Deserable, Dominique
+BE ElYacoubi, S
+   Was, J
+   Bandini, S
+ER
+
+PT J
+AU Ishida, T
+   Inokuchi, S
+   Kawahara, Y
+AF Ishida, Toshikazu
+   Inokuchi, Shuichi
+   Kawahara, Yasuo
+ER
+
+PT C
+AU Dong, LY
+   Zhang, P
+   Dai, SQ
+AF Dong, Liyun
+   Zhang, Peng
+   Dai, Shiqiang
+BE Bandini, S
+   Manzoni, S
+   Umeo, H
+   Vizzari, G
+ER
+
+PT J
+AU LIN, S
+   KUMAZAWA, I
+   WU, J
+AF LIN, S
+   KUMAZAWA, I
+   WU, J
+ER
+
+PT C
+AU Walus, K
+   Budiman, RA
+   Mazur, M
+   Jullien, GA
+   Schulhof, G
+AF Walus, K
+   Budiman, RA
+   Mazur, M
+   Jullien, GA
+   Schulhof, G
+GP IEEE
+ER
+
+PT J
+AU Cattell, K
+   Muzio, JC
+AF Cattell, K
+   Muzio, JC
+ER
+
+PT J
+AU Roth, TO
+AF Roth, Tim Otto
+ER
+
+PT J
+AU Inokuchi, S
+   Furusawa, H
+   Ishida, T
+   Kawahara, Y
+AF Inokuchi, Shuichi
+   Furusawa, Hitoshi
+   Ishida, Toshikazu
+   Kawahara, Yasuo
+ER
+
+PT C
+AU Abdennour, I
+   Ouardouz, M
+   Bernoussi, AS
+AF Abdennour, Iliasse
+   Ouardouz, Mustapha
+   Bernoussi, Abdes Samed
+BE Mauri, G
+   Yacoubi, SE
+   Dennunzio, A
+   Nishinari, K
+   Manzoni, L
+ER
+
+PT J
+AU Delacourt, M
+   de Menibus, BH
+AF Delacourt, Martin
+   Hellouin de Menibus, Benjamin
+ER
+
+PT J
+AU Dos Santos, RMZ
+AF Dos Santos, RMZ
+ER
+
+PT J
+AU Seredynski, M
+   Bouvry, P
+AF Seredynski, M
+   Bouvry, P
+ER
+
+PT J
+AU Doba, N
+AF Doba, Nobutaka
+ER
+
+PT J
+AU Slotta, DJ
+   Tatting, B
+   Watson, LT
+   Gürdal, Z
+   Missoum, S
+AF Slotta, DJ
+   Tatting, B
+   Watson, LT
+   Gürdal, Z
+   Missoum, S
+ER
+
+PT C
+AU Jacob, J
+   Joseph, J
+   Abinshad, MK
+   Ambili, KN
+   Jose, J
+AF Jacob, Joseph
+   Joseph, Jossy
+   Abinshad, M. K.
+   Ambili, K. N.
+   Jose, Jimmy
+BE Gwizdalla, TM
+   Manzoni, L
+   Sirakoulis, GC
+   Bandini, S
+   Podlaski, K
+ER
+
+PT C
+AU Tinoco, CR
+   Ferreira, HF
+   Martins, LGA
+   Oliveira, GMB
+AF Tinoco, Claudiney R.
+   Ferreira, Heitor F.
+   Martins, Luiz G. A.
+   Oliveira, Gina M. B.
+BE Chopard, B
+   Bandini, S
+   Dennunzio, A
+   Haddad, MA
+ER
+
+PT C
+AU Nagy, B
+   Major, SR
+AF Nagy, Benedek
+   Major, S. Roland
+GP IEEE
+ER
+
+PT J
+AU Liu, WB
+   Ma, JH
+AF Liu, Weibin
+   Ma, Jihua
+ER
+
+PT J
+AU Rao, US
+   Jeganathan, L
+   Mathew, T
+AF Rao, U. Srinivasa
+   Jeganathan, L.
+   Mathew, Tessy
+ER
+
+PT C
+AU Rusinovic, Z
+   Bogunovic, N
+AF Rusinovic, Zoran
+   Bogunovic, Nikola
+BE LuzarStiffler, V
+   Dobric, VH
+ER
+
+PT J
+AU Beltran, FS
+   Herrando, S
+   Ferreres, D
+   Adell, MA
+   Estreder, V
+   Ruiz-Soler, M
+AF Beltran, Francesc S.
+   Herrando, Salvador
+   Ferreres, Doris
+   Adell, Marc-Antoni
+   Estreder, Violant
+   Ruiz-Soler, Marcos
+ER
+
+PT J
+AU Adachi, S
+   Peper, F
+   Lee, J
+AF Adachi, S
+   Peper, F
+   Lee, J
+ER
+
+PT C
+AU Phon-Amnuaisuk, S
+AF Phon-Amnuaisuk, Somnuk
+BE Giacobini, M
+   Brabazon, A
+   Cagnoni, S
+   DiCaro, GA
+   Ekart, A
+   EsparciaAlcazar, AI
+   Farooq, M
+   Fink, A
+   Machado, P
+   McCormack, J
+   ONeill, M
+   Neri, F
+   Preuss, M
+   Rothlauf, F
+   Tarantino, E
+   Yang, S
+ER
+
+PT C
+AU Anghelescu, P
+AF Anghelescu, Petre
+GP IEEE
+ER
+
+PT C
+AU Peng, W
+AF Peng, Wang
+BE Wen, TD
+ER
+
+PT C
+AU Bouchkaren, S
+   Lazaar, S
+AF Bouchkaren, Said
+   Lazaar, Saiida
+BE ElOualkadi, A
+   Choubani, F
+   ElMoussati, A
+ER
+
+PT J
+AU Furusawa, H
+AF Furusawa, Hitoshi
+ER
+
+PT C
+AU Sleit, A
+   Dalhoum, AL
+   Al-Dhamari, I
+   Awwad, A
+AF Sleit, Azzam
+   Abu Dalhoum, Abdel Latif
+   Al-Dhamari, Ibraheem
+   Awwad, Aiman
+BE Mastorakis, NE
+   Mladenov, V
+   Bojkovic, Z
+   Kartalopoulos, S
+   Varonides, A
+   Jha, M
+ER
+
+PT J
+AU Walus, K
+   Budiman, RA
+   Jullien, GA
+AF Walus, K
+   Budiman, RA
+   Jullien, GA
+ER
+
+PT J
+AU Terrier, V
+AF Terrier, Veronique
+ER
+
+PT J
+AU Suzudo, T
+AF Suzudo, T
+ER
+
+PT C
+AU Naskar, N
+   Das, S
+AF Naskar, Nazma
+   Das, Sukanta
+BE ElYacoubi, S
+   Was, J
+   Bandini, S
+ER
+
+PT C
+AU Zhang, H
+   Li, J
+   Xiao, YL
+AF Zhang, Hui
+   Li, Ji
+   Xiao, Yueliang
+GP IEEE
+ER
+
+PT J
+AU ELORANTA, K
+AF ELORANTA, K
+ER
+
+PT J
+AU Ahmed, E
+   Elgazzar, AS
+AF Ahmed, E.
+   Elgazzar, A. S.
+ER
+
+PT S
+AU Cervelle, J
+   Durand, B
+   Formenti, E
+AF Cervelle, J
+   Durand, B
+   Formenti, E
+BE Sgall, J
+   Pultr, A
+   Kolman, P
+ER
+
+PT C
+AU Angeline, L
+   Choong, MY
+   Chua, BL
+   Chin, RKY
+   Teo, KTK
+AF Angeline, Lorita
+   Choong, Mei Yeen
+   Chua, Bih Lii
+   Chin, Renee Ka Yin
+   Teo, Kenneth Tze Kin
+GP IEEE
+ER
+
+PT C
+AU Isokawa, T
+   Abo, F
+   Peper, F
+   Kamiura, N
+   Matsui, N
+AF Isokawa, T
+   Abo, F
+   Peper, F
+   Kamiura, N
+   Matsui, N
+GP IEEE
+ER
+
+PT C
+AU Herr, CM
+   Kvan, T
+AF Herr, CM
+   Kvan, T
+BE Martens, B
+   Brown, A
+ER
+
+PT J
+AU Castillo-Ramirez, A
+   Gadouleau, M
+AF Castillo-Ramirez, Alonso
+   Gadouleau, Maximilien
+ER
+
+PT J
+AU Drieseberg, J
+   Siemers, C
+AF Drieseberg, Jens
+   Siemers, Christian
+ER
+
+PT J
+AU Adamatzky, AI
+AF Adamatzky, AI
+ER
+
+PT C
+AU Demontis, P
+   Pazzona, FG
+   Suffritti, GB
+AF Demontis, Pierfranco
+   Pazzona, Federico G.
+   Suffritti, Giuseppe B.
+BE Gedeon, A
+   Massiani, P
+   Babonneau, F
+ER
+
+PT C
+AU Amorim, RM
+   Campos, RS
+   Lobosco, M
+   Jacob, C
+   dos Santos, RW
+AF Amorim, Ronan Mendonca
+   Campos, Ricardo Silva
+   Lobosco, Marcelo
+   Jacob, Christian
+   dos Santos, Rodrigo Weber
+BE Sirakoulis, GC
+   Bandini, S
+ER
+
+PT C
+AU Göncü, E
+   Yalçin, ME
+AF Goncu, Emre
+   Yalcin, Mustak E.
+GP IEEE
+ER
+
+PT J
+AU Romero, N
+   Rovella, A
+   Vilamajó, F
+AF Romero, N.
+   Rovella, A.
+   Vilamajo, F.
+ER
+
+PT J
+AU Mo, YB
+   Ren, B
+   Yang, WC
+   Shuai, JW
+AF Mo, Youbin
+   Ren, Bin
+   Yang, Wencao
+   Shuai, Jianwei
+ER
+
+PT C
+AU Busic, A
+   Mairesse, J
+   Marcovici, I
+AF Busic, Ana
+   Mairesse, Jean
+   Marcovici, Irene
+BE Schwentick, T
+   Durr, C
+ER
+
+PT J
+AU Basu, S
+   Basu, S
+AF Basu, Subhasree
+   Basu, Sumita
+ER
+
+PT J
+AU Morita, K
+AF Morita, Kenichi
+ER
+
+PT C
+AU Zhang, LL
+   Shiri, S
+   Garoni, TM
+AF Zhang, Lele
+   Shiri, Somayeh
+   Garoni, Timothy M.
+BE Was, J
+   Sirakoulis, GC
+   Bandini, S
+ER
+
+PT C
+AU Varshney, M
+   RoyChowdhury, D
+AF Varshney, Mayank
+   RoyChowdhury, D.
+BE FernandezMedina, E
+   Malek, M
+   Hernando, J
+ER
+
+PT C
+AU Bidlo, M
+AF Bidlo, Michal
+GP ACM
+ER
+
+PT C
+AU Tretyakova, A
+   Seredynski, F
+   Bouvry, P
+AF Tretyakova, Antonina
+   Seredynski, Franciszek
+   Bouvry, Pascal
+BE Was, J
+   Sirakoulis, GC
+   Bandini, S
+ER
+
+PT J
+AU Mingarelli, AB
+AF Mingarelli, Angelo B.
+ER
+
+PT J
+AU Fatès, N
+   Thierry, É
+   Morvan, M
+   Schabanel, N
+AF Fates, Nazim
+   Thierry, Eric
+   Morvan, Michel
+   Schabanel, Nicolas
+ER
+
+PT C
+AU Wang, D
+   Li, BL
+AF Wang, Dan
+   Li, Beilei
+BE Kim, YH
+ER
+
+PT J
+AU Schadschneider, A
+AF Schadschneider, Andreas
+ER
+
+PT C
+AU Isokawa, T
+   Kunieda, T
+   Matsui, N
+   Peper, F
+AF Isokawa, Teijiro
+   Kunieda, Tadashi
+   Matsui, Nobuyuki
+   Peper, Ferdinand
+GP IEEE
+ER
+
+PT J
+AU Hazard, CJ
+   Kimport, KR
+   Johnson, DH
+AF Hazard, CJ
+   Kimport, KR
+   Johnson, DH
+ER
+
+PT J
+AU Ceccherini-Silberstein, T
+   Coornaert, M
+   Fiorenzi, F
+   Sunic, Z
+AF Ceccherini-Silberstein, Tullio
+   Coornaert, Michel
+   Fiorenzi, Francesca
+   Sunic, Zoran
+ER
+
+PT J
+AU Qin, Y
+   Feng, MY
+   Lu, HC
+   Cottrell, GW
+AF Qin, Yao
+   Feng, Mengyang
+   Lu, Huchuan
+   Cottrell, Garrison W.
+ER
+
+PT C
+AU Tangsakul, S
+   Wongthanavasu, S
+AF Tangsakul, Surasak
+   Wongthanavasu, Sartra
+BE Mitrpanont, J
+   Sawangphol, W
+ER
+
+PT C
+AU Wang, S
+   Imai, K
+   Hagiya, M
+AF Wang, Shaoyu
+   Imai, Katsunobu
+   Hagiya, Masami
+GP IEEE
+ER
+
+PT J
+AU Fathi, M
+   Mohebbi, M
+   Varshosaz, J
+   Shahidi, F
+AF Fathi, Milad
+   Mohebbi, Mohebbat
+   Varshosaz, Jaleh
+   Shahidi, Fakhri
+ER
+
+PT J
+AU Burrieza, JE
+   del Rey, AM
+   Iglesias, JLP
+   Sánchez, GR
+   Dios, AQ
+   Cuenca, AD
+AF Escuadra Burrieza, J.
+   Martin del Rey, A.
+   Perez Iglesias, J. L.
+   Rodriguez Sanchez, G.
+   Queiruga Dios, A.
+   de la Villa Cuenca, A.
+ER
+
+PT J
+AU Hsiung, M
+AF Hsiung, Ming
+ER
+
+PT J
+AU Ferrando, N
+   Herrero, V
+   Cerdà, J
+   Lerche, CW
+   Colom, RJ
+   Gadea, R
+   Martínez, JD
+   Monzó, JM
+   Mateo, F
+   Sebastià, A
+   Benlloch, JM
+AF Ferrando, Nestor
+   Herrero, V.
+   Cerda, J.
+   Lerche, C. W.
+   Colom, R. J.
+   Gadea, R.
+   Martinez, J. D.
+   Monzo, J. M.
+   Mateo, F.
+   Sebastia, A.
+   Benlloch, J. M.
+ER
+
+PT J
+AU Wang, Y
+   Zhao, Y
+   Zhou, Q
+   Lin, ZH
+AF Wang, Yong
+   Zhao, Yi
+   Zhou, Qing
+   Lin, Zehui
+ER
+
+PT J
+AU Kong, GT
+   Imai, K
+   Nakanishi, T
+AF Kong, G. T.
+   Imai, K.
+   Nakanishi, T.
+ER
+
+PT C
+AU Li, K
+   Tian, SL
+   Geng, LJ
+   Zhang, X
+AF Li Kai
+   Tian Shuang-liang
+   Geng Li-jun
+   Zhang Xi
+BE Luo, Q
+ER
+
+PT J
+AU Janus-Galkiewicz, U
+   Neimitz, A
+AF Janus-Galkiewicz, Urszula
+   Neimitz, Andrzej
+ER
+
+PT J
+AU Margem, M
+   Gedik, OS
+AF Margem, Mrwan
+   Gedik, Osman S.
+ER
+
+PT C
+AU He, JL
+   Li, MT
+AF He Junlian
+   Li Mingtian
+BE Zou, Y
+   Yu, F
+   Jia, Z
+   Li, Z
+ER
+
+PT J
+AU Moreira, A
+AF Moreira, A
+ER
+
+PT J
+AU Mairesse, J
+   Marcovici, I
+AF Mairesse, Jean
+   Marcovici, Irene
+ER
+
+PT J
+AU Sipper, M
+   Tomassini, M
+   Capcarrere, MS
+AF Sipper, M
+   Tomassini, M
+   Capcarrere, MS
+ER
+
+PT J
+AU Heen, O
+AF Heen, O
+ER
+
+PT J
+AU Marks, B
+   Einav, I
+AF Marks, Benjy
+   Einav, Itai
+ER
+
+PT J
+AU Guan, SU
+   Tan, SM
+AF Guan, SU
+   Tan, SM
+ER
+
+PT J
+AU Del Rey, AM
+AF Del Rey, A. Martin
+ER
+
+PT J
+AU Schranko, A
+   de Oliveira, PPB
+AF Schranko, Angelo
+   de Oliveira, Pedro P. B.
+ER
+
+PT C
+AU He, JL
+   Li, MT
+AF He Junlian
+   Li Mingtian
+BE Zhou, XJ
+ER
+
+PT J
+AU Uragami, D
+   Gunji, YP
+AF Uragami, Daisuke
+   Gunji, Yukio-Pegio
+ER
+
+PT J
+AU Hillberry, LE
+   Jones, MT
+   Vargas, DL
+   Ra, P
+   Halpern, NY
+   Bao, N
+   Notarnicola, S
+   Montangero, S
+   Carr, LD
+AF Hillberry, Logan E.
+   Jones, Matthew T.
+   Vargas, David L.
+   Ra, Patrick
+   Halpern, Nicole Yunger
+   Bao, Ning
+   Notarnicola, Simone
+   Montangero, Simone
+   Carr, Lincoln D.
+ER
+
+PT C
+AU Colombo, FB
+   Carreño, MNP
+AF Colombo, F. B.
+   Carreno, M. N. P.
+GP IEEE
+ER
+
+PT J
+AU Julián, P
+   Chua, LO
+AF Julián, P
+   Chua, LO
+ER
+
+PT J
+AU Gravner, J
+   Holroyd, AE
+AF Gravner, Janko
+   Holroyd, Alexander E.
+ER
+
+PT J
+AU Kumar, A
+   Sharma, SK
+AF Kumar, Anil
+   Sharma, Sandeep Kumar
+ER
+
+PT J
+AU Mora, JCST
+   Martínez, GJ
+   McIntosh, HV
+AF Tuoh Mora, Juan Carlos Seck
+   Juarez Martinez, Genaro
+   McIntosh, Harold V.
+ER
+
+PT C
+AU Mishra, AK
+   Ahmad, F
+   Pariyar, P
+   Ghosh, A
+   Srivastava, P
+   Sumanth, G
+   Dubey, A
+AF Mishra, Alekha Kumar
+   Ahmad, Faraz
+   Pariyar, Prawigya
+   Ghosh, Abhishek
+   Srivastava, Pushan
+   Sumanth, G.
+   Dubey, Ashutosh
+GP IEEE
+ER
+
+PT J
+AU Ghosh, S
+AF Ghosh, Sreeya
+ER
+
+PT J
+AU Xu, X
+   Song, Y
+   Banks, SP
+AF Xu, Xu
+   Song, Yi
+   Banks, Stephen P.
+ER
+
+PT J
+AU Matsukidaira, J
+   Satsuma, J
+   Takahashi, D
+   Tokihiro, T
+   Torii, M
+AF Matsukidaira, J
+   Satsuma, J
+   Takahashi, D
+   Tokihiro, T
+   Torii, M
+ER
+
+PT J
+AU Dridi, S
+   Bagnoli, F
+   El Yacoubi, S
+AF Dridi, Sara
+   Bagnoli, Franco
+   El Yacoubi, Samira
+ER
+
+PT J
+AU Georgiadis, E
+AF Georgiadis, Evangelos
+ER
+
+PT C
+AU Jicuicui
+AF Jicuicui
+GP IEEE
+ER
+
+PT J
+AU Câmara , EPM Jr
+   Vieira, LFM
+   Vieira, MAM
+AF Camara Junior, Eduardo P. M.
+   Vieira, Luiz F. M.
+   Vieira, Marcos A. M.
+ER
+
+PT J
+AU Roy, S
+   Das, S
+AF Roy, Souvik
+   Das, Sukanta
+ER
+
+PT C
+AU Lu, F
+AF Lu, Fei
+BE Chen, T
+   Xu, L
+ER
+
+PT C
+AU Kouduma, R
+   Takei, M
+AF Kouduma, Ryouta
+   Takei, Masato
+GP IEEE
+ER
+
+PT J
+AU Ping, P
+   Zhao, XL
+   Zhang, H
+   Liu, FY
+AF Ping Ping
+   Zhao Xue-Long
+   Zhang Hong
+   Liu Feng-Yu
+ER
+
+PT C
+AU Suwa, C
+   Fujioka, K
+AF Suwa, Chihiro
+   Fujioka, Kaoru
+BE Barolli, L
+   Xhafa, F
+   Ogiela, MR
+   Ogiela, L
+ER
+
+PT J
+AU Cole, T
+   Lusth, JC
+AF Cole, T
+   Lusth, JC
+ER
+
+PT C
+AU Roy, S
+   Bhatia, N
+   Rawat, US
+AF Roy, Satyabrata
+   Bhatia, Noble
+   Rawat, U. S.
+GP IEEE
+ER
+
+PT J
+AU del Rey, AM
+   Mateus, JP
+   Sánchez, GR
+AF del Rey, AM
+   Mateus, JP
+   Sánchez, GR
+ER
+
+PT J
+AU Chou, HH
+   Huang, W
+   Reggia, JA
+AF Chou, HH
+   Huang, W
+   Reggia, JA
+ER
+
+PT J
+AU Zakharchenko, I
+   Tristan, A
+   Chornogor, N
+   Berdnik, P
+   Kalashnyk, G
+   Timochko, A
+   Zalevskii, A
+   Dmitriiev, O
+AF Zakharchenko, I
+   Tristan, A.
+   Chornogor, N.
+   Berdnik, P.
+   Kalashnyk, G.
+   Timochko, A.
+   Zalevskii, A.
+   Dmitriiev, O.
+ER
+
+PT J
+AU Raj, M
+   Gopalakrishnan, L
+AF Raj, Marshal
+   Gopalakrishnan, Lakshminarayanan
+ER
+
+PT J
+AU Busic, A
+   Mairesse, J
+   Marcovici, I
+AF Busic, Ana
+   Mairesse, Jean
+   Marcovici, Irene
+ER
+
+PT C
+AU Medvedev, Y
+AF Medvedev, Yu.
+BE Malyshkin, V
+ER
+
+PT J
+AU Phung, XK
+AF Phung, Xuan Kien
+ER
+
+PT J
+AU Moothathu, TKS
+AF Moothathu, TKS
+ER
+
+PT J
+AU Priego, B
+   Souto, D
+   Bellas, F
+   Duro, RJ
+AF Priego, Blanca
+   Souto, Daniel
+   Bellas, Francisco
+   Duro, Richard J.
+ER
+
+PT J
+AU Mukherjee, S
+   Bhattacharjee, K
+   Das, S
+AF Mukherjee, Sukanya
+   Bhattacharjee, Kamalika
+   Das, Sukanta
+ER
+
+PT C
+AU Martínez, GJ
+   Adamatzky, A
+   McIntosh, HV
+AF Martinez, Genaro J.
+   Adamatzky, Andrew
+   McIntosh, Harold V.
+GP IEEE
+ER
+
+PT C
+AU Tsompanas, MA
+   Chatzinikolaou, TP
+   Sirakoulis, GC
+AF Tsompanas, Michail-Antisthenis
+   Chatzinikolaou, Theodoros Panagiotis
+   Sirakoulis, Georgios Ch
+BE Chopard, B
+   Bandini, S
+   Dennunzio, A
+   Haddad, MA
+ER
+
+PT C
+AU Gobron, S
+   Bonafos, H
+   Mestre, D
+AF Gobron, Stephane
+   Bonafos, Herve
+   Mestre, Daniel
+BE Umeo, H
+   Morishita, S
+   Nishinari, K
+   Komatsuzaki, T
+   Bandini, S
+ER
+
+PT C
+AU Soares, Z
+   Verardo, M
+   de Oliveira, PPB
+AF Soares, Zorandir
+   Verardo, Mauricio
+   de Oliveira, Pedro P. B.
+BE Rocha, A
+   Correia, AM
+   Adeli, H
+   Reis, LP
+   Teixeira, MM
+ER
+
+PT C
+AU Chatzinikolaou, TP
+   Fyrigos, IA
+   Ntinas, V
+   Kitsios, S
+   Bousoulas, P
+   Tsompanas, MA
+   Tsoukalas, D
+   Adamatzky, A
+   Sirakoulis, GC
+AF Chatzinikolaou, Theodoros Panagiotis
+   Fyrigos, Iosif-Angelos
+   Ntinas, Vasileios
+   Kitsios, Stavros
+   Bousoulas, Panagiotis
+   Tsompanas, Michail-Antisthenis
+   Tsoukalas, Dimitris
+   Adamatzky, Andrew
+   Sirakoulis, Georgios Ch
+GP IEEE
+ER
+
+PT J
+AU De Abreu, J
+   García, P
+   García, J
+AF De Abreu, J.
+   Garcia, P.
+   Garcia, J.
+ER
+
+PT C
+AU Modanese, A
+   Worsch, T
+AF Modanese, Augusto
+   Worsch, Thomas
+BE Cook, M
+   Neary, T
+ER
+
+PT C
+AU Ivanov, SI
+   Lovskaya, DD
+   Menshutina, NV
+AF Ivanov, S. I.
+   Lovskaya, D. D.
+   Menshutina, N. V.
+BE Kraslawski, A
+   Turunen, I
+ER
+
+PT J
+AU Kier, LB
+   Cheng, CK
+   Testa, B
+AF Kier, LB
+   Cheng, CK
+   Testa, B
+ER
+
+PT C
+AU Bidlo, M
+AF Bidlo, Michal
+BE Merelo, JJ
+   Melicio, F
+   Cadenas, JM
+   Dourado, A
+   Madani, K
+   Ruano, A
+   Filipe, J
+ER
+
+PT J
+AU El Yacoubi, S
+   Plénet, T
+   Dridi, S
+   Bagnoli, F
+   Lefèvre, L
+   Raïevsky, C
+AF El Yacoubi, Samira
+   Plenet, Theo
+   Dridi, Sara
+   Bagnoli, Franco
+   Lefevre, Laurent
+   Raievsky, Clement
+ER
+
+PT J
+AU SHERESHEVSKY, MA
+AF SHERESHEVSKY, MA
+ER
+
+PT C
+AU del Rey, AM
+AF Martin del Rey, Angel
+BE Omatu, S
+   Bersini, H
+   Corchado, JM
+   Rodriguez, S
+   Pawlewski, P
+   Bucciarelli, E
+ER
+
+PT J
+AU Goles, E
+   Maldonado, D
+   Montealegre, P
+   Ollinger, N
+AF Goles, Eric
+   Maldonado, Diego
+   Montealegre, Pedro
+   Ollinger, Nicolas
+ER
+
+PT J
+AU Cook, M
+   Larsson, U
+   Neary, T
+AF Cook, Matthew
+   Larsson, Urban
+   Neary, Turlough
+ER
+
+PT C
+AU McDonald, JR
+   Alsing, PM
+   Blair, HA
+AF McDonald, Jonathan R.
+   Alsing, Paul M.
+   Blair, Howard A.
+BE Donkor, E
+   Pirich, AR
+   Brandt, HE
+ER
+
+PT C
+AU Zamani, MS
+   Mehdipour, F
+   Meybodi, MR
+AF Zamani, MS
+   Mehdipour, F
+   Meybodi, MR
+BE Olivier, G
+   Pierre, S
+   Sood, VK
+ER
+
+PT J
+AU Ishibashi, H
+AF Ishibashi, Hiroyuki
+ER
+
+PT J
+AU Seck-Tuoh-Mora, JC
+   Hernez-Romero, N
+   Lagos-Eulogio, P
+   Medina-Marin, J
+   Zuñiga-Peña, NS
+AF Seck-Tuoh-Mora, Juan Carlos
+   Hernez-Romero, Norberto
+   Lagos-Eulogio, Pedro
+   Medina-Marin, Joselito
+   Zuniga-Pena, Nadia Samantha
+ER
+
+PT J
+AU Tourtounis, D
+   Mitianoudis, N
+   Sirakoulis, GC
+AF Tourtounis, Dimitrios
+   Mitianoudis, Nikolaos
+   Sirakoulis, Georgios Ch.
+ER
+
+PT C
+AU Anghelescu, P
+   Sofron, E
+   Ionita, S
+   Ionescu, L
+AF Anghelescu, Petre
+   Sofron, Emil
+   Ionita, Silviu
+   Ionescu, Laurentiu
+GP IEEE
+ER
+
+PT C
+AU Abu Dalhoum, AL
+   Al-Dhamari, I
+   Ortega, A
+   Alfonseca, M
+AF Abu Dalhoum, Abdel Latif
+   Al-Dhamari, Ibraheem
+   Ortega, Alfonso
+   Alfonseca, Manuel
+BE Tan, CT
+ER
+
+PT J
+AU Hartarsky, I
+AF Hartarsky, Ivailo
+ER
+
+PT J
+AU WAN, HA
+AF WAN, HA
+ER
+
+PT J
+AU Lukkarila, V
+AF Lukkarila, Ville
+ER
+
+PT C
+AU Ferreira, MEA
+   Quinta, ALMP
+   Lima, DA
+   Martins, LGA
+   Oliveira, GMB
+AF Ferreira, Maria Eugenia A.
+   Quinta, Andre L. M. P.
+   Lima, Danielli A.
+   Martins, Luiz G. A.
+   Oliveira, Gina M. B.
+BE Chopard, B
+   Bandini, S
+   Dennunzio, A
+   Haddad, MA
+ER
+
+PT J
+AU Terrier, V
+AF Terrier, V
+ER
+
+PT C
+AU Sharifulina, A
+AF Sharifulina, Anastasiya
+BE Sirakoulis, GC
+   Bandini, S
+ER
+
+PT C
+AU Yamamoto, K
+   Nonomura, R
+AF Yamamoto, Kazuhiro
+   Nonomura, Riku
+BE ElYacoubi, S
+   Was, J
+   Bandini, S
+ER
+
+PT J
+AU MacLean, S
+   Montalva-Medel, M
+   Goles, E
+AF MacLean, Stephanie
+   Montalva-Medel, Marco
+   Goles, Eric
+ER
+
+PT S
+AU Menshutina, NV
+   Kolnoochenko, AV
+   Lebedev, EA
+AF Menshutina, Natalia V.
+   Kolnoochenko, Andrey V.
+   Lebedev, Evgeniy A.
+BE Doherty, MF
+   Segalman, RA
+ER
+
+PT J
+AU Daganzo, CF
+AF Daganzo, CF
+ER
+
+PT J
+AU Djenaoui, S
+   Guillon, P
+AF Djenaoui, Saliha
+   Guillon, Pierre
+ER
+
+PT J
+AU Di Lena, P
+   Margara, L
+AF Di Lena, P.
+   Margara, L.
+ER
+
+PT J
+AU Bisio, A
+   D'Ariano, G
+   Perinotti, P
+   Tosini, A
+AF Bisio, Alessandro
+   D'Ariano, Giacomo Mauro
+   Perinotti, Paolo
+   Tosini, Alessandro
+ER
+
+PT C
+AU Comelli, T
+   Pinel, F
+   Bouvry, P
+AF Comelli, Thibaud
+   Pinel, Frederic
+   Bouvry, Pascal
+BE Rocha, AP
+   Steels, L
+   VandenHerik, J
+ER
+
+PT C
+AU Gangadari, BR
+   Ahamed, SR
+   Mahapatra, R
+   Sinha, RK
+AF Gangadari, Bhoopal Rao
+   Ahamed, Shaik Rafi
+   Mahapatra, Rohan
+   Sinha, Rajat Kumar
+GP IEEE
+ER
+
+PT J
+AU D'Ariano, GM
+   Mosco, N
+   Perinotti, P
+   Tosini, A
+AF D'Ariano, Giacomo Mauro
+   Mosco, Nicola
+   Perinotti, Paolo
+   Tosini, Alessandro
+ER
+
+PT C
+AU Piwonska, A
+   Seredynski, F
+AF Piwonska, Anna
+   Seredynski, Franciszek
+BE Deb, K
+   Bhattacharya, A
+   Chakraborti, N
+   Chakroborty, P
+   Das, S
+   Dutta, J
+   Gupta, SK
+   Jain, A
+   Aggarwal, V
+   Branke, J
+   Louis, SJ
+   Tan, KC
+ER
+
+PT C
+AU Zhou, SQ
+   Meng, JX
+AF Zhou, Shuqiu
+   Meng, Junxian
+BE Qi, L
+ER
+
+PT J
+AU Yi, HB
+AF Yi, Haibo
+ER
+
+PT C
+AU Mehta, RK
+   Rani, R
+AF Mehta, Rajat Kumar
+   Rani, Rajneesh
+BE Wu, J
+   Perez, GM
+   Thampi, SM
+   Atiquzzaman, M
+   Berretti, S
+   Rodrigues, JJPC
+   Tomar, R
+   Gorthi, RP
+   Siarry, P
+   Pathan, AK
+   Li, J
+   Bedi, P
+   Mehta, S
+   Kammoun, MH
+   Jain, V
+ER
+
+PT J
+AU Alonso-Sanz, R
+AF Alonso-Sanz, Ramon
+ER
+
+PT J
+AU Zhang, L
+   Zhang, CB
+   Wang, YM
+   Wang, SQ
+AF Zhang, L
+   Zhang, CB
+   Wang, YM
+   Wang, SQ
+ER
+
+PT J
+AU Tangsakul, S
+   Wongthanavasu, S
+AF Tangsakul, Surasak
+   Wongthanavasu, Sartra
+ER
+
+PT C
+AU Mariot, L
+   Saletta, M
+   Leporati, A
+   Manzoni, L
+AF Mariot, Luca
+   Saletta, Martina
+   Leporati, Alberto
+   Manzoni, Luca
+BE Gwizdalla, TM
+   Manzoni, L
+   Sirakoulis, GC
+   Bandini, S
+   Podlaski, K
+ER
+
+PT C
+AU Ding, JL
+   Yu, YC
+   Wang, JD
+AF Ding Jianli
+   Yu Yuecheng
+   Wang Jiandong
+BE Luo, Q
+   Yi, JU
+   Bin, C
+ER
+
+PT C
+AU Georgoudas, IG
+   Sirakoulis, GC
+   Andreadis, IT
+AF Georgoudas, Ioakeim G.
+   Sirakoulis, Georgios Ch.
+   Andreadis, Ioannis Th.
+BE Umeo, H
+   Morishita, S
+   Nishinari, K
+   Komatsuzaki, T
+   Bandini, S
+ER
+
+PT J
+AU Clarridge, AG
+   Salomaa, K
+AF Clarridge, Adam G.
+   Salomaa, Kai
+ER
+
+PT J
+AU Karmakar, S
+   Chowdhury, DR
+AF Karmakar, Sandip
+   Chowdhury, Dipanwita Roy
+ER
+
+PT C
+AU Ristig, C
+   Siemers, C
+AF Ristig, Christian
+   Siemers, Christian
+BE Foster, I
+   Joubert, GR
+   Kucera, L
+   Nagel, WE
+   Peters, F
+ER
+
+PT J
+AU Miranda, ER
+   Shaji, H
+AF Miranda, Eduardo Reck
+   Shaji, Hari
+ER
+
+PT J
+AU Steeb, WH
+   Hardy, Y
+AF Steeb, Willi-Hans
+   Hardy, Yorick
+ER
+
+PT C
+AU Jun, J
+AF Jun, Jin
+GP IEEE
+ER
+
+PT J
+AU Leppard, M
+AF Leppard, Mark
+ER
+
+PT J
+AU del Rey, AM
+   Vara, RC
+   Serrano, DH
+AF Martin del Rey, A.
+   Casado Vara, R.
+   Hernandez Serrano, D.
+ER
+
+PT J
+AU Chin, W
+   Cortzen, B
+   Goldman, J
+AF Chin, W
+   Cortzen, B
+   Goldman, J
+ER
+
+PT J
+AU Tang, YN
+   Valocchi, AJ
+AF Tang, Youneng
+   Valocchi, Albert J.
+ER
+
+PT C
+AU Marceau, DJ
+   Liu, Y
+AF Marceau, Danielle J.
+   Liu, Yan
+BE Pinto, NN
+   Dourado, J
+   Natalio, A
+ER
+
+PT J
+AU Nishimura, Y
+   Cheon, T
+   Seba, P
+AF Nishimura, Y
+   Cheon, T
+   Seba, P
+ER
+
+PT J
+AU Salo, V
+AF Salo, Ville
+ER
+
+PT C
+AU Sahin, U
+   Sahin, F
+   Uguz, S
+AF Sahin, Ugur
+   Sahin, Ferat
+   Uguz, Selman
+GP IEEE
+ER
+
+PT C
+AU Malecki, K
+AF Malecki, Krzysztof
+BE Mauri, G
+   Yacoubi, SE
+   Dennunzio, A
+   Nishinari, K
+   Manzoni, L
+ER
+
+PT J
+AU Castillo-Ramirez, A
+   Sanchez-Alvarez, M
+   Vazquez-Aceves, A
+   Zaldivar-Corichi, A
+AF Castillo-Ramirez, A.
+   Sanchez-Alvarez, M.
+   Vazquez-Aceves, A.
+   Zaldivar-Corichi, A.
+ER
+
+PT J
+AU Chen, FY
+   Shi, L
+   Chen, GR
+   Jin, WF
+AF Chen, Fangyue
+   Shi, Lun
+   Chen, Guanrong
+   Jin, Wieifeng
+ER
+
+PT J
+AU Goles, E
+   Moreira, A
+   Rapaport, I
+AF Goles, E.
+   Moreira, A.
+   Rapaport, I.
+ER
+
+PT C
+AU Ioannidis, K
+   Andreadis, I
+   Sirakoulis, GC
+AF Ioannidis, Konstantinos
+   Andreadis, Ioannis
+   Sirakoulis, Georgios Ch
+BE Sirakoulis, GC
+   Bandini, S
+ER
+
+PT J
+AU BOCCARA, N
+   ROGER, M
+AF BOCCARA, N
+   ROGER, M
+ER
+
+PT C
+AU Wongthanavasu, S
+   Tangvoraphonkchai, V
+AF Wongthanavasu, S.
+   Tangvoraphonkchai, V.
+GP IEEE
+ER
+
+PT J
+AU Mora, JCST
+   Hernández, MG
+   Martínez, GJ
+   Vergara, SVC
+   McIntosh, HV
+AF Tuoh Mora, Juan Carlos Seck
+   Gonzalez Hernandez, Manuel
+   Martinez, Genaro Juarez
+   Chapa Vergara, Sergio V.
+   McIntosh, Harold V.
+ER
+
+PT J
+AU Modanese, A
+AF Modanese, Augusto
+ER
+
+PT J
+AU Gu, GQ
+AF Gu, GQ
+ER
+
+PT C
+AU Elizabeth, MJ
+   Parsotambhai, SM
+   Hazari, R
+AF Elizabeth, M. J.
+   Parsotambhai, Shekhat Meet
+   Hazari, Raju
+BE Chopard, B
+   Bandini, S
+   Dennunzio, A
+   Haddad, MA
+ER
+
+PT J
+AU Laboudi, Z
+   Chikhi, S
+AF Laboudi, Zakaria
+   Chikhi, Salim
+ER
+
+PT J
+AU Nishida, Y
+   Watanabe, S
+   Fukuda, A
+   Yanagisawa, D
+AF Nishida, Yuki
+   Watanabe, Sennosuke
+   Fukuda, Akiko
+   Yanagisawa, Daichi
+ER
+
+PT J
+AU Willox, R
+   Ramani, A
+   Grammaticos, B
+AF Willox, R.
+   Ramani, A.
+   Grammaticos, B.
+ER
+
+PT J
+AU Zarei, B
+   Meybodi, MR
+   Masoumi, B
+AF Zarei, Bagher
+   Meybodi, Mohammad Reza
+   Masoumi, Behrooz
+ER
+
+PT J
+AU Yukita, S
+AF Yukita, S
+ER
+
+PT J
+AU Bingham, J
+   Bingham, B
+AF Bingham, Jesse
+   Bingham, Brad
+ER
+
+PT J
+AU Abu Dalhoum, AL
+   Madain, A
+   Hiary, H
+AF Abu Dalhoum, Abdel Latif
+   Madain, Alia
+   Hiary, Hazem
+ER
+
+PT J
+AU Torkestani, JA
+   Meybodi, MR
+AF Torkestani, Javad Akbari
+   Meybodi, Mohammad Reza
+ER
+
+PT J
+AU Burkhead, EG
+AF Burkhead, Emily Gamber
+ER
+
+PT J
+AU Boghosian, BM
+AF Boghosian, BM
+ER
+
+PT C
+AU Komatsuzaki, T
+   Iwata, Y
+   Morishita, S
+AF Komatsuzaki, Toshihiko
+   Iwata, Yoshio
+   Morishita, Shin
+BE Sirakoulis, GC
+   Bandini, S
+ER
+
+PT J
+AU Fujarewicz, K
+   Lakomiec, K
+AF Fujarewicz, Krzysztof
+   Lakomiec, Krzysztof
+ER
+
+PT J
+AU Abdellaoui, M
+   El Jai, A
+   Shillor, M
+AF Abdellaoui, M
+   El Jai, A
+   Shillor, M
+ER
+
+PT C
+AU Di Traglia, M
+AF Di Traglia, Mario
+BE Sirakoulis, GC
+   Bandini, S
+ER
+
+PT J
+AU Uguz, S
+   Sahin, U
+   Sahin, F
+AF Uguz, S.
+   Sahin, U.
+   Sahin, F.
+ER
+
+PT J
+AU Salo, V
+AF Salo, Ville
+ER
+
+PT J
+AU Gruner, S
+AF Gruner, Stefan
+ER
+
+PT J
+AU George, SN
+   Augustine, N
+   Pattathil, DP
+AF George, Sudhish N.
+   Augustine, Nishanth
+   Pattathil, Deepthi P.
+ER
+
+PT J
+AU Cattaneo, G
+   Formenti, E
+   Manzini, G
+   Margara, L
+AF Cattaneo, G
+   Formenti, E
+   Manzini, G
+   Margara, L
+ER
+
+PT C
+AU Macek, P
+   Dziubaltowska, D
+   Kusmierz, B
+   Michalski, R
+AF Macek, Piotr
+   Dziubaltowska, Daria
+   Kusmierz, Bartosz
+   Michalski, Radoslaw
+BE Fazio, M
+   Panda, DK
+   Prodan, R
+   Cardellini, V
+   Kantarci, B
+   Rana, O
+   Villari, M
+ER
+
+PT J
+AU MAINSTER, MA
+AF MAINSTER, MA
+ER
+
+PT C
+AU Varela, D
+   Santos, J
+AF Varela, Daniel
+   Santos, Jose
+BE Friedrich, T
+ER
+
+PT J
+AU Nasu, M
+AF Nasu, M
+ER
+
+PT J
+AU García-Morales, V
+AF Garcia-Morales, Vladimir
+ER
+
+PT C
+AU Ntinas, V
+   Sirakoulis, GC
+   Rubio, A
+AF Ntinas, Vasileios
+   Sirakoulis, Georgios Ch
+   Rubio, Antonio
+GP IEEE
+ER
+
+PT J
+AU Miyamoto, H
+   Sasaki, S
+AF Miyamoto, H
+   Sasaki, S
+ER
+
+PT J
+AU Ewert, T
+AF Ewert, Thorsten
+ER
+
+PT C
+AU Mikolaychuk, M
+   Knyazeva, A
+AF Mikolaychuk, Mikhail
+   Knyazeva, Anna
+BE Panin, VE
+   Psakhie, SG
+   Fomin, VM
+ER
+
+PT J
+AU Nobe, A
+   Satsuma, J
+   Tokihiro, T
+AF Nobe, A
+   Satsuma, J
+   Tokihiro, T
+ER
+
+PT C
+AU Bidlo, M
+AF Bidlo, Michal
+BE Friedrich, T
+ER
+
+PT J
+AU Akoramurthy, B
+   Arthi, J
+   Kanimozhi, P
+AF Akoramurthy, B.
+   Arthi, J.
+   Kanimozhi, P.
+ER
+
+PT C
+AU Zhou, SH
+   Wang, B
+   Zheng, XD
+   Zhou, CJ
+AF Zhou, Shihua
+   Wang, Bin
+   Zheng, Xuedong
+   Zhou, Changjun
+BE Pan, L
+   Paun, G
+   PerezJimenez, MJ
+   Song, T
+ER
+
+PT C
+AU Podolski, P
+   Nguyen, HS
+AF Podolski, Piotr
+   Nguyen, Hung Son
+BE Watrobski, J
+   Salabun, W
+   Toro, C
+   Zanni-Merk, C
+   Howlett, RJ
+   Jain, LC
+ER
+
+PT J
+AU Wolnik, B
+   Dembowski, M
+   Bolt, W
+   Baetens, JM
+   De Baets, B
+AF Wolnik, Barbara
+   Dembowski, Marcin
+   Bolt, Witold
+   Baetens, Jan M.
+   De Baets, Bernard
+ER
+
+PT C
+AU Dubos-Paillard, E
+   Langlois, P
+AF Dubos-Paillard, Edwige
+   Langlois, Patrice
+BE Pinto, NN
+   Dourado, J
+   Natalio, A
+ER
+
+PT C
+AU Köroglu, ME
+   Siap, I
+   Akin, H
+AF Koroglu, Mehmet E.
+   Siap, Irfan
+   Akin, Hasan
+BE Ashyralyev, A
+   Lukashov, A
+ER
+
+PT C
+AU Ruan, XG
+   Hu, RC
+AF Ruan, XG
+   Hu, RC
+GP TU
+   TU
+ER
+
+PT C
+AU Li, W
+   Zomaya, AY
+   Al-Jumaily, A
+AF Li, Wei
+   Zomaya, Albert Y.
+   Al-Jumaily, Adel
+GP ACM
+ER
+
+PT J
+AU Li, KP
+   Gao, ZY
+   Ning, B
+AF Li, KP
+   Gao, ZY
+   Ning, B
+ER
+
+PT C
+AU Blecic, I
+   Cecchini, A
+   Trunfio, GA
+AF Blecic, Ivan
+   Cecchini, Arnaldo
+   Trunfio, Giuseppe A.
+BE Was, J
+   Sirakoulis, GC
+   Bandini, S
+ER
+
+PT J
+AU Majeed, AH
+   Zainal, MS
+   Alkaldy, E
+AF Majeed, Ali H.
+   Zainal, Mohd Shamian
+   Alkaldy, Esam
+ER
+
+PT J
+AU Sun, GQ
+   Jin, Z
+   Li, L
+AF Sun, Gui-Quan
+   Jin, Zhen
+   Li, Li
+ER
+
+PT J
+AU Alonso-Sanz, R
+   Situ, H
+AF Alonso-Sanz, Ramon
+   Situ, Haozhen
+ER
+
+PT J
+AU Avolio, MV
+   Errera, A
+   Lupiano, V
+   Mazzanti, P
+   Di Gregorio, S
+AF Avolio, Maria Vittoria
+   Errera, Alessia
+   Lupiano, Valeria
+   Mazzanti, Paolo
+   Di Gregorio, Salvatore
+ER
+
+PT C
+AU Dou, SH
+   Li, XM
+   Gou, JQ
+   Li, XW
+AF Dou Shuihai
+   Li Xuemei
+   Gou Juanqiong
+   Li Xuewei
+BE Zhang, Z
+   Zhang, J
+   Zhang, R
+ER
+
+PT C
+AU Li, DD
+AF Li, De Di
+BE Liu, L
+   Shi, J
+ER
+
+PT J
+AU Kutrib, M
+   Malcher, A
+AF Kutrib, Martin
+   Malcher, Andreas
+ER
+
+PT C
+AU Swiecicka, A
+   Seredynski, F
+AF Swiecicka, A
+   Seredynski, F
+BE Klopotek, MA
+   Wierzchon, ST
+   Michalewicz, M
+ER
+
+PT J
+AU Capobianco, S
+AF Capobianco, Silvio
+ER
+
+PT J
+AU Sánchez, JR
+   Alonso-Sanz, R
+AF Sánchez, JR
+   Alonso-Sanz, R
+ER
+
+PT J
+AU Morita, K
+   Imai, K
+AF Morita, K
+   Imai, K
+ER
+
+PT C
+AU Kirik, E
+   Vitova, T
+AF Kirik, Ekaterina
+   Vitova, Tat'yana
+BE Was, J
+   Sirakoulis, GC
+   Bandini, S
+ER
+
+PT J
+AU Byari, M
+   Bernoussi, A
+   Amharref, M
+   Ouardouz, M
+AF Byari, M.
+   Bernoussi, A.
+   Amharref, M.
+   Ouardouz, M.
+ER
+
+PT J
+AU Margenstern, M
+AF Margenstern, Maurice
+ER
+
+PT J
+AU Concha-Vega, P
+   Goles, E
+   Montealegre, P
+   Ríos-Wilson, M
+   Santivañez, J
+AF Concha-Vega, Pablo
+   Goles, Eric
+   Montealegre, Pedro
+   Rios-Wilson, Martin
+   Santivanez, Julio
+ER
+
+PT J
+AU Dennunzio, A
+   Formenti, E
+   Manzoni, L
+   Mauri, G
+   Porreca, AE
+AF Dennunzio, Alberto
+   Formenti, Enrico
+   Manzoni, Luca
+   Mauri, Giancarlo
+   Porreca, Antonio E.
+ER
+
+PT C
+AU Xia, XW
+   Li, YX
+   Tu, H
+   Meng, QF
+AF Xia, XW
+   Li, YX
+   Tu, H
+   Meng, QF
+BE Lishan, K
+   Zhihua, C
+   Xuesong, Y
+ER
+
+PT J
+AU del Rey, AM
+   Sánchez, GR
+AF Martin del Rey, Angel
+   Rodriguez Sanchez, Gerardo
+ER
+
+PT J
+AU Bartosik, L
+   Stafiej, J
+   Di Caprio, D
+AF Bartosik, Lukasz
+   Stafiej, Janusz
+   Di Caprio, Dung
+ER
+
+PT C
+AU Kummamuru, R
+   Orlov, AO
+   Lent, CS
+   Bernstein, GH
+   Snider, GL
+AF Kummamuru, R
+   Orlov, AO
+   Lent, CS
+   Bernstein, GH
+   Snider, GL
+BE Laudon, M
+   Romanowicz, B
+ER
+
+PT J
+AU McClure, M
+AF McClure, M
+ER
+
+PT J
+AU Ruan, YH
+   Li, AW
+   Huang, J
+AF Ruan, Yuhong
+   Li, Anwei
+   Huang, Jing
+ER
+
+PT J
+AU Piwonska, A
+   Seredynski, F
+   Szaban, M
+AF Piwonska, Anna
+   Seredynski, Franciszek
+   Szaban, Miroslaw
+ER
+
+PT J
+AU Chang, CH
+   Akin, H
+AF Chang, Chih-Hung
+   Akin, Hasan
+ER
+
+PT C
+AU Imai, K
+   Oroji, K
+   Kubota, T
+AF Imai, Katsunobu
+   Oroji, Kyosuke
+   Kubota, Tomohiro
+GP IEEE
+ER
+
+PT C
+AU Kawaharada, A
+AF Kawaharada, Akane
+GP IEEE
+ER
+
+PT J
+AU BRAMSON, M
+   NEUHAUSER, C
+AF BRAMSON, M
+   NEUHAUSER, C
+ER
+
+PT J
+AU Bolgov, YV
+AF Bolgov, Yu, V
+ER
+
+PT J
+AU Rowland, E
+   Yassawi, R
+AF Rowland, Eric
+   Yassawi, Reem
+ER
+
+PT J
+AU Byari, M
+   Bernoussi, A
+   Ouardouz, M
+   Amharref, M
+AF Byari, M.
+   Bernoussi, A.
+   Ouardouz, M.
+   Amharref, M.
+ER
+
+PT J
+AU Silva, HS
+   Martins, ML
+AF Silva, HS
+   Martins, ML
+ER
+
+PT J
+AU CLEMENTI, A
+   IMPAGLIAZZO, R
+AF CLEMENTI, A
+   IMPAGLIAZZO, R
+ER
+
+PT J
+AU Maass, A
+   Martínez, S
+AF Maass, A
+   Martínez, S
+ER
+
+PT J
+AU Szaban, M
+   Seredynski, F
+AF Szaban, Miroslaw
+   Seredynski, Franciszek
+ER
+
+PT J
+AU Ozawa, T
+   Saito, T
+AF Ozawa, Takahiro
+   Saito, Toshimichi
+ER
+
+PT J
+AU Dennunzio, A
+AF Dennunzio, Alberto
+ER
+
+PT J
+AU Tuoh Mora, JCS
+   Hernandez, MG
+   Romero, NH
+   Trejo, AR
+   Vergara, SVC
+AF Tuoh Mora, Juan Carlos Seck
+   Hernandez, Manuel Gonzalez
+   Romero, Norberto Hernandez
+   Trejo, Aaron Rodriguez
+   Vergara, Sergio V. Chapa
+ER
+
+PT C
+AU Belan, S
+   Belan, N
+AF Belan, Stepan
+   Belan, Nikolay
+BE Sirakoulis, GC
+   Bandini, S
+ER
+
+PT C
+AU Cervelle, J
+   Formenti, E
+   Guillon, P
+AF Cervelle, Julien
+   Formenti, Enrico
+   Guillon, Pierre
+BE Marion, JY
+   Schwentick, T
+ER
+
+PT J
+AU Gács, P
+AF Gács, P
+ER
+
+PT C
+AU Saha, M
+   Sarkar, S
+   Sikdar, BK
+AF Saha, Mousumi
+   Sarkar, Sutapa
+   Sikdar, Biplab K.
+GP IEEE
+ER
+
+PT C
+AU Talia, D
+AF Talia, D
+BE Tentner, A
+ER
+
+PT J
+AU Chou, HH
+   Reggia, JA
+AF Chou, HH
+   Reggia, JA
+ER
+
+PT J
+AU Seck-Tuoh-Mora, JC
+   Hernandez-Romero, N
+   Medina-Marin, J
+   Martinez, GJ
+   Barragan-Vite, I
+AF Carlos Seck-Tuoh-Mora, Juan
+   Hernandez-Romero, Norberto
+   Medina-Marin, Joselito
+   Martinez, Genaro J.
+   Barragan-Vite, Irving
+ER
+
+PT C
+AU Ruan, XG
+   Hu, RC
+AF Ruan, XG
+   Hu, RC
+GP TU
+   TU
+ER
+
+PT J
+AU Bhattacharjee, K
+   Das, S
+AF Bhattacharjee, Kamalika
+   Das, Sukanta
+ER
+
+PT C
+AU van Zijl, L
+   Botha, L
+AF van Zijl, Lynette
+   Botha, Leendert
+BE Holub, J
+   Zdarek, J
+ER
+
+PT J
+AU Sirakoulis, GC
+   Karafyllidis, I
+AF Sirakoulis, Georgios Ch.
+   Karafyllidis, Ioannis
+ER
+
+PT C
+AU Maignan, L
+   Gruau, F
+AF Maignan, Luidnel
+   Gruau, Fredric
+BE Bandini, S
+   Manzoni, S
+   Umeo, H
+   Vizzari, G
+ER
+
+PT C
+AU Chen, QW
+AF Chen, QW
+BE Li, G
+ER
+
+PT J
+AU Cabaltero-Gill, P
+   Fuster-Sabater, A
+   Delgado-Mohatar, O
+AF Cabaltero-Gill, Pino
+   Fuster-Sabater, Amparo
+   Delgado-Mohatar, Oscar
+ER
+
+PT J
+AU Lee, J
+   Adachi, S
+   Peper, F
+AF Lee, Jia
+   Adachi, Susumu
+   Peper, Ferdinand
+ER
+
+PT J
+AU Khan, AR
+   Choudhury, PP
+   Dihidar, K
+   Mitra, S
+   Sarkar, P
+AF Khan, AR
+   Choudhury, PP
+   Dihidar, K
+   Mitra, S
+   Sarkar, P
+ER
+
+PT J
+AU Martínez, GJ
+   Morita, K
+AF Martinez, Genaro J.
+   Morita, Kenichi
+ER
+
+PT J
+AU Scalise, D
+   Schulman, R
+AF Scalise, Dominic
+   Schulman, Rebecca
+ER
+
+PT C
+AU Zhang, J
+   Song, NH
+   Li, XP
+   Ren, ZH
+   Wen, BC
+AF Zhang, Jing
+   Song, Naihui
+   Li, Xiaopeng
+   Ren, Zhaohui
+   Wen, Bangchun
+BE Zhou, Y
+   Tu, ST
+   Xie, X
+ER
+
+PT C
+AU Sughimura, N
+   Suzuki, R
+   Arita, T
+AF Sughimura, Noritsugu
+   Suzuki, Reiji
+   Arita, Takaya
+GP AROB
+ER
+
+PT J
+AU de Menibus, BH
+   Sablik, M
+AF Hellouin de Menibus, Benjamin
+   Sablik, Mathieu
+ER
+
+PT C
+AU Zhang, CW
+   Lin, LB
+AF Zhang, CW
+   Lin, LB
+GP IEEE
+ER
+
+PT C
+AU Coulter, DA
+   Ehlers, EM
+AF Coulter, Duncan A.
+   Ehlers, Elizabeth M.
+BE Horvath, I
+   Mandorli, F
+   Rusak, Z
+ER
+
+PT C
+AU Rasolonjanahary, M
+   Vasiev, B
+AF Rasolonjanahary, Manan'Iarivo
+   Vasiev, Bakhtier
+BE Krzhizhanovskaya, VV
+   Zavodszky, G
+   Lees, MH
+   Dongarra, JJ
+   Sloot, PMA
+   Brissos, S
+   Teixeira, J
+ER
+
+PT J
+AU Ishibashi, H
+AF Ishibashi, Hiroyuki
+ER
+
+PT J
+AU Baños, LD
+   García-Ramos, F
+AF Santos Banos, Luguis De Los
+   Garcia-Ramos, Felipe
+ER
+
+PT J
+AU Terrier, V
+AF Terrier, Veronique
+ER
+
+PT J
+AU Alonso-Sanz, R
+AF Alonso-Sanz, Ramon
+ER
+
+PT C
+AU Guillon, P
+   Richard, G
+AF Guillon, Pierre
+   Richard, Gaetan
+BE Ochmanski, E
+   Tyszkiewicz, J
+ER
+
+PT C
+AU Zhang, CN
+   Li, H
+AF Zhang, CN
+   Li, H
+BE Li, L
+   Yu, JB
+ER
+
+PT J
+AU Feschet, F
+   Tougne, L
+AF Feschet, F
+   Tougne, L
+ER
+
+PT J
+AU Zhao, Y
+   Guo, HM
+   Billings, SA
+AF Zhao, Y.
+   Guo, H. M.
+   Billings, S. A.
+ER
+
+PT C
+AU Christakis, C
+   Theodoridis, G
+   Kakarountas, A
+AF Christakis, Christoforos
+   Theodoridis, George
+   Kakarountas, Athanasios
+GP IEEE
+ER
+
+PT J
+AU Bonacich, P
+AF Bonacich, P
+ER
+
+PT C
+AU Das, S
+   Sarkar, A
+   Sikdar, BK
+AF Das, Sukanta
+   Sarkar, Anindita
+   Sikdar, Biplab K.
+BE Sirakoulis, GC
+   Bandini, S
+ER
+
+PT C
+AU Garcia, S
+   López-Molina, J
+   Romo, M
+AF Garcia, Silvia
+   Lopez-Molina, Jorge
+   Romo, Miguel
+BE Manzanal, D
+   Sfriso, AO
+ER
+
+PT C
+AU Bhardwaj, R
+   Sharma, V
+AF Bhardwaj, Rupali
+   Sharma, Vaishalli
+BE Sa, PK
+   Sahoo, MN
+   Murugappan, M
+   Wu, Y
+   Majhi, B
+ER
+
+PT J
+AU Lv, WR
+   Fu, C
+   Chai, XL
+   Zhang, LY
+   Chen, JX
+AF Lv, Wenrui
+   Fu, Chong
+   Chai, Xiuli
+   Zhang, Leo Yu
+   Chen, Junxin
+ER
+
+PT C
+AU Jellouli, O
+   Bernoussi, A
+   Amharref, M
+   Ouardouz, M
+AF Jellouli, Omar
+   Bernoussi, Abdessamed
+   Amharref, Mina
+   Ouardouz, Mustapha
+BE ElYacoubi, S
+   Was, J
+   Bandini, S
+ER
+
+PT C
+AU Besson, T
+   Durand-Lose, J
+AF Besson, Tom
+   Durand-Lose, Jerome
+BE Cook, M
+   Neary, T
+ER
+
+PT C
+AU Gao, HB
+AF Gao Hebei
+BE Cui, J
+   Jiming, Q
+ER
+
+PT J
+AU Weatherley, D
+AF Weatherley, Dion
+ER
+
+PT J
+AU Itoh, M
+   Chua, LO
+AF Itoh, Makoto
+   Chua, Leon O.
+ER
+
+PT C
+AU Takada, K
+   Namiki, T
+AF Takada, Koichi
+   Namiki, Takao
+GP IEEE
+ER
+
+PT J
+AU Siap, I
+   Akin, H
+   Sah, F
+AF Siap, Irfan
+   Akin, Hasan
+   Sah, Ferhat
+ER
+
+PT C
+AU Green, ME
+   DeLuca, TF
+   Kaiser, KWD
+AF Green, Maxfield E.
+   DeLuca, Todd F.
+   Kaiser, Karl W. D.
+GP Assoc Comp Machinery
+ER
+
+PT J
+AU Sanchez, JR
+AF Sanchez, JR
+ER
+
+PT J
+AU Han, Q
+   Liao, XF
+   Li, CD
+   Feng, LP
+AF Han, Qi
+   Liao, Xiaofeng
+   Li, Chuandong
+   Feng, Liping
+ER
+
+PT C
+AU Enescu, A
+   Andreica, A
+   Diosan, L
+AF Enescu, Alina
+   Andreica, Anca
+   Diosan, Laura
+GP ACM
+ER
+
+PT C
+AU Imai, K
+   Alhazov, A
+AF Imai, Katsunobu
+   Alhazov, Artiom
+BE Calude, CS
+   Hagiya, M
+   Morita, K
+   Rozenberg, G
+   Timmis, J
+ER
+
+PT J
+AU Chang, CH
+   Chang, H
+AF Chang, Chih-Hung
+   Chang, Huilan
+ER
+
+PT J
+AU Kari, J
+   Taati, S
+AF Kari, Jarkko
+   Taati, Siamak
+ER
+
+PT C
+AU Lin, ML
+   Yao, YP
+AF Lin, Menglong
+   Yao, Yiping
+GP Assoc Comp Machinery
+ER
+
+PT J
+AU Akin, H
+   Siap, I
+AF Akin, Hasan
+   Siap, Irfan
+ER
+
+PT J
+AU Uguz, S
+   Akin, H
+   Siap, I
+AF Uguz, Selman
+   Akin, Hasan
+   Siap, Irfan
+ER
+
+PT C
+AU Kutrib, M
+   Malcher, A
+   Wendlandt, M
+AF Kutrib, Martin
+   Malcher, Andreas
+   Wendlandt, Matthias
+BE Kari, J
+ER
+
+PT C
+AU Gronewold, A
+   Sonnenschein, M
+AF Gronewold, A
+   Sonnenschein, M
+BE Hahn, W
+   Lehmann, A
+ER
+
+PT J
+AU CHOWDHURY, DR
+   SENGUPTA, I
+   CHAUDHURI, PP
+AF CHOWDHURY, DR
+   SENGUPTA, I
+   CHAUDHURI, PP
+ER
+
+PT C
+AU Fatès, N
+AF Fates, Nazim
+BE Mauri, G
+   Yacoubi, SE
+   Dennunzio, A
+   Nishinari, K
+   Manzoni, L
+ER
+
+PT J
+AU CHOPARD, B
+   DROZ, M
+AF CHOPARD, B
+   DROZ, M
+ER
+
+PT C
+AU Santoso, J
+   Trilaksono, BR
+   Santoso, OS
+   Adiprawita, W
+AF Santoso, J.
+   Trilaksono, Bambang Riyanto
+   Santoso, O. Setiono
+   Adiprawita, W.
+GP IEEE
+ER
+
+PT J
+AU Bhattacharyya, P
+AF Bhattacharyya, P
+ER
+
+PT C
+AU Marynowski, P
+   Glowacki, M
+   Adrian, H
+AF Marynowski, Przemyslaw
+   Glowacki, Miroslaw
+   Adrian, Henryk
+GP TANGER Ltd
+ER
+
+PT J
+AU Corona-Bermúdez, E
+   Chimal-Eguía, JC
+   Téllez-Castillo, G
+AF Corona-Bermudez, Erendira
+   Carlos Chimal-Eguia, Juan
+   Tellez-Castillo, German
+ER
+
+PT C
+AU Pang, HL
+   Yang, X
+AF Pang, Hali
+   Yang, Xu
+GP IEEE
+ER
+
+PT C
+AU Popovici, A
+AF Popovici, Adriana
+BE Simos, TE
+ER
+
+PT C
+AU Ping, P
+   Zhang, XJ
+   Yang, XH
+   Mao, YC
+   Gao, ZY
+AF Ping, Ping
+   Zhang, Xiaojuan
+   Yang, Xiaohui
+   Mao, Yingchi
+   Gao, Zeyu
+GP IEEE
+ER
+
+PT J
+AU Durr, C
+   LeThanh, H
+   Santha, M
+AF Durr, C
+   LeThanh, H
+   Santha, M
+ER
+
+PT C
+AU Barrientos, OL
+   Martinez, GJ
+   Adamatzky, A
+   Ninagawa, S
+AF Barrientos, Oswaldo L.
+   Martinez, Genaro J.
+   Adamatzky, Andrew
+   Ninagawa, Shigeru
+GP IEEE
+ER
+
+PT J
+AU de Castro, MH
+   da Luz, JAM
+   Milhomem, FD
+AF de Castro, Matheus Henrique
+   Medeiros da Luz, Jose Aurelio
+   Milhomem, Felipe de Orquiza
+ER
+
+PT C
+AU Jin, WF
+   Chen, FY
+   Yang, CL
+AF Jin, Weifeng
+   Chen, Fangyue
+   Yang, Chunlan
+GP IEEE Comp Soc
+ER
+
+PT J
+AU Slimi, R
+   El Yacoubi, S
+AF Slimi, R.
+   El Yacoubi, S.
+ER
+
+PT J
+AU Chen, B
+   Chen, FY
+   Guan, JB
+   Martínez, GJ
+AF Chen, Bo
+   Chen, Fangyue
+   Guan, Junbiao
+   Martinez, Genaro J.
+ER
+
+PT J
+AU Chau, HF
+   Siu, LW
+   Yan, KK
+AF Chau, HF
+   Siu, LW
+   Yan, KK
+ER
+
+PT C
+AU Li, L
+   Xie, R
+AF Li Long
+   Xie Rong
+BE Xu, XS
+   Zhang, H
+   Niu, DX
+ER
+
+PT C
+AU Priego, B
+   Souto, D
+   Bellas, F
+   Duro, RJ
+AF Priego, Blanca
+   Souto, Daniel
+   Bellas, Francisco
+   Duro, Richard J.
+BE Grana, M
+   Toro, C
+   Posada, J
+   Howlett, RJ
+   Jain, LC
+ER
+
+PT C
+AU Pradhan, A
+   Sethi, K
+   Mohapatra, S
+   Bera, P
+AF Pradhan, Ankit
+   Sethi, Kamalakanta
+   Mohapatra, Shrohan
+   Bera, Padmalochan
+BE Mu, Y
+   Deng, RH
+   Huang, X
+ER
+
+PT C
+AU Mahata, K
+   Sarkar, A
+AF Mahata, Kalyan
+   Sarkar, Anasua
+GP IEEE
+ER
+
+PT C
+AU Kuila, S
+   Saha, D
+   Pal, M
+   Chowdhury, DR
+AF Kuila, Sukhendu
+   Saha, Dhiman
+   Pal, Madhumangal
+   Chowdhury, Dipanwita Roy
+BE Chakraborty, RS
+   Matyas, V
+   Schaumont, P
+ER
+
+PT C
+AU Ping, P
+   Lv, X
+   Mao, YC
+   Qi, RZ
+AF Ping, Ping
+   Lv, Xin
+   Mao, Yingchi
+   Qi, Rongzhi
+GP IEEE
+ER
+
+PT C
+AU Vanbergue, D
+   Treuil, JP
+   Drogoul, A
+AF Vanbergue, D
+   Treuil, JP
+   Drogoul, A
+BE Ballot, G
+   Weisbuch, G
+ER
+
+PT C
+AU Wang, AL
+   Wu, WL
+   Chen, JJ
+AF Wang, Ailian
+   Wu, Weili
+   Chen, Junjie
+GP IEEE
+ER
+
+PT J
+AU White, SH
+   del Rey, AM
+   Sánchez, GR
+AF White, S. Hoya
+   del Rey, A. Martin
+   Sanchez, G. Rodriguez
+ER
+
+PT J
+AU Kawaharada, A
+   Iima, M
+AF Kawaharada, Akane
+   Iima, Makoto
+ER
+
+PT J
+AU Jiménez-Morales, F
+   Tomassini, M
+AF Jiménez-Morales, F
+   Tomassini, M
+ER
+
+PT J
+AU Konno, N
+AF Konno, N
+ER
+
+EF

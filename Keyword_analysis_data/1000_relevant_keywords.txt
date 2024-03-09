@@ -1,0 +1,5132 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+DE cellular automata; minimal automata; permutation automata
+ID SOFIC SYSTEMS; COMPUTATION
+ER
+
+PT C
+DE Leakage Squeezing; Cellular Automata; Nonlinear Cellular Automata;
+   Hybrid Nonlinear Cellular Automata
+ER
+
+PT C
+DE Cellular automata; Invertible cellular automata; Monoids; Generating
+   sets
+ID SEMIGROUPS; RANK
+ER
+
+PT C
+DE quantum walk; quantum cellular automaton; stochastic cellular automaton
+ER
+
+PT C
+DE cellular automata; commutation; symbol permutations; homomorphisms
+ER
+
+PT J
+DE Cellular Automata; Characteristic Matrix; Elementary Cellular Automata;
+   Rule Equivalence; State Transition Diagram
+ER
+
+PT J
+DE fuzzy cellular automata; FCA; ECA; cellular automata; boolean cellular
+   automata; classification
+ID COMPUTATION; EVOLUTION
+ER
+
+PT C
+DE Compositeness Detecting Cellular Automata (CDCA); Rule Vector Graph
+   (RVG); Level Graph (LG); Cellular Automata Transform
+ER
+
+PT J
+DE cellular automata; reaction-diffusion
+ER
+
+PT J
+DE Cellular automata; Invertible cellular automata; Finite groups; Finite
+   monoids; Generating sets
+ID SEMIGROUPS; RANKS
+ER
+
+PT J
+DE cellular automata; learning automata; cellular learning automata;
+   reinforcement learning; cellular networks
+ID ALGORITHM
+ER
+
+PT C
+DE Quantum Computer; Quantum Cellular Automata; Simulation; Periodicity
+ID COMPUTER SIMULATOR; MODEL
+ER
+
+PT C
+DE Cellular Automaton; Complex Network; Scale-free
+ID SELF-ORGANIZED CRITICALITY; DYNAMICS; GAME; LIFE
+ER
+
+PT J
+DE Sand automata; Cellular automata; Dynamical systems; Nilpotency;
+   Undecidability
+ID LIMIT-SETS; NILPOTENCY; DYNAMICS
+ER
+
+PT C
+DE Automorphism groups; Cellular automata; Subshifts
+ID AUTOMORPHISM GROUP; FINITE; SUBSHIFTS; SYSTEMS
+ER
+
+PT J
+DE Permutation cellular automata; Prefix code; Complexity
+ER
+
+PT J
+DE cellular automata; subshifts; topological entropy; shift spaces
+ID LANGUAGES
+ER
+
+PT C
+DE cellular automata; bipermutivity; commutation; affine cellular automata
+ER
+
+PT J
+DE Image processing; Edge detection; Learning automata; Cellular automata;
+   Cellular learning automata
+ID IMAGES
+ER
+
+PT J
+DE Cellular automaton; first order logic; decidability; first order
+   spectra; model checking
+ID SETS
+ER
+
+PT J
+DE cellular automata; learning automata; cellular learning automata;
+   dynamical systems
+ER
+
+PT J
+DE array; cellular automaton; parallel system
+ER
+
+PT C
+DE cellular automata; memory
+ID RULE
+ER
+
+PT C
+DE Cellular automaton; Observability; Mobile sensors; Kalman criterion
+ID REGIONAL CONTROLLABILITY
+ER
+
+PT J
+DE Cellular automata; Conjugacy; Undecidable
+ER
+
+PT J
+DE cellular automata; disordered systems; defects
+ID RULES
+ER
+
+PT J
+DE Cellular automata; Closing; Sequentialization
+ER
+
+PT J
+DE cellular automata; memory; topology
+ID SINGLE-SITE SEED; PATTERNS
+ER
+
+PT J
+DE cellular automaton; G-set; hyperbolic space; Hedlund's theorem;
+   reversible cellular automaton; coordinate system; group action
+ER
+
+PT C
+DE Cellular automata; cryptography; chaotic system; sequence generator
+ID SEQUENCES
+ER
+
+PT J
+DE Gauge-invariance; Cellular automata; Quantum cellular automata
+ID QUANTUM; MODELS
+ER
+
+PT J
+DE cellular automata; shift spaces; topological entropy
+ER
+
+PT J
+DE Cellular automaton; commutation; symbol permutation; homomorphism;
+   intrinsic universality; equicontinuity
+ID SHIFT
+ER
+
+PT J
+DE cellular learning automata; cellular automata; learning automata;
+   interconnected automata
+ID ALGORITHM
+ER
+
+PT J
+DE cellular automata; wolfram; stick-slip
+ID COMPLEXITY; WAVES
+ER
+
+PT C
+DE Cryptographic properties; Hybrid Cellular Automata; Cryptographic
+   primitives; Cellular Automata Sequences
+ID GENERATION
+ER
+
+PT C
+DE Cellular Automata (CAs); Grid graph; Shortest paths; Rule
+ER
+
+PT C
+DE cellular automata; land use; structural validity; agent-based models
+ER
+
+PT J
+DE cellular automata; anisotropy; isotropy; modeling with cellular automata
+ID EXCITABLE MEDIA; PROPAGATION; MODEL
+ER
+
+PT J
+DE cellular automata; dimer automata; discrete dynamical system;
+   qualitative analysis; mean field approximation
+ID STATISTICAL-MECHANICS; EXCITABLE MEDIA; MODELS
+ER
+
+PT C
+DE Cellular Automaton; Corrosion; Pitting; Model; Mesoscopic
+ID PITTING CORROSION; LOCALIZED CORROSION; OXIDE LAYER; MONTE-CARLO;
+   SIMULATION; GROWTH; PASSIVATION; DIFFUSION; ALUMINUM; HETEROGENEITY
+ER
+
+PT C
+DE Stochastic cellular automata; Probabilistic cellular automata; Symmetry
+   breaking; Synchronisation
+ER
+
+PT J
+DE Greenberg-Hastings cellular automata; excitable media; sinus node
+ID EXCITABLE MEDIA
+ER
+
+PT C
+DE Complex logic puzzles; Sudoku; Cellular Automata; Learning Cellular
+   Automata
+ER
+
+PT C
+DE learning automata; cellular learning automata; open cellular learning
+   automata
+ER
+
+PT J
+DE Cellular automaton (CA); cellular automata machine; graph theoretic
+   problems; spanning tree problem; single source shortest path problem
+ID SHORTEST-PATH; CA
+ER
+
+PT C
+DE Cellular automata; polymorphic electronics; globally controlled
+   reconfiguration
+ID CIRCUITS
+ER
+
+PT J
+DE reversible cellular automaton; universality; cyclic tag system
+ER
+
+PT C
+DE Dynamical system; shift subspace; cellular automaton
+ER
+
+PT J
+DE cellular automata; finite automata; automatic sequences; factorization
+   over finite fields
+ID FINITE-FIELDS; FACTORIZATION; POLYNOMIALS; NIEDERREITER; ALGORITHMS;
+   BERLEKAMP
+ER
+
+PT J
+DE cellular automata; alternation; nondeterminism
+ER
+
+PT C
+DE multiscale systems; coarse graining; cellular automata
+ER
+
+PT J
+DE Cellular automata; Nominal sets
+ID MODELS; CALCULUS
+ER
+
+PT C
+DE Reversible cellular automata; Reversible turing machine; Universality;
+   Edge of chaos; Sensitivity
+ID COMPUTATION; CHAOS
+ER
+
+PT J
+DE cellular automata; Cayley graphs; simulation
+ER
+
+PT C
+DE Reversibility; One-way cellular automata; Language recognition; Closure
+   properties; Decidability
+ER
+
+PT J
+DE cellular automata; identification; immunocomputing
+ER
+
+PT C
+DE Authenticated encryption; Cellular automata; Substitution-permutation
+   network
+ER
+
+PT J
+DE Asynchronous cellular automata; m-ACA; elementary cellular automata
+ID COMPLEXITY
+ER
+
+PT C
+DE Asynchronous cellular automaton; Coxeter group; dynamics group;
+   sequential dynamical system
+ER
+
+PT J
+DE cellular automata; classification; self-organization; emergence
+ER
+
+PT C
+DE Probabilistic cellular automata; Control theory; Boundary control;
+   Reachability
+ID CONTROLLABILITY; SYNCHRONIZATION
+ER
+
+PT C
+DE fuzzy logic; fuzzy automaton; cellular automata; fuzzy cellular automata
+ER
+
+PT C
+DE discrete-time dynamical systems; cellular automata; symbolic dynamics;
+   formal languages; computability; decidability
+ID ATTRACTORS
+ER
+
+PT J
+DE cellular automata; computers
+ER
+
+PT C
+DE Cellular automata; Linear cellular automata; Monoids; von Neumann
+   regular elements; Generalised inverses
+ER
+
+PT S
+DE cellular automata; clock-controlled generators; linear modelling;
+   cryptography
+ID CRYPTOGRAPHY
+ER
+
+PT J
+DE Universality; cellular automata; parallel computing; pushdown storage;
+   formal languages; computational complexity
+ID ARRAYS
+ER
+
+PT C
+DE Cellular automata; multi-objective optimization; genetic algorithm;
+   simulated annealing; resource allocation
+ER
+
+PT J
+DE Multi-scale systems; Cellular automata; Coarse-graining
+ID DYNAMICS
+ER
+
+PT J
+DE cellular automata; lattices; finite fields; finite rings
+ER
+
+PT J
+DE Cellular automata; diversity; expressiveness
+ID REPLICATION
+ER
+
+PT C
+DE Cellular automata; complex systems; language variation; simulation
+ER
+
+PT C
+DE Nondeterministic cellular automata; Equicontinuity; Sensitivity;
+   Transitivity
+ID COMPLEXITY
+ER
+
+PT J
+DE Elementary cellular automata; classification; transition graphs;
+   automorphisms; symmetry
+ER
+
+PT C
+DE Multi-Scale Modeling; Complex Automata
+ID FORMALISM; ERROR
+ER
+
+PT J
+DE Difference equation; cellular automata; CNN; evolution rules; truth
+   table; totalistic cellular automata; multistate cellular automata; image
+   processing cellular automata; asynchronous cellular automata; game of
+   life; Sierpinski automaton; sandpile cellular automaton;
+   Greenberg-Hastings automaton; cyclic cellular automaton
+ER
+
+PT J
+DE Cellular Automata; Polymorphic Circuits; Self-Replication; Global
+   Control; Cellular Hardware
+ID SELF-REPRODUCTION; DESIGN
+ER
+
+PT J
+DE Cellular automata; programmable cellular automata; cryptography; chaotic
+   dynamic systems; reconfigurable hardware systems; FPGA
+ID CRYPTOGRAPHY; SYSTEMS
+ER
+
+PT J
+DE Cellular automata; finitely generated groups; Besicovitch topology;
+   surjunctivity
+ER
+
+PT J
+DE Elementary cellular automata; classification; memory
+ID BEHAVIOR; WOLFRAMS; COMPLEX; KIND
+ER
+
+PT C
+DE Cellular automata; classification; supervised learning algorithm;
+   support vector machines
+ID ASSOCIATIVE MEMORY
+ER
+
+PT J
+DE Stochastic cellular automata; Complexity analysis; Continuous cellular
+   automata; Decomposition
+ID STATISTICAL-MECHANICS
+ER
+
+PT S
+DE structurally dynamic; cellular automaton; memory; hexagonal
+ER
+
+PT J
+DE Cellular automata; Continuous cellular automata; Fuzzy cellular
+   automata; Density conservation; Additivity
+ID NUMBER
+ER
+
+PT J
+DE cellular automata; image compression; image construction
+ID FINITE AUTOMATA; COMPRESSION
+ER
+
+PT J
+DE Cellular automata; Non-uniform cellular automata; Decidability; Symbolic
+   dynamics
+ID BEHAVIOR
+ER
+
+PT J
+DE cellular automata; intermediate degrees
+ER
+
+PT C
+DE Cellular automata; Gliders; Restricted domains; Logical gates
+ER
+
+PT J
+DE fuzzy systems; elementary cellular automata; characterisation
+ID EVOLUTION
+ER
+
+PT C
+DE Greenberg-Hastings cellular automata; complex networks
+ID EXCITABLE MEDIA
+ER
+
+PT J
+DE Uniform cellular automata; non-uniform cellular automata; simulation;
+   unified system
+ID INTRINSIC UNIVERSALITY; COMPLEXITY
+ER
+
+PT J
+DE cellular automata; intermediate degrees
+ID COMPUTATION
+ER
+
+PT C
+DE Cellular automata; task scheduling; coevolution
+ER
+
+PT J
+DE Cellular automata; game of Go
+ID COMPUTER GO; SEARCH
+ER
+
+PT C
+DE Cellular automata; Cryptography; Asynchrony immunity; Correlation
+   immunity; Nonlinearity; Side-channel attacks; Permutivity
+ID RULES
+ER
+
+PT J
+DE Cellular automata; Non -uniform cellular automata; Number conservation
+ID LATTICE-GAS; COMPLEXITY; DYNAMICS
+ER
+
+PT J
+DE Automata networks; Cellular automata; Modules
+ID STABILITY
+ER
+
+PT J
+DE Combinatorial problems; non-linear cellular automata; group cellular
+   automata
+ER
+
+PT C
+DE cellular automata; decidability; symbolic dynamics
+ER
+
+PT C
+DE Asynchronous Cellular Automata; Computer Graphics; Pattern Formation;
+   Square Kufic script
+ER
+
+PT J
+DE Learning automata; Cellular learning automata; Irregular cellular
+   learning automata; Dynamic irregular cellular learning automata;
+   Expediency
+ER
+
+PT J
+DE freezing cellular automata; convergent cellular automata; complexity;
+   computability
+ID UNIVERSALITY; DECIDABILITY; NILPOTENCY; COMPLEXITY; MODEL
+ER
+
+PT J
+DE cellular automata; parallel computing; pushdown storage; formal
+   languages; complexity
+ID REAL-TIME
+ER
+
+PT J
+DE AUTOMATA THEORY; CELLULAR AUTOMATA; COMPUTER ARCHITECTURES; HIERARCHICAL
+   NETWORKS; MASSIVE PARALLELISM; VLSI
+ER
+
+PT J
+DE cellular automata; identification problem; genetic programming; decision
+   tree
+ER
+
+PT C
+DE cellular automaton; sorting network; instruction-based development;
+   evolutionary design
+ER
+
+PT J
+DE cellular automata
+ID PERIODIC BOUNDARY
+ER
+
+PT J
+DE discrete computations; cellular automata; hyperbolic geometry;
+   universality
+ID SQUAD SYNCHRONIZATION PROBLEM; PLANE
+ER
+
+PT J
+DE cellular automata; communication complexity
+ER
+
+PT J
+DE Cellular Automata; Stream Cipher; Trivium; Cryptography; Cellular
+   Automata based Stream Cipher; Strengthening Trivium
+ER
+
+PT C
+DE football; cellular automata; models; anticipation; mentality
+ER
+
+PT J
+DE cellular automata; reversibility; algebraic dynamics
+ID POLYNOMIAL MAPS; FINITE-FIELDS; DYNAMICS
+ER
+
+PT J
+DE Cellular Automata models; traffic dynamics; traffic states
+ER
+
+PT C
+DE cellular automata; number-conservation; logical universality
+ER
+
+PT C
+DE cellular automata; urban development; China
+ID LAND-USE CHANGE; PEARL RIVER DELTA; METROPOLITAN-AREA; TRANSITION RULES;
+   NORTHERN CHINA; MODEL; EXPANSION; GIS; SIMULATION; SYSTEM
+ER
+
+PT J
+DE cellular automata; signal; computational power
+ID TIME
+ER
+
+PT C
+DE Cellular Automata; Modelling and Simulation; Tsunami
+ID LANDSLIDES
+ER
+
+PT J
+DE Nanoelectronics; Quantum-dot cellular automata (QCA); Turing complete;
+   Rule 110; Cellular automata
+ID BISTABLE SATURATION
+ER
+
+PT J
+DE Symbolic dynamics; Cellular automaton; Finite maximal prefix code;
+   Finite maximal bifix code
+ID TEXTILE SYSTEMS; ENDOMORPHISMS; AUTOMORPHISMS; DYNAMICS; SHIFTS; MAPS
+ER
+
+PT J
+DE Authenticated Encryption; Cellular Automata; Substitution-Permutation
+   Network; Cryptanalysis
+ER
+
+PT J
+DE Cellular automata; additive cellular automata rules; equal length
+   cellular automata; equal length cellular automata dynamics; fixed
+   boundary conditions
+ID LINEAR RULES; DYNAMICS; CHAOS
+ER
+
+PT C
+DE Cellular automata; Two-slit experiment; Anticipation; Multivaluednes;
+   Frequency distribution
+ER
+
+PT C
+DE ACORN; Differential Fault Attack; Cellular Automata; PCA 90-150; Stream
+   cipher; Authenticated encryption
+ER
+
+PT J
+DE cellular automata; decidability
+ER
+
+PT J
+DE FUZZY CELLULAR AUTOMATA; COMPLEXITY; HIERARCHY
+ER
+
+PT C
+DE cellular automata; undecidability
+ID LIMIT-SETS; TILINGS; NILPOTENCY
+ER
+
+PT C
+DE Cellular automata; monoids; propositional logic; reversibility; Stone
+   topology; Hedlund's theorem
+ID REVERSIBILITY
+ER
+
+PT J
+DE Nondeterminism; Cellular Automata; Surjectivity; Reversibility
+ID DECIDABLE PROPERTIES; RICE THEOREM; ATTRACTORS; REVERSIBILITY
+ER
+
+PT J
+DE Continuous Cellular Automata; Fuzzy Cellular Automata; Visualization of
+   dynamics; Evolution; Asymptotic Behavior
+ID FUZZY
+ER
+
+PT J
+DE linear cellular automata; injectivity; surjectivity; Cayley graphs
+ID TESSELLATION AUTOMATA; INJECTIVITY; MAPS
+ER
+
+PT C
+DE cellular automata; finite element; dual phase steel; failure
+ID DUAL-PHASE STEELS; DEFORMATION; MECHANISMS
+ER
+
+PT C
+DE City traffic; Cellular Automata (CA); Rule 226
+ID FLOW; SYSTEMS
+ER
+
+PT J
+DE Cellular automata; dynamical systems; ergodic theory; eigenvalues
+ER
+
+PT C
+DE Reset Mealy automata; One-sided cellular automata; Permutive cellular
+   automata; Periodicity problem; Reversible computation
+ER
+
+PT J
+DE cellular automaton; quantum cellular automaton; Wolfram' rule;
+   observation
+ER
+
+PT C
+DE cellular automata; fuzzy cellular automata; image segmentation
+ER
+
+PT C
+DE Cellular automata; Sociophysical models; Disproportionality
+ER
+
+PT J
+DE cellular automata; reversibility; limit set; subshifts of finite type;
+   conservation laws; undecidability
+ER
+
+PT J
+DE cellular automata; observability; reconstructibility; mobile sensors;
+   Kalman criterion; RNG attack
+ID REGIONAL CONTROLLABILITY; GENERATORS
+ER
+
+PT C
+DE Cellular automata; Self-organization; Load-balancing
+ID SELF-ORGANIZED CRITICALITY; GRIDS
+ER
+
+PT C
+DE cellular automata; natural computing; difference equation; cryptography
+ID GENERATORS
+ER
+
+PT J
+DE number-conserving; cellular automata
+ID RULES; REPRESENTATION; DECIDABILITY
+ER
+
+PT J
+DE Non-Archimedean valued fuzzy logic; p-adic valued fuzzy logic; logical
+   cellular automata; Non-Archimedean valued cellular automata; p-adic
+   valued cellular automata
+ER
+
+PT J
+DE cellular automata; simulation; Java
+ER
+
+PT J
+DE Cellular automata; semi-totalistic automata; outer-totalistic automata;
+   Conway's Game of Life; similarity of cellular automata; behavior of
+   cellular automata
+ID GAME
+ER
+
+PT S
+DE FPGA; cellular automata; genetic algorithm
+ER
+
+PT J
+DE Quantum cellular automata; Quantum walks; Models of quantum computation;
+   Quantum simulations
+ID COMPUTATION; EFFICIENT
+ER
+
+PT C
+DE Cellular automata; urban planning; multiagents; GIS; opinion formation
+ER
+
+PT C
+DE Cellular Automata (CA); Extended Cellular Automata (ECA); Dynamic
+   Parallel Evolution; Interacting Multiple Subsystems
+ER
+
+PT J
+DE Cellular automata; permutive; equilibrium measure; phase transition;
+   Parry measure; snap-back repeller; chaos
+ID REACTION-DIFFUSION EQUATIONS; EXCITABLE MEDIA; CHAOS
+ER
+
+PT J
+DE cellular automata; Cattaneo cellular automata; memory games;
+   probabilistic minority games; epidemic modelling
+ID PRISONERS-DILEMMA
+ER
+
+PT C
+DE Cellular automata; Diffusion; Random walk
+ER
+
+PT J
+DE Hexagonal cellular automata; Rule matrix; Reversible cellular automata;
+   Matrix algebra
+ID CRYPTOGRAPHY; RULES
+ER
+
+PT J
+DE One-way cellular automata; self-verification; computational capacity;
+   speed-up; closure properties; decidability problems
+ID WAY COMMUNICATION COMPLEXITY; REAL-TIME; LAS-VEGAS; TRELLIS
+ER
+
+PT J
+DE Cellular automata; Bulking; Grouping; Classification
+ID ATTRACTORS
+ER
+
+PT J
+DE Cellular automata; particles; traveling localizations; collisions; beam
+   routing; universality
+ID PARTICLES; COMPLEX; MODEL
+ER
+
+PT J
+DE cellular automata; number-conserving rules; balanced sequences;
+   enumeration
+ID DECIDABILITY
+ER
+
+PT J
+DE Elementary cellular automata; block updates; periodic points; block
+   invariance
+ID ASYNCHRONOUS BEHAVIOR
+ER
+
+PT C
+DE expander graphs; Cellular Automata (CA); Two-Predecessor Single
+   Attractor CA (TPSA-CA)
+ER
+
+PT J
+DE cellular automata
+ER
+
+PT J
+DE cellular automata; symbolic dynamic; dynamical system
+ER
+
+PT S
+DE cellular automata; geometric modeling; image processing; environmental
+   and biological systems; surface effects; fluid simulation
+ID PATTERNS
+ER
+
+PT J
+DE cellular automata; universality; classification
+ID UNIVERSALITY; ATTRACTORS; LANGUAGES; SUBSHIFTS
+ER
+
+PT C
+DE Cellular automata; evolutionary computation; symmetry; automata rule
+   induction
+ID MODEL; GROWTH
+ER
+
+PT J
+DE Toothpick cellular automaton; Large-scale behavior; Fractal; Sierpinski
+   triangle; Rule 18; Rule 90
+ID GROWTH; SIMULATION
+ER
+
+PT J
+DE Cellular automata; Digital watermarking; Maximum-length cellular
+   automata; Middle-frequency; 2D cellular automata transform
+ER
+
+PT C
+DE Pseudo-Random Number Generator; Non-linearity; Maximum Length Cellular
+   Automata; Cryptography
+ER
+
+PT J
+DE Cellular automata; dynamical systems; virus dynamics
+ID HIV-INFECTION; MODEL
+ER
+
+PT J
+DE cellular automata; permutivity; permutativity; one-sided shift; chaotic
+   cellular automata
+ID CHAOS
+ER
+
+PT J
+DE Symbolic representation; expansive map; cellular automaton; symbolic
+   dynamics
+ID SYSTEMS; CHAOS
+ER
+
+PT J
+DE asynchronous cellular automata; self-timing; chain reactions; universal
+   computation
+ER
+
+PT C
+DE Cellular automata; Edge detection; Image processing
+ER
+
+PT J
+DE PERIODIC BEHAVIOR; CELLULAR AUTOMATA
+ER
+
+PT J
+DE cellular automata; algorithm; permutation
+ID PREDECESSORS; STATES
+ER
+
+PT J
+DE cellular automata; deterministic on-line tessalation automata; real
+   time; linear time; closure property
+ID ACCEPTORS
+ER
+
+PT C
+DE cellular automata; density classification task; image segmentation
+ER
+
+PT C
+DE Cellular Automata; Motion detection; Video analysis
+ER
+
+PT J
+DE number-conserving cellular automata; undecidability; number-decreasing
+   cellular automata
+ID LIMIT-SETS; DECIDABILITY
+ER
+
+PT J
+DE CELLULAR AUTOMATA; PERCOLATION
+ER
+
+PT C
+DE Cellular automata; geospatial information; Python; transitional rules;
+   computational models
+ID SPATIAL DEPENDENCE; REGRESSION
+ER
+
+PT J
+DE Cellular Automata (CAs); temporally stochastic cellular automata; chaos;
+   phase transition; class transition
+ID PHASE-TRANSITIONS; RANDOM MIXTURES
+ER
+
+PT J
+DE cellular automata
+ID SPACES
+ER
+
+PT J
+DE Reflexive game; unconventional logic; cellular automaton; game theory
+ID LOGIC
+ER
+
+PT J
+DE Cellular automata (CAs); quantum cellular automata (QCAs); design
+   automation; nanoelectronic circuits
+ID SINGLE-ELECTRON-CIRCUIT; VLSI IMPLEMENTATION; ADDER DESIGNS; CAD-SYSTEM;
+   SIMULATION; ALGORITHMS; MEMORY; METHODOLOGY; PROCESSOR
+ER
+
+PT J
+DE One-dimensional cellular automata; elementary cellular automata;
+   computational complexity; stability problem; decision problem
+ID COMMUNICATION COMPLEXITY; UNIVERSALITY
+ER
+
+PT C
+DE cryptography; cellular automata; programmable cellular automata; chaotic
+   dynamic systems
+ID CRYPTOGRAPHY; SYSTEMS
+ER
+
+PT J
+DE classification; cellular automata; Turing machines
+ID CLASSIFICATION
+ER
+
+PT J
+DE cellular automata; hyperbolic space; logical universality;
+   delay-insensitive circuits
+ID DELAY-INSENSITIVE CIRCUITS; PLANE
+ER
+
+PT C
+DE cellular automata; construction; intersection; urban traffic network;
+   cellular lattice; conflict points
+ID MODEL; FLOW
+ER
+
+PT B
+DE logic program; cellular automaton; orbit; simulation
+ER
+
+PT C
+DE Molecular Electronics; Cellular Automata; Architectures; Nanotechnology
+ID NANOCOMPUTERS
+ER
+
+PT J
+DE Cellular automata; cellular automata with memory; cellular automata with
+   random memory; FPGA; delay line
+ID PHASE-TRANSITIONS; GENERATION; MODELS; IMAGE
+ER
+
+PT J
+DE Asynchronous cellular automata; survey; discrete dynamical systems;
+   complex systems
+ID UNIVERSALITY; ROBUSTNESS; SYNCHRONIZATION; COMPUTATION; DYNAMICS;
+   UPDATE; TRANSITIONS; EXAMPLES; PATTERNS; PARALLEL
+ER
+
+PT J
+DE Cellular automata; discrete control systems; morphogenesis; fire
+   simulation; fractones
+ID HEPARAN SULFATES; GROWTH; FRACTONES; BRAIN; CELLS; MODEL
+ER
+
+PT C
+DE Biham-Middleton-Levine model; Cellular automata; Parallel computing
+ER
+
+PT C
+DE discrete-time dynamical systems; cellular automata; symbolic dynamics;
+   sofic systems; formal languages
+ID ATTRACTORS
+ER
+
+PT J
+DE Strongly mixing; k-mixing; multidimensional cellular automaton;
+   permutive; surjection
+ID BEHAVIOR
+ER
+
+PT J
+DE cellular automata; fuzzy cellular automata; radial basis function;
+   genetic algorithm; pattern classification
+ID NEURAL-NETWORKS; DESIGN
+ER
+
+PT J
+DE modelling; cellular automata; spreadability
+ID DYNAMICS; COMPETITION; DIFFUSION; SYSTEMS; PATTERN
+ER
+
+PT C
+DE Density classification task; DCT; global majority problem; emergent
+   computation; cellular automata; number conserving rule
+ID CLASSIFICATION; NUMBER; RULES
+ER
+
+PT J
+DE random cellular automata; random Boolean networks; stability
+ID NETWORKS
+ER
+
+PT J
+DE self-timed cellular automata; self-reproduction; asynchronous;
+   construction; universality
+ID CIRCUITS
+ER
+
+PT J
+DE Cellular automata; clustering; big data
+ID GENETIC ALGORITHM; DIFFUSION
+ER
+
+PT C
+DE Elementary Cellular Automata; Asynchronism; Noise
+ID BEHAVIOR; NETWORKS
+ER
+
+PT C
+DE Cellular Automata; Binary Classification Problem; Genetic Algorithm
+ER
+
+PT J
+DE Hypercomputers; cellular automata; Petri nets; Zeno's paradox
+ID COMPUTATION
+ER
+
+PT J
+DE Cellular automata; Elementary cellular automata; Linear cellular
+   automata; Monoids; von Neumann regularity; Generalised inverse
+ER
+
+PT J
+DE cellular automata; orthogonal least squares; excitable media
+ER
+
+PT C
+DE cellular automata; cellular automata transform; image classification
+ID COMPRESSION
+ER
+
+PT J
+DE binary lattice; cellular automata; detailed balance equation; finite
+   homogeneous Markov chain; stationary distribution
+ID STATIONARY DISTRIBUTION; MODELS
+ER
+
+PT J
+DE bootstrap percolation; cellular automata; universality
+ID POLLUTED BOOTSTRAP PERCOLATION
+ER
+
+PT J
+DE Memristor; cellular automaton; excitable medium
+ER
+
+PT J
+DE granular computing; cellular automata; multi level thinking cellular
+   automata; granular computing; granular cellular automata system; soft
+   computing
+ID TRAFFIC FLOW; MODEL; BEHAVIOR
+ER
+
+PT C
+DE Cellular learning automata; edge detection; fuzzy cellular Automata;
+   image processing; statistic feature
+ER
+
+PT J
+DE Cellular automata; Communication complexity
+ER
+
+PT J
+DE random number generation; cellular automata; configurable cellular
+   automata
+ID QUALITY RANDOM NUMBERS; PARALLEL
+ER
+
+PT C
+DE Cellular automata; Synchronization; Mobile sensors
+ID CONTROLLABILITY
+ER
+
+PT J
+DE cellular automata; geographic information system; model composability;
+   multi-modeling
+ID METHODOLOGY; FRAMEWORK
+ER
+
+PT J
+DE finite Boolean cellular automata; linear algebra; reversibility; 150
+   Wolfram cellular automata
+ER
+
+PT C
+DE cellular automata; pattern reconstruction task; genetic algorithm
+ER
+
+PT J
+DE discrete dynamical systems; cellular automata; classification
+ID LIMIT-SETS
+ER
+
+PT C
+DE Cellular Automata; Text Detection; Coord. Logic Filters
+ID VLSI IMPLEMENTATION; CAD-SYSTEM; SEGMENTATION; LOCATION
+ER
+
+PT C
+DE Cellular automata; Latin squares; Secret sharing schemes; de Bruijn
+   graph
+ER
+
+PT C
+DE Cellular automata; Coarse-graining; Projection; Dynamical systems;
+   Probabilistic dynamics; Voter model
+ER
+
+PT C
+DE Biofilm detachment; biofilm mechanical properties; cellular automaton;
+   biofilm wall shear stress; probability of detachment
+ID MICRO-CANTILEVER METHOD; MECHANICAL-PROPERTIES; UMCCA MODEL; FLUID
+   SHEAR; COMPRESSION
+ER
+
+PT J
+DE Cellular automata; measure entropy; directional entropy; maximal measure
+ID FRACTIONAL DIMENSIONS; TOPOLOGICAL-ENTROPY; DIRECTIONAL ENTROPY;
+   COMPLEXITY; RESPECT
+ER
+
+PT C
+DE Cellular automata; Latin squares; Bipermutivity; Pairwise balancedness
+ER
+
+PT C
+DE cellular automaton; self-reproduction; two-dimensional 1-bit
+   communication cellular automata
+ER
+
+PT C
+DE Cellular automata; Mathematical modelling Cellular biology; Cooperation;
+   Numerical analysis
+ID INTERCELLULAR-ADHESION; SIMULATION; MIGRATION; MATRIX
+ER
+
+PT C
+DE Cellular Automata; S-Boxes; Block Cipher; Cryptography; Boolean
+   Functions
+ER
+
+PT J
+DE 2D cellular automata; nonequivalent dynamics; class-1 homogeneous
+   automata
+ID NONLINEAR DYNAMICS PERSPECTIVE; WOLFRAMS; SCIENCE; KIND
+ER
+
+PT J
+DE Nonuniform cellular automata; Realization problems; Surjectivity
+ID DECIDABILITY
+ER
+
+PT C
+DE Anodization; Cellular Automata; Parallel programing; aluminum oxide
+   growth
+ID ANODIC ALUMINA; ARRAYS; FILMS
+ER
+
+PT J
+DE Cellular automata; Elementary cellular automata; Von Neumann regularity;
+   Split epicness
+ER
+
+PT J
+DE Cellular automata; Asynchronous cellular automata; Dynamical behavior;
+   Decidability
+ID SAND AUTOMATA; DYNAMICS; BEHAVIOR; SYSTEMS
+ER
+
+PT C
+DE Cellular automaton; Physical universality; Reversibility
+ER
+
+PT J
+DE cellular automaton; subshift; defect; kink; domain boundary
+ID SPATIOTEMPORAL CHAOS; PATTERN SELECTION; LIMIT-SETS; DYNAMICS;
+   DIFFUSION; GROWTH; DEFECT; RULES; THEOREMS; SYSTEMS
+ER
+
+PT J
+DE Cellular automata; Computational complexity; Freezing dynamics
+ID PERCOLATION
+ER
+
+PT J
+DE cellular automata; classification; Wolfram classes; decidability;
+   automaticity
+ER
+
+PT C
+DE Cellular Automata; VLSI Testing; Cryptography; PRNG
+ER
+
+PT J
+DE cybernetics; cellular automata; expert systems
+ER
+
+PT C
+DE Cellular automata; Ants; Swarm robots; Surveillance
+ID ALGORITHM
+ER
+
+PT C
+DE Cellular Automata; Systolic Array; Implementation Of Cellular Automata
+ER
+
+PT S
+DE cellular automata; routing; maze routing algorithm; physical design;
+   parallel algorithm
+ER
+
+PT J
+DE Reversible cellular automaton; reversible iterative array; partitioned
+   cellular automaton; reversible computing; language recognition;
+   reversible linear-bounded automaton
+ID COMPUTATION; SPACE
+ER
+
+PT J
+DE Cellular automata; Asynchronous cellular automata; Discrete dynamical
+   systems
+ID LANGUAGES; BEHAVIOR
+ER
+
+PT J
+DE cellular automata; distributed algorithms; syncronization; firing squad
+   problem
+ER
+
+PT J
+DE cellular automaton; textile design
+ER
+
+PT J
+DE cellular automata; reversibility; universality
+ID COMPUTATION
+ER
+
+PT J
+DE Coupled; cellular automaton; memory
+ER
+
+PT J
+DE One-dimensional cellular automaton; space of configurations;
+   omega-automatic structures; first order theory; cardinality quantifiers;
+   decidability properties; surjective cellular automaton; automatic graph;
+   reachability relation
+ER
+
+PT J
+DE Cellular Automata; Quantum Computing; Aharonov-Bohm Effect; Symbolic
+   Substitution; Turing Machine
+ID COMPUTATION
+ER
+
+PT J
+DE odometer; cellular automaton
+ER
+
+PT J
+DE Cellular automata; Synchronization; Observation; Mobile sensors
+ID CONTROLLABILITY
+ER
+
+PT J
+DE cellular automata; groups; models of computation; automata
+ER
+
+PT C
+DE Cellular automata; DNA; Thymine; Uracil
+ER
+
+PT C
+DE Cellular automata; Lyapunov exponents; Multi-state systems
+ID EXPONENTS
+ER
+
+PT C
+DE failover; cellular automata; Game of Life; emergence
+ER
+
+PT S
+DE stream cipher; cellular automata; linear model; cryptography
+ID CELLULAR-AUTOMATA; SEQUENCES
+ER
+
+PT J
+DE CELLULAR AUTOMATA; MAZE SOLVING; IMAGE PROCESSING
+ER
+
+PT J
+DE Cellular automaton; evolutionary algorithms; SOMA; differential
+   evolution; particle swarm optimization; evolutionary strategies;
+   simulated annealing
+ID IDENTIFICATION
+ER
+
+PT J
+DE algorithms; cellular automata; parallel computing
+ER
+
+PT J
+DE discrete computations; cellular automata; hyperbolic geometry;
+   universality; 3D space
+ER
+
+PT J
+DE Fuzzy cellular automata; asymptotic behaviour; periodic points
+ID PATTERN CLASSIFIER
+ER
+
+PT J
+DE cellular automata; symbolic dynamics; spatially and temporally periodic
+   configurations
+ID SAND AUTOMATA; POINTS; EQUICONTINUITY; CONJECTURES; LANGUAGES;
+   SUBSHIFTS; ENTROPY; SYSTEMS; CHAOS
+ER
+
+PT S
+DE cellular automata; universality; zero-one law
+ID ATTRACTORS
+ER
+
+PT C
+DE Euglena gracilis; Bioconvection; Spatio-temporal pattern; Cellular
+   automata; Observation data; Constructing method of cellular automata
+ID TIME CORRELATION-FUNCTIONS; LATTICE-GAS AUTOMATA; EXCITABLE MEDIA;
+   MODEL; DYNAMICS; EQUATION
+ER
+
+PT J
+DE Asynchronous cellular automata (ACAs); reversibility; recurrent rules;
+   randomness enhancer
+ID REVERSIBILITY
+ER
+
+PT C
+DE cellular automata; parallel computing; GPU; CUDA; genetic alghorithm
+ER
+
+PT C
+DE cellular automata; finite element; static recrystallization; phase
+   transformation; framework
+ID RECRYSTALLIZATION; SIMULATION; REPRESENTATION; DEFORMATION
+ER
+
+PT J
+DE cellular automata; particles; Borel probability measures; invariant
+   subshifts
+ID NUMBER
+ER
+
+PT J
+DE Memristor; Learning cellular automata; Edge detection
+ID MODELS
+ER
+
+PT C
+DE cellular automata; multiple attractor cellular automata; GMACA for
+   dimension reduction
+ER
+
+PT C
+DE fractals; cellular automata; substitutions; symmetry; invariants
+ER
+
+PT J
+DE cellular automata; simulation; parallelization
+ER
+
+PT C
+DE Cellular Automata; Modelling and Simulation; Snow Avalanche
+ER
+
+PT S
+DE shrinking generator; cellular automata; cryptography
+ER
+
+PT C
+DE Nonlinear cellular automata; attractor; MACA; PE bit; classifier
+ER
+
+PT C
+DE Cellular Automata; SACA; TACA; Reachability tree
+ER
+
+PT C
+DE Lightweight S-boxes; Semi-bent Boolean functions; Cellular Automata;
+   Reinforcement Learning; Block ciphers
+ER
+
+PT J
+DE Bootstrap percolation; Cellular automata; Monotonicity; Probability
+   measures
+ID COMPUTATIONAL-COMPLEXITY; LIMIT-SETS
+ER
+
+PT C
+DE Fault analysis; Grain cipher; Stream cipher; Cellular automata
+ER
+
+PT J
+DE Asynchronous cellular automata (ACAs); Markov chains; convergence; fixed
+   point; absorbing state
+ER
+
+PT J
+DE cellular automata; image recognition; follicle detection
+ER
+
+PT J
+DE cellular automata; formal logic; spatial rule; temporal rules;
+   evolution; derivation
+ER
+
+PT C
+DE Cellular automata; Learning automata; Reinforcement learning; Medicine;
+   Artificial intelligence; Machine learning
+ID WIRELESS SENSOR; ACTUATOR NETWORKS; MODELS; PREDICTION
+ER
+
+PT C
+DE Cellular automata; Group actions; Garden of Eden theorem
+ER
+
+PT C
+DE Cellular automata; image processing; edge detection; cellular automata
+   linear rules
+ID ALGORITHM
+ER
+
+PT J
+DE Cellular automata; Nilpotency; Dynamical system; Ergodic theory; Unique
+   ergodicity
+ID LIMIT-SETS; NILPOTENCY; TILINGS
+ER
+
+PT C
+DE cellular automata; unstructured grid; unstructured cellular automata;
+   spatial pattern; evolution rules
+ER
+
+PT J
+DE Cellular automata; hybrid autonomous cellular automata; DNA molecular
+   reactions; pseudorandom number generation
+ER
+
+PT J
+DE cellular automata; entropy; directional entropy; Lyapunov exponents;
+   average Lyapunov exponents; space-time directional Lyapunov exponents
+ID DIRECTIONAL ENTROPY
+ER
+
+PT C
+DE Classification; Cellular Automata; Big Data
+ER
+
+PT J
+DE Cellular automata; Convergent orbits; Nilpotency; Freezing cellular
+   automata; Unique ergodicity
+ID LIMIT-SETS; BOOTSTRAP PERCOLATION; COMPLEXITY; THRESHOLD
+ER
+
+PT J
+DE cellular automata; reaction-diffusion systems; probabilistic rounding;
+   simulation; modeling
+ID EXCITABLE MEDIA; MODEL
+ER
+
+PT C
+DE cellular automata; microstructure; softening; recrystallization;
+   recovery
+ID SEVERE PLASTIC-DEFORMATION; MICROSTRUCTURE EVOLUTION; GRAIN-GROWTH;
+   DYNAMIC RECRYSTALLIZATION; COMPUTER-SIMULATION; COUPLED MODEL; FLOW;
+   NUCLEATION; BOUNDARIES
+ER
+
+PT J
+DE Cellular automata; Graphical limit sets
+ID ATTRACTORS
+ER
+
+PT J
+DE Earthquakes; Cellular automata
+ER
+
+PT C
+DE Cellular automata; clock-controlled generators; sequence reconstruction;
+   cryptography
+ID GENERATORS; CRYPTOGRAPHY; COMPLEXITY; SEQUENCES
+ER
+
+PT C
+DE oblivious multi-head finite automata; cellular automata; parallel
+   speedup; simulation
+ID COMPUTATION
+ER
+
+PT C
+DE Public opinion; cellular automata; electoral fields; predicting
+   elections; mentality change; modeling; applications
+ER
+
+PT J
+DE Cellular automata; local structure theory; probability measures
+ER
+
+PT C
+DE cellular automata; edge detection; orientation information measure
+ER
+
+PT C
+DE cellular automata; dynamic behaviour; small-world network
+ID SMALL-WORLD NETWORKS; COMPUTATION; MODEL
+ER
+
+PT J
+DE Memory; density classification; cellular automata; delay
+ID RULE
+ER
+
+PT C
+DE cellular automata (CA); and homogeneous characteristic; M-sequence
+ER
+
+PT C
+DE Cellular automata; universality; models of computation
+ER
+
+PT J
+DE Cellular automata; Gibbs measures; Conservation laws; Macroscopic
+   equilibrium
+ID INVARIANT-MEASURES; CONSERVATION-LAWS; LIMIT MEASURES; RANDOM-FIELDS;
+   NUMBER; TRANSFORMATIONS; EQUICONTINUITY; COMPLEXITY; SHIFTS; GIBBS
+ER
+
+PT J
+DE invertible cellular automata; topological entropy
+ER
+
+PT J
+DE Universal Petri net; infinite Petri net; cellular automata; Turing
+   machine; simulation; complexity
+ID COMPLEXITY
+ER
+
+PT J
+DE cellular automata; fuzzy cellular automata; global evolution; temporal
+   dynamics; fuzzy rules; asymptotics; boolean; CA
+ER
+
+PT C
+DE Interacting particles system; Cellular automata; Traffic flow;
+   Continuous / discrete time; Exclusion process
+ER
+
+PT C
+DE sound generation; physical simulation; cellular automaton
+ER
+
+PT C
+DE Asynchronous cellular automata; stochastic process; Markov chain
+   analysis; fast convergence
+ER
+
+PT J
+DE Firing squad synchronization problem; two-dimensional cellular automata
+ID MINIMAL TIME SOLUTION
+ER
+
+PT C
+DE Cellular automata; Pedestrian simulation; Affective state modeling
+ID PERSONAL-SPACE
+ER
+
+PT J
+DE cellular automata; periodic point; recurrent point; semi-openness;
+   sensitivity; transitivity; weak mixing
+ID DEFINITION; DYNAMICS
+ER
+
+PT J
+DE cellular automata; epidemic; modelling; SEIRS modelling
+ID LATTICE-GAS AUTOMATA
+ER
+
+PT J
+DE amenable group; Cayley graph; cellular automaton; Garden of Eden
+ER
+
+PT C
+DE Cellular automata; Smart contract; Blockchain; Microgrid; Prosumer;
+   Energy sharing
+ID MANAGEMENT; SYSTEM
+ER
+
+PT J
+DE Mnemonic cellular automata; text detection; images
+ID VLSI IMPLEMENTATION; CAD-SYSTEM; SEGMENTATION; LOCATION; MEMORY
+ER
+
+PT S
+DE Multiple-Attractor Cellular Automata; Role-based Access Control;
+   separation of duty; role-delegation
+ER
+
+PT J
+DE Wireless Sensor Networks; Cellular Automata; Neighborhood size;
+   Coverage; Object Detection
+ID CONNECTED DOMINATING SET; CONSTRUCTION; TRACKING
+ER
+
+PT J
+DE Cellular automata; Infinite Unit Axiom; Grossone; Metric; Nonarchimedean
+   metric
+ER
+
+PT J
+DE cellular automata; damage front; Lyapunov exponents; Lyapunov spectrum;
+   stability
+ID RANDOM-WALK; EXPONENTS; CHAOS
+ER
+
+PT C
+DE Cellular automaton; Binary classification; Reconstruction;
+   Nondeterministic methods
+ER
+
+PT C
+DE Cellular Automata; Programmable Cellular Automata; Cryptography; Block
+   Ciphers
+ER
+
+PT J
+DE social migrations; cellular automata
+ID SEGREGATION
+ER
+
+PT J
+DE Cellular automata; Unstructured triangular grids; Anisotropy
+ER
+
+PT C
+DE evolutionary computation; genetic algorithm; probabilistic cellular
+   automata
+ER
+
+PT J
+DE NONLOCAL CELLULAR AUTOMATA; AUTOMATA NETWORKS; CLASSIFICATION OF
+   CELLULAR AUTOMATA; CELLULAR AUTOMATA RULE SPACE; CRITICAL HYPERSURFACE;
+   SELF-ORGANIZED CRITICALITY; MEAN-FIELD THEORY; UNIVERSAL COMPUTATION;
+   GAME OF LIFE; FREDKIN GATE; COUPLED SELECTORS OR COUPLED MULTIPLEXERS;
+   EDGE-OF-CHAOS DYNAMICS; DENSITY FLUCTUATIONS; LONG TRANSIENT BEHAVIORS;
+   COOPERATIVE DYNAMICS
+ID SELF-ORGANIZED CRITICALITY; COUPLED-MAP LATTICES; STATISTICAL-MECHANICS;
+   SPATIAL DISORDER; DYNAMICS; CHAOS; COMPUTATION; PATTERNS; OSCILLATORS;
+   ATTRACTORS
+ER
+
+PT C
+DE Cellular Automata; Type-2 Fuzzy Reasoning; Transition Function
+ID FUZZY-LOGIC SYSTEMS
+ER
+
+PT C
+DE Cellular automaton; traffic flow; lane changing
+ER
+
+PT J
+DE Cellular Automata; Learning Automata; Closed Asynchronous Dynamic
+   Cellular; Learning Automata; Expediency
+ID STOCHASTIC GRAPHS; NETWORKS; ALGORITHM
+ER
+
+PT J
+DE Morphogenesis; cellular automaton; control system
+ID EXTRACELLULAR-MATRIX; HEPARAN SULFATES; GROWTH-FACTORS; BRAIN; MODEL;
+   PROLIFERATION; FRACTONES; CELLS
+ER
+
+PT J
+DE Expediency; irregular cellular learning automata (ICLA); Markov process;
+   steady-state analysis
+ID WIRELESS SENSOR NETWORKS; POINT COVERAGE PROBLEM; CLUSTERING-ALGORITHM
+ER
+
+PT J
+DE cellular automata; signal constructibility
+ER
+
+PT J
+DE Cellular Automata; Additive Cellular Automata; Cycle Structure; Cyclic
+   Vector Subspaces
+ID GENERATION
+ER
+
+PT J
+DE Cellular learning automata; Cellular automata; Learning automata;
+   External input; Clustering; Classification; Self-organizing map; Image
+   segmentation
+ID ALGORITHM
+ER
+
+PT C
+DE Cellular automaton; Evolutionary algorithms; SOMA; Differential
+   evolution; Particle swarm optimization; Evolution strategies; Simulated
+   annealing
+ID OPTIMIZATION
+ER
+
+PT C
+DE 3D Cellular automata; Matrix representation; Finite fields
+ID REVERSIBILITY
+ER
+
+PT J
+DE Cellular automaton; Complete graph; Graph cellular automaton; Basic
+   linear rules; Finite automaton
+ER
+
+PT S
+DE additive real-valued Cellular Automata; regional controllability;
+   regional observability; actuators; sensors
+ER
+
+PT J
+DE cellular automata; synchronous; asynchronous
+ID PATTERNS; DYNAMICS; SYSTEMS; MODELS
+ER
+
+PT C
+DE Quantum-dot Cellular Automata; Cellular Automata; Image Processing;
+   Noise Filtering
+ER
+
+PT J
+DE reservoir computing (RC); cellular automata (CAs); cellular automata
+   based reservoirs (ReCAs)
+ID COMPUTATION; CHAOS; EDGE
+ER
+
+PT J
+DE cellular automata; programming model; complex system simulation; data
+   and task parallelism
+ER
+
+PT J
+DE Cellular automata; Number conservation; Reversibility
+ER
+
+PT C
+DE Cellular automata; Inverted pheromone; Robotics
+ID REPULSIVE PHEROMONE; SWARM ROBOTICS
+ER
+
+PT C
+DE Cellular Automata; Entrepreneurship; Entrepreneurial Growth; GEM
+ER
+
+PT J
+DE Cellular automata; non-linear cellular automata; cellular automata rule;
+   edge detection; optical character recognition
+ID CLASSIFICATION; ENTROPY
+ER
+
+PT C
+DE Cellular automata; Group actions; Curtis-Hedlund-Lyndon theorem
+ER
+
+PT J
+DE Learning automata; Cellular learning automata; Multi radio channel
+   assignment
+ID LEVEL CONTROL; ALGORITHM; ALLOCATION; ASSIGNMENT; MODEL
+ER
+
+PT C
+DE Cellular automata; entropy; higher-dimensional permutative rule
+ID ATTRACTORS
+ER
+
+PT J
+DE Cellular automata; additive; equilibrium measure
+ID NONLINEAR DYNAMICS PERSPECTIVE; EXCITABLE MEDIA; WOLFRAMS; SCIENCE;
+   KIND; ISLES; EDEN
+ER
+
+PT J
+DE CELLULAR AUTOMATA THEORY; ENVIRONMENTAL MODELING; GIS
+ID FRACTAL GEOMETRY; GAME LIFE
+ER
+
+PT J
+DE cellular automata; genetic algorithms; photolithography; forest fire
+ID INTEGRATED-CIRCUIT FABRICATION; DIFFERENTIAL-EQUATIONS; SIMULATION;
+   MODEL
+ER
+
+PT J
+DE Cellular automata; Kan extensions; Global transformations;
+   Curtis-Hedlund theorem
+ER
+
+PT C
+DE Image encryption; cellular automata; symmetric key cryptography; group
+   cellular automata
+ID MAPS
+ER
+
+PT J
+DE cellular automata; entropy; lattice points in convex sets
+ER
+
+PT J
+DE Pseudo-Random Number Generator; Non-linearity; Maximum Length Cellular
+   Automata; Cryptography
+ID GENERATION
+ER
+
+PT C
+DE Cellular automata; Fuzzy classification; Continuous automata
+ER
+
+PT C
+DE Actuators; Attributes; Controllability; 3D Cellular automata; Fire
+   forest
+ID SENSORS
+ER
+
+PT J
+DE Density classification task; DCT; majority problem; emergent
+   computation; cellular automata; conservative rule
+ID CLASSIFICATION PROBLEM; MEMORY; NUMBER; RULES
+ER
+
+PT J
+DE Linear cellular automata; preinjective and postsurjective endomorphisms;
+   Garden of Eden theorem
+ER
+
+PT C
+DE Cellular automata; MEDALUS; Desertification sensitivity index;
+   Desertification software; Land degradation
+ER
+
+PT J
+DE Cellular Automata; Cellular Automata Transforms; data compression;
+   encryption
+ID IMAGE
+ER
+
+PT J
+DE fractal; abelian group; linear cellular automaton; substitution system;
+   self-similarity
+ER
+
+PT C
+DE Cellular Automata; Simple Rule; State
+ER
+
+PT J
+DE cellular automata; reversibility; sofic groups
+ER
+
+PT J
+DE Cellular automata; Linear transition function; Reversibility;
+   Pentadiagonal matrices; Matrix theory
+ER
+
+PT J
+DE Cellular automata; Urban spatial dynamics; Model integration; Fractal
+   dimensions; Complexity
+ER
+
+PT C
+DE cellular automata; cryptography; multi-granularity reversible cellular
+   automata; dynamics complexity
+ER
+
+PT C
+ER
+
+PT C
+DE Modelling and Simulation; Cellular Automata; Wildfire
+ER
+
+PT J
+DE Quantum cellular automata; Coarse-graining; Dirac equation
+ER
+
+PT C
+DE bio-system derived; cellular automata; optimization algorithm
+ER
+
+PT C
+DE Corrosion; Passivation; Diffusion; Oscillations; Modelling; Parallel
+   computing; Block-synchronous automata; Asynchronous cellular automata;
+   Stochastic cellular automata
+ID CRYSTAL PLASTICITY; IRON; SIMULATIONS; PASSIVITY; BREAKDOWN
+ER
+
+PT J
+DE Cellular automata; Linear cellular automata; 2-Dimensional cellular
+   automata; Expansivity; Chaos; Directional dynamics
+ID DYNAMICS
+ER
+
+PT C
+DE Cellular Automata; Modeling and Simulation; Complex Systems
+ID SIMULATION-MODEL SCIARA; DEBRIS-FLOWS; LAVA FLOWS; DISASTER; RELEASE
+ER
+
+PT C
+DE Modelling; Cellular automata; Climate change; Water resource
+ER
+
+PT J
+DE Elementary cellular automata; Image encryption; Cellular neural network;
+   Chaos
+ID IMAGE ENCRYPTION; CHAOTIC STANDARD; NEURAL-NETWORK; CIPHER;
+   CRYPTANALYSIS; SUBSTITUTION
+ER
+
+PT C
+DE Cellular Automata; Cryptography; Artificial Life; FPGA
+ER
+
+PT J
+DE Cellular automata; one-dimensional CA; discrete geometry; naive discrete
+   line
+ER
+
+PT J
+DE Cellular automata; number-conservation; logical universality
+ID MODEL
+ER
+
+PT J
+DE Infrared image enhancement; Gradient distribution; Cellular Automata
+ID HISTOGRAM EQUALIZATION; CONTRAST ENHANCEMENT; DETAIL ENHANCEMENT;
+   ALGORITHM; DETECTABILITY; RESOLUTION
+ER
+
+PT J
+DE cellular automata; intermediate degrees; confluence problem
+ID COMPLEXITY
+ER
+
+PT J
+DE Cellular automata; Convergence; Evolutionary algorithms
+ID LIFE
+ER
+
+PT J
+DE Cellular automata; Communication complexity; Intrinsic universality
+ER
+
+PT J
+DE Cellular automata; strong universality; hyperbolic tilings
+ER
+
+PT J
+DE cellular automata; string; nonlinear vibration; dynamic loading; moving
+   forces
+ID MODELS; DYNAMICS; SIMULATION
+ER
+
+PT J
+DE halting probability; omega; cellular automaton
+ER
+
+PT J
+DE Leakage squeezing; cellular automata; nonlinear cellular automata;
+   hybrid nonlinear cellular automata
+ER
+
+PT J
+DE Elementary cellular automata; Reversibility; Rule 150; Cyclic cellular
+   automata; Recursive rule; Wolfram number
+ID REVERSIBILITY; INVERSE
+ER
+
+PT C
+DE isotropic cellular automaton; Belousov-Zhabotinsky reaction; randomness
+ID WAVES; MODEL
+ER
+
+PT J
+DE Asynchronous cellular automaton; Elementary cellular automaton;
+   Robustness; Asynchronous communication; Distributed computing;
+   Simulation
+ID COMPLEXITY; UNIVERSALITY; COMPUTATION; NETWORKS; SYSTEMS
+ER
+
+PT J
+DE hierarchies; cellular automata; dynamical systems; hyperstructures
+ID COMPLEXITY
+ER
+
+PT C
+DE Additive Cellular Automata; Pseudo-Random Number Generator
+ER
+
+PT C
+DE Cellular automata; clustering; ant sorting
+ER
+
+PT J
+DE fuzzy; immunology; cellular automata
+ER
+
+PT C
+DE Protein Structure Synthesis (PSS); Protein modelling Cellular Automata
+   Machine (PCAM)
+ID PREDICTION
+ER
+
+PT J
+DE cellular automaton; Brownian motion; computational complexity; universal
+   computation; asynchronous circuit
+ID DELAY-INSENSITIVE CIRCUITS
+ER
+
+PT C
+DE Self-Adaptive; Reconfiguration; Cellular Automata; Pedestrian Dynamics
+ER
+
+PT J
+DE random numbers; cellular automata; memory
+ID PATTERNS
+ER
+
+PT J
+DE Elementary cellular automaton; rule 26; topological entropy; Bernoulli
+   shift; symbolic dynamics
+ID REPLICATION; PERSPECTIVE; WOLFRAMS; SYSTEMS; KIND
+ER
+
+PT J
+DE Clock; magnetic cellular automata (MCA); quantum-dot-cellular automata
+   (QCA)
+ER
+
+PT J
+DE cellular automata; programmable cellular automata; pseudorandom number
+   generation
+ER
+
+PT J
+DE cellular automata; biosequence; pattern matching; regular expression
+ID TIME COMPUTATION; DATABASE
+ER
+
+PT J
+DE cellular automata; computational complexity; hierarchy theorem
+ID COMPUTATIONAL-COMPLEXITY; TRANSLATIONAL LEMMAS; ALTERNATING TMS; TIME;
+   HIERARCHIES
+ER
+
+PT J
+DE cellular automata; encryption; cryptanalysis; chosen-plaintext attack
+ER
+
+PT J
+DE cellular automata; cybernetics; software; rules; patterns; programming
+ER
+
+PT J
+DE degassing; earthquake; cellular automaton
+ER
+
+PT C
+DE Pseudo-random pattern generator (PRPG); 3-state Cellular Automata (CAs);
+   Fixed-Point Graph (FPG); Diehard; TestU01
+ER
+
+PT C
+DE Fuzzy Cellular automata; long-term evolution; Control
+ID EVOLUTION; PHYSICS; MODELS
+ER
+
+PT J
+DE Cellular Automata; Iterative Arrays; Transductions; Finite State
+   Transducers; Pushdown Transducers
+ER
+
+PT C
+DE Monoid of cellular automata; Invertible cellular automata; Minimal
+   number of generators
+ID FINITE-SEMIGROUPS; RANKS
+ER
+
+PT J
+DE Nano-Structures; Quantum Computing; Cellular Automata
+ER
+
+PT J
+DE clothing; cybernetics; cellular automata
+ID EXCITABLE MEDIA; MODEL; CURVATURE
+ER
+
+PT J
+DE Cellular automata; Directional dynamics; Factor languages; Attractors
+ID DECIDABLE PROPERTIES; Z(M); ERGODICITY; LANGUAGES
+ER
+
+PT C
+DE Quantum cellular automata; Quantum walks; Quantum computing
+ER
+
+PT C
+DE visual languages; drag and drop; cellular automata
+ER
+
+PT J
+DE Block cellular automata; Margolus neighborhood; Ma'qeli Script; Pattern
+   generation
+ER
+
+PT J
+DE MEMS; micromachines; CAD; etching simulation; cellular automata
+ER
+
+PT J
+DE Cellular automata; symmetric neighborhoods; reversibility; matrix theory
+ER
+
+PT C
+DE Cellular Automaton; Digital Life; Evolution; Stability
+ER
+
+PT J
+DE transformations of cellular automata rule space; dynamical
+   classification; topological conjugacy; language complexity
+ID INJECTIVITY; MAPS
+ER
+
+PT J
+DE Cellular Automata; Training of Cellular Automata; Sequential Floating
+   Forward Search Algorithm; Misclassification Error; Otsu's Algorithm;
+   Corner Detection
+ER
+
+PT C
+ER
+
+PT J
+DE Cellular automata; language; simulation
+ID GRANDCHILDREN
+ER
+
+PT J
+DE finite one-dimensional linear cellular automata; circulant matrices;
+   finite D-dimensional cellular automata; rings; isomorphism of rings
+ER
+
+PT J
+DE (partitioned) cellular automata; space-time simulation; intrinsic
+   universality and reversibility
+ID UNIVERSALITY; COMPUTATION
+ER
+
+PT J
+DE Cellular automata; Universal constructor; Pattern generation; Collatz
+   problem
+ER
+
+PT J
+DE Pseudorandom generators; cellular automata; cryptographic primitive;
+   NP-Hardness; forward security
+ID RANDOM NUMBER GENERATION; CRYPTOGRAPHY; PARALLEL
+ER
+
+PT J
+DE cellular automata; criticality; earthquakes
+ID STATISTICAL PHYSICS
+ER
+
+PT J
+DE Propositional logic; propositional proof complexity; cellular automata
+ID LOWER BOUNDS; COMPUTATION
+ER
+
+PT J
+DE Cellular automata; Probabilistic cellular automata; Pattern simulation;
+   Refinement algorithms
+ID ROCK
+ER
+
+PT J
+DE shortest path; cellular automata; parallel algorithms; complexity
+ID EXCITABLE MEDIA; ALGORITHMS; NETWORKS; MODEL
+ER
+
+PT J
+DE multi-agent systems; mobile agents; Petri nets; cellular nets;
+   Resource-Driven Automata
+ID NETS
+ER
+
+PT J
+DE Cellular automata; preimages; De Bruijn diagram; Path-finding problem
+ER
+
+PT J
+DE Asynchronous cellular automata; Non-camouflage; Freezing; Boolean
+   totalistic; Turing machine; Elementary cellular automata
+ER
+
+PT C
+DE Cellular Automata; Non-linearity; maximum length sequence; pseudo random
+   sequence
+ER
+
+PT J
+DE cellular automata; fuzzification; classification
+ER
+
+PT C
+DE cellular automata; cryptography; reversibility; Wolfram rules
+ID CRYPTOGRAPHY
+ER
+
+PT C
+DE Laser; Saturable absorber; Q-switching; Cellular automata
+ID DYNAMICS
+ER
+
+PT J
+DE classification of cellular automata; input entropy; parallel simulation
+   of cellular automata
+ID COMPLEXITY; MECHANICS; MODEL
+ER
+
+PT J
+DE One-dimensional cellular automata; Classification problem; Emergent
+   computation; Formal measures
+ID DENSITY; RULES; COMPUTATION; 2-STATE
+ER
+
+PT J
+DE cellular automata; neighborhood; probabilistic cellular automata; system
+   identification
+ID IDENTIFICATION; RULES
+ER
+
+PT J
+DE large deviations; cellular automata; Markov chains
+ID MARKOV PROCESS EXPECTATIONS; ASYMPTOTIC EVALUATION; LARGE TIME
+ER
+
+PT C
+DE Cellular automata; generative music; convolutional architecture
+ID EVOLUTION
+ER
+
+PT J
+DE cellular automata; Chebyshev polynomials over GF(2); von Neumann
+   automata
+ID SIGMA-AUTOMATA; POLYNOMIALS
+ER
+
+PT J
+DE cellular automata; dynamic models; enzyme kinetics
+ID WATER
+ER
+
+PT J
+DE architecture; complex buildings; cellular automaton; uses incubators;
+   public space
+ER
+
+PT J
+DE Cellular Automata; Attractors; Computational Undecidability
+ID RICE THEOREM; SENSITIVITY
+ER
+
+PT C
+DE Quantum-Dot Cellular Automata; Divider
+ID QCA
+ER
+
+PT J
+DE cellular automata; reversible cellular automata; cryptography; data
+   encryption; high-performance computing; data privacy
+ID IMAGE ENCRYPTION; S-BOXES; DES; SCHEME
+ER
+
+PT J
+DE Cellular automata; Topological dynamics; Directional dynamics
+ER
+
+PT C
+DE topology; Cellular automata; irregular cellular automata; Voronoi
+   tessellation; Voronoi clustering
+ER
+
+PT J
+DE Cellular automata; distributed representation; metric learning; kernel
+   methods; reservoir computing
+ID COMPUTATION; SYSTEMS; CHAOS; EDGE
+ER
+
+PT J
+DE Elementary cellular automata; probabilistic cellular automata;
+   information integration; entropy; information gain; total correlation;
+   consciousness models
+ID STATISTICAL-MECHANICS; MODELS
+ER
+
+PT J
+DE Stream cipher; cellular automata; trivium; 5-neighbourhood CA; fault
+   attacks; cellular automata based stream cipher; pentavium
+ID ATTACKS
+ER
+
+PT J
+DE cellular automata; shift of finite type; expansive; symbolic dynamics;
+   dimension group
+ID SUBSHIFTS
+ER
+
+PT J
+DE Fredkin gate; reversible logic gate; reversible computing; reversible
+   cellular automaton; elementary triangular partitioned cellular automaton
+ID MODELS
+ER
+
+PT J
+DE reversibility; structurally dynamic; cellular automata; memory
+ID SINGLE-SITE SEED; PATTERNS; DIMENSION
+ER
+
+PT J
+DE quantum cellular automaton; quantum lattice gas; quantum computation
+ID TIME CORRELATION-FUNCTIONS; SPACE-TIME; COMPUTATION; COMPUTERS; MODEL;
+   PRINCIPLE; UNIVERSAL; EQUATIONS; MECHANICS; DYNAMICS
+ER
+
+PT J
+DE cellular automata; quantum walk; conserved quantity
+ER
+
+PT C
+DE Cellular automaton; development; replication; evolutionary design
+ER
+
+PT J
+DE Elementary cellular automata; additive conserved quantity; density
+   classification; nonequilibrium phase transition; TASEP
+ID OPEN BOUNDARIES
+ER
+
+PT C
+DE Cellular automata; cryptography; secret sharing schemes; bipermutivity;
+   preimage computation; cyclic access structure
+ER
+
+PT C
+DE Neuroimaging; Functional Brain Magnetic Imaging; fMRI; Cellular
+   Automata; Classification
+ER
+
+PT J
+DE cellular automata; spectrum of graphs; idempotent behavior
+ER
+
+PT C
+DE self-organization; cellular automata; excitable media; cyclic cellular
+   automata; information theory; statistical complexity; spatio-temporal
+   prediction; minimal sufficient statistics
+ID COMPLEXITY; MECHANICS
+ER
+
+PT J
+DE probabilistic cellular automata; coupling; stochastic ordering;
+   monotonicity
+ER
+
+PT J
+DE Cellular automaton; Linear cellular automaton; Reversible cellular
+   automaton; Closed image property; Mittag-Leffler lemma
+ER
+
+PT J
+DE 3D watermarking algorithm; Cellular automata transform; Computational
+   integral imaging; Maximum-length cellular automata
+ID IMAGES
+ER
+
+PT C
+DE cellular automata; battlefield simulation; modeling and simulation
+ER
+
+PT J
+DE inverse ultradiscretization; cellular automaton; differential equation;
+   fractal
+ER
+
+PT C
+DE Cellular automata; Proteomics; Cancer immunotherapy
+ER
+
+PT C
+DE Stochastic cellular automata; Diploid Cellular Automata; Parameter
+   estimation; Systems identification
+ER
+
+PT J
+DE binary patterns; cellular automata; maximum likelihood estimation;
+   minimum description length principle; neighborhood selection; rule
+   estimation; stochastic cellular automata
+ID MINIMUM DESCRIPTION LENGTH; PRINCIPLE; SELECTION; TEXTURES; MODEL
+ER
+
+PT J
+DE Symmetric cellular automata; complex behavior; self-organizing; gliders
+ER
+
+PT J
+DE cellular automata; Welch theory; algorithms
+ER
+
+PT J
+DE cellular automaton; oriented percolation; growth model; faceting
+ID DIRECTED PERCOLATION
+ER
+
+PT J
+DE Cellular automata; edge detection; genetic programming; straight line
+   programs; 3VL
+ER
+
+PT J
+DE cellular automata; communication complexity; intrinsic universality;
+   ideals
+ER
+
+PT J
+DE Renormalization; Cellular automata; Self-similarity; Universality;
+   Directed percolation
+ID PHASE-TRANSITIONS
+ER
+
+PT C
+DE Cellular automata; diffusion; simulation
+ER
+
+PT J
+DE cellular automata; lattice theory; matrix algebra; quantum computing
+ER
+
+PT C
+DE Cellular Automata; Simulation; Friction; Friction vibration; Stick-slip;
+   Self-excited vibration
+ER
+
+PT J
+DE cellular automata; encoding; decoding; text compression; kernel
+ID PATTERN GENERATION
+ER
+
+PT J
+DE cellular automata; hyperbolic plane; rectangular regular grids
+ER
+
+PT C
+DE Cellular Automata; complex networks; virus spreading patterns; mobile
+   phones
+ER
+
+PT J
+DE cellular automata; unconventional computing; discrete dynamical systems;
+   complex systems
+ER
+
+PT J
+DE Cellular automata; fuzzy cellular automata; vector-valued cellular
+   automata; conservation law; number-conserving rule; periodic boundary
+   condition
+ID EVOLUTION
+ER
+
+PT J
+DE Cellular automaton; fuzzy set; graph cellular automaton; basic linear
+   rules
+ID URBAN
+ER
+
+PT C
+DE Cellular Automata; Conflicts; Layered Competitive Cellular Automata;
+   Spatial modeling
+ER
+
+PT C
+DE cellular automata; sorting networks; evolutionary design
+ID EVOLUTION
+ER
+
+PT C
+DE Cellular Automata (CA); Reversible Cellular Automata (RCA); Layered
+   Cellular Automata; Symmetric key; Encryption
+ER
+
+PT C
+DE Cellular automata; cryptography; decryption; symmetric key
+ER
+
+PT C
+DE Cellular Automata; Neighbourhood; Modelling; Simulation; Interaction
+ER
+
+PT C
+DE Cellular automata; Crowd movement; Follow-the-Leader
+ID PEDESTRIAN DYNAMICS; EVACUATION; SIMULATION; BEHAVIOR
+ER
+
+PT J
+DE cellular automata; Kolmogorov complexity; universal computation;
+   self-replication; negentropy
+ID SELF-REPRODUCTION; SYSTEMS
+ER
+
+PT J
+DE Tessellations; hyperbolic plane; cellular automata; universality
+ER
+
+PT J
+DE Cellular automata; public opinion; situation deduction
+ER
+
+PT J
+DE cellular automaton; partial permutivity; voter-model; annealing and
+   critical dynamics
+ER
+
+PT J
+DE Cellular automata; Symmetry; Asthetics; Swarm intelligence
+ID STOCHASTIC DIFFUSION SEARCH; FACIAL ATTRACTIVENESS; SEXUAL SELECTION;
+   INTELLIGENCE; ALGORITHMS; ASYMMETRY; BEAUTY
+ER
+
+PT J
+DE Cellular automata; linear cellular automata; rank of a monoid; finitely
+   generated monoid; surjunctive group
+ID FINITE; SHIFT; UNITS
+ER
+
+PT J
+DE Cellular automata(CAs); Elementary cellular automata(ECA); Game of Life;
+   Delay; Probabilistic loss of information; Phase transition
+ID PHASE-TRANSITIONS; GAME; ROBUSTNESS; ASYNCHRONISM; LIFE
+ER
+
+PT J
+DE Cellular automata; two-dimensional languages; picture languages;
+   factorial-local languages; traces; shadowing property; SFT traces
+ER
+
+PT C
+DE LDPC codes; Decoding algorithm; Cellular automata; Parity check matrix;
+   Density; Girth
+ID CODES
+ER
+
+PT C
+DE cellular automaton; Brownian cellular automaton; Brownian circuits;
+   universal computation
+ER
+
+PT C
+DE Theory of Computation; Cellular Automata; universality; hyperbolic
+   geometry
+ER
+
+PT J
+DE reversibility; quantum automata; simulation
+ID QUANTUM COMPUTER
+ER
+
+PT C
+DE discrete time dynamical systems; cellular automata; topological
+   dynamics; deterministic chaos
+ID EQUICONTINUITY; POINTS
+ER
+
+PT C
+DE Gini index; Lorenz curve; wealth distribution; cellular automata
+ER
+
+PT J
+DE cellular automata; robot path-planning; artificial potential fields
+   methods
+ID OBSTACLES
+ER
+
+PT C
+DE Cellular Automata; GPGPU; OpenCL
+ID SIMULATION
+ER
+
+PT J
+DE Density classification problem; continuous cellular automata
+ER
+
+PT J
+DE cellular automata; desensitization; mouse Leydig cells; signal
+   transduction; simulation
+ID MOUSE LEYDIG-CELLS; ADENYLATE-CYCLASE; SIMULATION; SYSTEMS; CAMP; HCG
+ER
+
+PT J
+DE structure emergence; cellular automata; topology optimisation;
+   complexity
+ID OPTIMIZATION; ALGORITHM; SYSTEMS
+ER
+
+PT C
+DE Fault Analysis; Trivium; Stream Cipher; CASTREAM; Cellular Automata
+ER
+
+PT J
+DE Cellular Automata; Edge detection; Figure of merit; Totalistic Cellular
+   Automata
+ER
+
+PT S
+DE nano-computing; quantum-dot cellular automata; minority gate
+ER
+
+PT J
+DE Cellular automata (CAs); mutual exclusion problem; critical section (CS)
+ID DENSITY CLASSIFICATION PROBLEM; LEADER ELECTION; FIRING SQUAD; RULES; CA
+ER
+
+PT J
+DE cellular automata; coding theory; limit measures
+ID LIMIT MEASURES; DYNAMICS
+ER
+
+PT J
+DE cellular automata; memory
+ID PATTERNS
+ER
+
+PT J
+DE Elementary cellular automata; block updates; periodic configurations;
+   block invariance
+ER
+
+PT J
+DE Permutation cellular automata; Variable length shifts; Sensitivity to
+   initial conditions; Dynamical systems; Codes
+ID DYNAMICS
+ER
+
+PT J
+DE Nondeterministic cellular automata; Equicontinuity; Sensitivity;
+   Transitivity; Expansivity; Positive expansivity
+ID COMPLEXITY; UNDECIDABILITY; EQUICONTINUITY
+ER
+
+PT J
+DE quantum computation; reversible cellular automata
+ID TURING-MACHINES; COMPLEXITY; COMPUTERS; MODELS
+ER
+
+PT C
+DE Edge Detection; Brain Tumor; Cellular Automata
+ER
+
+PT J
+DE Cellular automata; Chimera states; Coupled oscillators; Spatiotemporal
+   chaos
+ID APPROXIMATE ENTROPY; COMPLEXITY; COMPUTATION; TRANSITION; BEHAVIOR;
+   CHAOS
+ER
+
+PT J
+DE Reversibility; Toeplitz matrix; Kronecker sum; Multidimensional cellular
+   automata; Null boundary condition
+ID BOUNDARY-CONDITIONS; PERIODIC BOUNDARY; COMPUTATION; DYNAMICS; FIELDS
+ER
+
+PT C
+DE Reliability; Cellular automata; Reservoir operation
+ID MANAGEMENT; DESIGN; NETWORKS
+ER
+
+PT J
+DE cellular automata; polynomial; mutual information
+ID WAVES; CURVATURE; DYNAMICS
+ER
+
+PT C
+DE Reversible celular automata; cycle; reachability tree
+ER
+
+PT J
+DE cellular automata; probabilistic average cellular automaton rules;
+   emergent behavior
+ID COLLECTIVE BEHAVIOR; SYSTEMS; CHAOS
+ER
+
+PT J
+DE Cellular automaton; Firing squad synchronization problem; FSSP
+ID MINIMAL TIME SOLUTION; EFFICIENT MAPPING SCHEME; FSSP ALGORITHMS;
+   DESIGN; PROTOCOLS; ARRAYS
+ER
+
+PT C
+DE cellular automata; complex network; cellular network; cryptography
+ER
+
+PT J
+DE Cellular Automata; sewer modelling; urban flooding
+ID DRAINAGE; FLOW; NETWORKS; SYSTEMS; MODELS
+ER
+
+PT C
+DE Non-linear cellular automata; Reversible; Maximal length; Configuration;
+   Rule
+ER
+
+PT J
+DE Cellular automata; chaos synchronization; nonlinear dynamics
+ID NONLINEAR DYNAMICS PERSPECTIVE; PART II; WOLFRAMS; KIND; SCIENCE;
+   COMMUNICATION; ISLES; EDEN
+ER
+
+PT J
+DE Elementary cellular automata; Communication complexity; Intrinsic
+   universality
+ID UNIVERSALITY; COMPLEXITY
+ER
+
+PT J
+DE cellular automata; asynchronous; delay-insensitive circuits
+ID CIRCUITS; GAME
+ER
+
+PT J
+DE Hybrid cellular automata; glider; glider collision; symbolic dynamics;
+   chaos
+ID NONLINEAR DYNAMICS PERSPECTIVE; BERNOULLI SIGMA(TAU)-SHIFT RULES;
+   WOLFRAMS; KIND; SCIENCE; COMPLEX; MEMORY; ISLES; SHIFT; EDEN
+ER
+
+PT J
+DE Audio scrambling; Cellular automata; Game of life; Lambda parameter
+ER
+
+PT C
+DE Cellular Automata; Wildfire Spread; Tabu Search
+ID ROBUST DESIGN OPTIMIZATION; FIRE SPREAD; SIMULATION; ALGORITHM; MODEL
+ER
+
+PT C
+DE Memristor; Learning Cellular Automata; Memristive Learning Cellular
+   Automata; Edge Detection; Analog Circuit
+ER
+
+PT J
+DE Cellular automata; density classification; traffic CA
+ER
+
+PT J
+DE Cellular learning automaton (CLA); dynamic channel assignment (DCA);
+   learning automaton (LA)
+ID ASSIGNMENT; SCHEME; ALGORITHM
+ER
+
+PT J
+DE Elementary cellular automata; curl; boolean functions; boolean
+   derivative
+ER
+
+PT J
+DE Cellular automata; Discrete event simulation; Grain growth
+ID PREDICTION; SIMULATION; PARADIGM; MODEL
+ER
+
+PT J
+DE Cellular Automata; seismicity; complex systems; discrete models
+ID SELF-ORGANIZED CRITICALITY; STATISTICAL PHYSICS APPROACH; SPRING-BLOCK
+   MODEL; NUMERICAL-SIMULATION; FAULT SYSTEMS; HAZARD MAPS; LATTICE-GAS;
+   EARTHQUAKES; DYNAMICS; PATTERNS
+ER
+
+PT C
+DE multivalued logic; cellular automata; fractals
+ID ARCHITECTURES; PROCESSOR; SYSTEM
+ER
+
+PT J
+DE Locally finite group; periodic group; cellular automaton; linear
+   cellular automaton; Laplace operator
+ER
+
+PT J
+DE cellular automata; quantum; neighborhood; block representation
+ER
+
+PT C
+DE Cellular automata; Boolean functions; S-boxes; Resiliency; Linear
+   feedback shift registers; Cyclic codes; Hamming codes
+ER
+
+PT J
+DE cellular automaton; reaction-diffusion system; traveling wave
+ID GLOBAL STABILITY; CURVED FRONTS; EXISTENCE; EQUATIONS
+ER
+
+PT J
+DE self-deprecating strategy; cellular automata
+ID FACTS
+ER
+
+PT J
+DE Cellular automata; equilibria; anthrone; anthrol
+ID SIMULATION; IMPACT
+ER
+
+PT J
+DE stochastic cellular automata; pattern generation; percolation beds
+ID MODEL
+ER
+
+PT C
+DE Cellular Automata; ASEP; Pedestrian; Crowd; Burgers' equation
+ER
+
+PT J
+DE continuous optimization; metaheuristics; cellular automata
+ID EVOLUTIONARY; TOPOLOGY
+ER
+
+PT C
+DE Cellular Automata; Crowd Dynamics; Modeling; Simulation; Hardware
+   Implementation
+ID PEDESTRIAN DYNAMICS; EVACUATION; SIMULATION; MODEL
+ER
+
+PT J
+DE Quantum Information; Cellular Automata; Graphene Nanoribbons
+ID APPROXIMATION; ENERGY
+ER
+
+PT J
+DE Cellular Automata Rules; non-uniform Cellular Automata; Density
+   Classification Task
+ID RULES; 2-STATE
+ER
+
+PT J
+DE Cellular automata; Pattern generation; Thin languages; Automatic
+   sequences
+ER
+
+PT C
+DE cellular automata; FPGA; PRNG
+ER
+
+PT J
+DE cellular automaton; traffic flow; fixed autoblock system
+ID TRAFFIC FLOW
+ER
+
+PT J
+DE Coalescence-fragmentation; Cellular automaton; wastewater treatment;
+   parameter exploration
+ID COAGULATION-FRAGMENTATION EQUATIONS; FLOCCULATION; SCHEME
+ER
+
+PT C
+DE Cellular automata; Gauge-invariance; Quantum information
+ER
+
+PT C
+DE microstructure; cellular automata; modeling; rolling
+ID GRAIN-GROWTH; DYNAMIC RECRYSTALLIZATION; COMPUTER-SIMULATION; COUPLED
+   MODEL; MONTE-CARLO
+ER
+
+PT J
+DE cellular automata; parallel programming; computational science;
+   high-performance computing
+ID COMPUTATIONAL SCIENCE
+ER
+
+PT J
+DE intermittency; collective behavior; cellular automata
+ID ON-OFF INTERMITTENCY; SYSTEMS
+ER
+
+PT J
+DE built-in self-test; weighted random patterns; multiple weight sets;
+   cellular automata; hybrid cellular automata; weighted cellular automata;
+   test-per-clock pattern generation
+ER
+
+PT J
+DE cellular automata; solution phenomena; kinetic models; in silico
+   experiments; dynamic models
+ID LIQUID LIQUID INTERFACE; WATER; DYNAMICS; SIMULATION; HYDRATION;
+   KINETICS; STATE
+ER
+
+PT S
+DE expander graphs; cellular automata; one-way functions; security;
+   efficiency
+ER
+
+PT C
+DE cellular automata; biomemetics; topology optimisation
+ID STRUCTURAL DESIGN
+ER
+
+PT J
+DE Rule 110; one-dimensional cellular automata
+ER
+
+PT J
+DE Cellular automata; Restricted communication; Formal languages;
+   Computational capacity; Parallel computing; Decidability questions
+ID RESTRICTED INTERCELL COMMUNICATION; LANGUAGE RECOGNITION; ITERATIVE
+   ARRAYS; GENERATION
+ER
+
+PT J
+DE Hexagonal cellular automata; Reversible cellular automata; Rule matrix;
+   null boundary condition; two dimensional CA
+ER
+
+PT J
+DE Cellular automata; periodic points; potential function; sequential
+   dynamical systems; update order; Wolfram rules; asynchronous.
+ID SEQUENTIAL DYNAMICAL-SYSTEMS; SIMULATION; ELEMENTS; EQUIVALENCE
+ER
+
+PT J
+DE Cellular automata; diffusion; number conserving
+ID UNIVERSALITY
+ER
+
+PT J
+DE Cellular automaton; symbolic dynamics; linear chaos; almost
+   equicontinuity; inverse ultradiscretization; fractal pattern
+ID ENTROPY; EQUATIONS
+ER
+
+PT C
+DE cryptography; cellular automata; hardware/software co-design
+ER
+
+PT J
+DE Fuzzy cellular automata; time-dependent cellular automata; XOR-type
+   local rules; long term dynamics; stability analysis; Lyaponov stability;
+   asymptotic stability
+ID FUZZY
+ER
+
+PT C
+DE Employee Behavior; Complex System; Cellular Automata
+ER
+
+PT J
+DE Cellular automata; frequency-emulated cellular automata; core emulator
+   set; f-emulated set; density classification task; parity problem
+ID DENSITY; 2-STATE
+ER
+
+PT C
+DE Cellular Automata (CA); 3-neighbourhood CA 5-neighbourhood CA;
+   Cryptography; Stream Cipher
+ER
+
+PT J
+DE Continuous-discontinuous cellular automaton method; Frictional contact;
+   Discontinuous cellular automaton; Mixed updating rule
+ID FINITE-ELEMENT-METHOD; BOUNDARY-NODE METHOD; SMOOTHED PARTICLE
+   HYDRODYNAMICS; MODELING CRACK-GROWTH; UNILATERAL CONTACT; DRY FRICTION;
+   ALGORITHM; SIMULATIONS; PROPAGATION; COMPUTATION
+ER
+
+PT C
+DE cellular automaton; neighborhood; decision problem; reversibility;
+   simulator
+ER
+
+PT C
+DE Cellular Automata; State Transfer; fabric weave; computer simulation
+ER
+
+PT C
+DE Cellular automata; swarm intelligence; symmetry; aesthetics
+ER
+
+PT J
+DE cellular automaton rules
+ID CONSERVED QUANTITIES; NUMBER; SYSTEMS
+ER
+
+PT C
+DE Cellular Automata; Maintenance process; Feedback control
+ER
+
+PT J
+DE cellular automata; pattern generation; real-time computation; speedup;
+   closure properties; decidability problems
+ID REAL-TIME; TRELLIS
+ER
+
+PT J
+DE Real cellular automata; block function; expanding map
+ID ENDOMORPHISMS
+ER
+
+PT C
+DE business-strategy; evolution game; cellular automata
+ER
+
+PT J
+DE ACORN; TinyJambu; differential fault attack; optimized interpola-tion
+   attack; cellular automata; PCA 90-150; authenticated encryption
+ER
+
+PT C
+DE moving object detection; cellular automata; background subtract
+ER
+
+PT J
+DE cellular automata; design process; generative design; urban morphology
+ER
+
+PT J
+DE Cellular automata; learning automata; learning cellular automata;
+   spontaneous speech; disfluency
+ER
+
+PT C
+DE Cryptography; Cellular automata; Image processing
+ID CHAOTIC MAPS; ALGORITHM
+ER
+
+PT J
+DE cellular automata; cellular neural networks
+ER
+
+PT J
+DE cellular automaton; damage evolution; fracture
+ID MICROSTRUCTURE DEVELOPMENT; CEMENT HYDRATION; SIMULATION; FRACTURE;
+   FAILURE
+ER
+
+PT C
+DE Cellular automaton; Semi-tensor product; Drazin inverse; Generalized
+   reversibility; Configuration canonical form
+ID INVERSE
+ER
+
+PT J
+DE cellular automaton; localized corrosion; passivity
+ID SIMULATION; HETEROGENEITY; DIFFUSION
+ER
+
+PT J
+DE cellular automata; undecidability; tiling problem
+ID APERIODIC SET; LIMIT-SETS; ENTROPY; REVERSIBILITY; SENSITIVITY
+ER
+
+PT J
+DE cellular automata; expansivity; pseudo-orbit tracing property
+ID DYNAMICAL PROPERTIES; FINITE-TYPE; ENDOMORPHISMS; SUBSHIFTS; SHIFTS;
+   MAPS
+ER
+
+PT C
+DE cellular automata; dynamical systems; aperiodic tiling; synchronisation
+ER
+
+PT C
+DE cryptographic technique; cellular automata; encryption; decryption;
+   plaintext; ciphertext
+ER
+
+PT J
+DE traffic flow models; microsimulation; cellular automata
+ID STABILITY
+ER
+
+PT C
+DE neural cellular automata; empowerment; morphogenesis
+ER
+
+PT C
+DE Cellular Automata; memristor; memristive computing; parallel algorithms;
+   shortest path problem; traveling salesman problem
+ID DEVICES
+ER
+
+PT J
+DE hepatitis B; cellular automata; globally stable
+ER
+
+PT C
+DE Cellular automaton; Slash-and-burn
+ER
+
+PT J
+DE Stochastic cellular automata; Complex systems
+ID ASYNCHRONOUS BEHAVIOR; ROBUSTNESS
+ER
+
+PT C
+DE Quantum circuits; Critical behavior; Evolutionary algorithms; Stochastic
+   cellular automata
+ER
+
+PT J
+DE Turing machines; cellular automata; spatial dynamics; universality
+ER
+
+PT J
+DE cellular automata; coevolution; genetic algorithms; multiprocessor
+   scheduling; two-processor systems
+ID TASK GRAPHS
+ER
+
+PT J
+DE permutation cellular automata; prefix code
+ID ENDOMORPHISMS; ATTRACTORS; SYSTEMS
+ER
+
+PT C
+DE cellular automata; grass cover change
+ER
+
+PT J
+DE cellular automata; corrosion management; simulation corrosion; modeling
+   corrosion
+ID PITTING CORROSION; PASSIVATION PHENOMENA; NUMERICAL-ANALYSIS;
+   SIMULATION; STEEL; DIFFUSION; BEHAVIOR; METAL; OXIDATION; GROWTH
+ER
+
+PT J
+DE Ferromagnetism; magnetic cellular automata (MCA); nanomagnets;
+   nanostructures; quantum cellular automata (QCA)
+ID COUPLED NANOMAGNETS; SYSTEMS; FIELD
+ER
+
+PT J
+DE cellular automata; computer network; space-time plot
+ID PHASE-TRANSITION
+ER
+
+PT J
+DE cellular automata; number-conservation
+ER
+
+PT C
+DE Cellular Automata; Phase Transition; Complex Dynamics
+ER
+
+PT J
+DE Non-uniform cellular automata; Structural stability; Symbolic dynamics;
+   zeta-Rational languages; Decidability
+ID EQUICONTINUITY; COMPLEXITY; LANGUAGES
+ER
+
+PT J
+DE cellular automata; ergodic theory; invariant measure; rigidity; entropy
+ID MEASURE RIGIDITY; ASYMPTOTIC RANDOMIZATION; DYNAMICAL PROPERTIES;
+   DIRECTIONAL ENTROPY; LIMIT MEASURES; SHIFTS; SUBSHIFTS
+ER
+
+PT C
+DE Stream cipher; Cellular automata; 5-neighbourhood CA; Cryptography;
+   Trivium
+ER
+
+PT J
+DE Hyperbolic tiling; cellular automata; universality
+ER
+
+PT J
+DE Cellular automaton; Fractal; Singular function
+ER
+
+PT J
+DE continuants; regular expressions; finite automata; 90/150 cellular
+   automata
+ER
+
+PT J
+DE cellular automata; simulation; modelling
+ID NEGATIVE RESIST PROFILES; PHYSICS; MODEL
+ER
+
+PT C
+DE asynchronous cellular automata; asynchronous CA-model, competing
+   cellular automaton
+ER
+
+PT J
+DE Cellular automata; mean equicontinuity; odometers
+ER
+
+PT J
+DE cellular automata; multifractal spectrum; discrete wavelet transform
+ER
+
+PT J
+DE Cellular automata; fuzzy cellular automata; associative memory;
+   attractor basin
+ID PATTERN-RECOGNITION; ASSOCIATIVE MEMORY; NEURAL-NETWORKS; CLASSIFIER;
+   DESIGN
+ER
+
+PT J
+DE Cellular Automata; Inverse rule; Convergence
+ID EDGE
+ER
+
+PT J
+DE memory; reversible; cellular automata
+ER
+
+PT J
+DE Cellular automata; Real-time analytics; Data streams; Concept drift
+ID MODELS
+ER
+
+PT J
+DE Cellular automata; reversibility; determinant; Toeplitz matrix
+ER
+
+PT J
+DE Cellular automata; genetic algorithm; task scheduling problem
+ER
+
+PT J
+DE Cellular automata; rule mean term (RMT); reachability tree; adia-batic
+   boundary condition; reflexive boundary condition; intermediate boundary
+   condition; constant boundary condition; equivalent cellular automata
+ER
+
+PT C
+DE One-dimensional cellular automata; Reversible rule; Partial
+   reversibility; Reversibility degree; Elementary space; Pre-image pattern
+ER
+
+PT J
+DE cellular automata; evacuation; human behavior
+ID SIMULATION; FIRE
+ER
+
+PT J
+DE Cellular automata; interactive segmentation; iterative segmentation
+   scheme
+ID ENERGY MINIMIZATION; GRAPH; FRAMEWORK
+ER
+
+PT J
+DE Evolutionary computation; Artificial life; Non-uniform; Cellular
+   automata; Embodied cognition; Topological optimization; Complex systems
+ID EMERGENT COMPUTATION; PERFORM COMPUTATIONS; NERVE; FIBRILLATION;
+   NETWORKS; CHAOS
+ER
+
+PT J
+DE cellular automata; synchronization; Dirichlet boundary conditions;
+   nilpotency
+ER
+
+PT C
+DE Cellular automata agents; Multi-agent system; Pattern formation;
+   Evolving FSM behavior; Spatial computing
+ID TO-ALL COMMUNICATION; ALGORITHMS
+ER
+
+PT J
+DE Cellular automata; monoids; propositional logic; reversibility; stone
+   topology; Hedlund's theorem
+ID REVERSIBILITY
+ER
+
+PT C
+DE cellular automata model; vehicle emission; free flow; traffic jam
+ER
+
+PT J
+DE OPTICAL CELLULAR AUTOMATA; OPTICAL PARALLEL PROCESSING; OPTICAL
+   INTEGRATION; OPTICAL INFORMATION PROCESSING; OPTICAL COMPUTING
+ER
+
+PT C
+DE split current quantum cellular automata; SCQCA; quantum cellular
+   automata; QCA; resonant tunneling diode
+ID DESIGN
+ER
+
+PT J
+DE cellular automata; characteristic polynomial; finite field; LFSM
+ER
+
+PT J
+DE Cellular automata; Robustness; Automata classification; Attractors
+ER
+
+PT J
+DE Cellular Automata; Sigma-algebras; Hedlund's theorem
+ER
+
+PT C
+DE Cellular automata; Photovoltaic cell; Temperature field
+ER
+
+PT J
+DE Symbolic dynamics; Cellular automata; Limit measure; Multidimensional;
+   Computability
+ID SETS; COMPLEXITY
+ER
+
+PT J
+DE cellular automata; dynamical behavior; modeling immune system
+ID SHAPE-SPACE; CLONAL SELECTION; NETWORK; MODEL; REPERTOIRE; TOLERANCE;
+   DYNAMICS; SELF
+ER
+
+PT J
+DE cryptography; reversible cellular automata; block ciphers
+ID CRYPTOGRAPHY
+ER
+
+PT J
+DE Greenberg-Hastings cellular automaton; graph cellular automaton
+ID EXCITABLE MEDIA; DIFFUSION; NETWORKS
+ER
+
+PT J
+DE cellular automata; parallel computing; structural analysis
+ER
+
+PT C
+DE ASCON; Fault analysis; Pseudorandom; Cryptography; Cellular Automata;
+   Authenticated encryption; SSFA; SIFA
+ER
+
+PT C
+DE Cellular automata; Stochastic rules; Wildfire simulation; Complex
+   phenomena; Firefighting efficiency
+ID CLIMATE-CHANGE IMPACTS; PREDICTION
+ER
+
+PT C
+DE parallel computing; interval-valued computing; cellular automata;
+   simulation; computing paradigms
+ER
+
+PT J
+DE Cellular automata; Automata average
+ER
+
+PT J
+DE Cellular automaton; linear rules; multiple copies; replication; image
+   processing
+ER
+
+PT C
+DE Cellular Automata; oil slicks
+ER
+
+PT J
+DE Cellular Automata; Computational Simulations; Language; Social Dynamics
+ID SOCIAL IMPACT
+ER
+
+PT J
+DE asynchronous cellular automata; Moore neighborhood; totalistic rule;
+   delay-insensitive circuit; signal; module; universal computation
+ID DYNAMICS; MODELS
+ER
+
+PT C
+DE Composing by heterogeneous cellular automata; Dynamic neural networks;
+   Automatic music generation; Chorales
+ID MUSIC
+ER
+
+PT C
+DE Cellular automata; Programmable cellular automata; Symmetric key
+   cryptography; Block ciphers
+ER
+
+PT C
+DE Cellular Automata; Edge Detection; Neighbor
+ER
+
+PT C
+DE AES; Cellular automaton; Confusion; Decryption; Diffusion; Encryption;
+   Secret key
+ER
+
+PT J
+DE Uniform spaces; Uniformly continuous relations; Nondeterministic
+   cellular automata; Global characterisation
+ER
+
+PT C
+DE Cellular Automata; Data Mining; Complex systems
+ER
+
+PT J
+DE modeling; quantum cellular automata (QCA); quantum-dot cellular
+   automata; resonant tunneling; simulation; split current quantum cellular
+   automata (SCQCA)
+ER
+
+PT J
+DE multidimensional cellular automata; real-time and linear time classes;
+   closure properties; one-way multibead alternating finite automata
+ID DIMENSIONAL ITERATIVE ARRAYS; FINITE-STATE MACHINES; TRELLIS; POWER
+ER
+
+PT J
+DE asynchronous cellular automata; mass conservation; pattern formation;
+   crystallization; genetic algorithm; automatic cellular automaton rule
+   search
+ID COMPLEXITY
+ER
+
+PT C
+DE Cellular Automata (CAs); Scalability; Point state attractor;
+   Reachability tree; Pattern classifier
+ER
+
+PT C
+DE social networks; cellular automata; rumor spreading
+ID SPREADING MODEL; EPIDEMICS
+ER
+
+PT J
+DE CELLULAR AUTOMATON; PERMUTIVITY; TOPOLOGICAL DEFECT; RANDOM WALK
+ID DIFFUSION
+ER
+
+PT J
+DE cellular automata; characteristic polynomials; nonlinear cellular
+   automata; Domany-Kinzel model; Bagnoli et al. model
+ER
+
+PT S
+DE Kolmogorov complexity; topology; cellular automata; discrete dynamical
+   systems
+ID COMPLEXITY
+ER
+
+PT C
+DE Cellular automata; Rule 184; CA-184; traffic modelling; microscopic
+ID FLOW
+ER
+
+PT C
+DE cellular automata; defect tolerance; asynchronous; nanotechnology
+ID ARCHITECTURE
+ER
+
+PT C
+DE cellular automata; high density architecture; urban morphology;
+   generative design
+ER
+
+PT J
+DE Cellular automata; Finite semigroups; Smallest generating sets
+ER
+
+PT J
+DE Cellular automata models & algorithms; fine-grained parallel
+   architectures and FPGA; efficient architectures and implementations
+ER
+
+PT J
+DE image processing; Voronoi diagram; cellular automata
+ID EXCITABLE MEDIA; DIAGRAMS; ALGORITHM; MOTION; MODEL; WAVES
+ER
+
+PT C
+DE Cellular Automata; Zeolites; Diffusion; Adsorption Isotherms
+ER
+
+PT C
+DE Cardiac modeling; Cellular automata; Parallel computing
+ER
+
+PT C
+DE Cellular Automata; Cellular Automata with Memory; Cellular Automata with
+   Random Memory; FPGA
+ER
+
+PT J
+DE cellular automata; continuous shift preserving maps; barriers
+ER
+
+PT J
+DE AIDS; HIV; 3-D cellular automata
+ID RETROVIRUSES; DYNAMICS; MODEL; RISK
+ER
+
+PT C
+DE probabilistic cellular automata; perfect sampling; ergodicity
+ID LIMIT-SETS; NILPOTENCY; CHAINS
+ER
+
+PT J
+DE Cellular automata; Fuzzy set; Formal languages; Parallel computing
+ER
+
+PT J
+DE reversible cellular automaton; reversible computing; reversible Turing
+   machine
+ID MODELS
+ER
+
+PT C
+DE Macroscopic fundamental diagram; aggregated speed; traffic signal
+   systems; cellular automata; simulation
+ID MACROSCOPIC FUNDAMENTAL DIAGRAM; TRAVEL-TIME ESTIMATION; PROBE; MODEL
+ER
+
+PT C
+DE AES; Key scheduling; Cellular automata; Image encryption
+ER
+
+PT C
+DE cellular automaton; transition function; development; evolutionary
+   algorithm
+ER
+
+PT C
+DE Coverage control; maximum lifetime coverage problem; cellular automata;
+   wireless sensor networks
+ER
+
+PT J
+DE fuzzy; cellular automata; continuous logic; many-valued logic;
+   probabilistic cellular automaton; rule 110
+ID EVOLUTION
+ER
+
+PT J
+DE asynchronous cellular automata; stochastic process; convergence
+   predictions
+ID EVOLUTIONARY GAMES
+ER
+
+PT C
+DE Traffic flow; Cellular automata
+ER
+
+PT J
+DE nonequilibrium physics; cellular automata; complex systems
+ID FLOW
+ER
+
+PT C
+DE asynchronous cellular automata; defect-tolerance; delay-insensitive
+   circuit
+ID NANOCOMPUTERS
+ER
+
+PT J
+DE cellular automata; entropy; emergence; gliders; self-reproducers
+ID SELF-REPRODUCTION
+ER
+
+PT J
+DE Free monoid; Regular rooted tree; Tree shift; Subshift; Shift of finite
+   type; Sofic shift; Unrestricted Rabin automaton; Cellular automaton;
+   Surjectivity problem; Injectivity problem
+ID PERIODIC CONFIGURATIONS; REVERSIBILITY; ENDS
+ER
+
+PT J
+DE Saliency detection; Hierarchical Cellular Automata; Deep contrast
+   features; Bayesian framework
+ID REGION DETECTION; OBJECT DETECTION; INTEGRATION; FEATURES
+ER
+
+PT C
+DE Hazy image; Dehazing; Cellular automata.
+ER
+
+PT C
+DE gellular automata; block cellular automata; Margolus neighborhood; gel
+   wall; DNA computing
+ER
+
+PT J
+DE Cellular automata; Hesperetin; Lipid nanocarriers
+ID FLUIDIZED-BED AGGLOMERATION; DRUG-DELIVERY SYSTEMS; OIL ENCAPSULATION;
+   MICROSPHERES; SIMULATION
+ER
+
+PT J
+DE cellular automata; Boolean functions; cryptographic properties
+ID COMBINING FUNCTIONS; SEQUENCES; IMMUNITY
+ER
+
+PT J
+DE Elementary cellular automaton; evolution sequence; fixed point; revision
+   sequence; self-referential paradox
+ER
+
+PT J
+DE Cellular automaton; Discrete dynamical systems; Photomultiplier
+   inhomogeneities; Energy filtering
+ER
+
+PT J
+DE Partitioned cellular automata; Image encryption; Strict avalanche
+   criterion; Parallel encryption
+ID CRYPTOGRAPHY; SCHEME; MAPS
+ER
+
+PT J
+DE Cellular automata; motion representation; number conservation
+ER
+
+PT C
+DE Cellular Automata; Type A H1N1; infectious diseases; simulation
+ER
+
+PT J
+DE fracture mechanics; cleavage; cellular automata
+ID CRACK; FRACTURE; SIMULATION; PARTICLES; STEEL; MODEL
+ER
+
+PT J
+DE Cellular automata; reservoir computing; ReCA; recurrent neural networks;
+   sequence learning; complexity
+ID COMPUTATION; CHAOS; EDGE
+ER
+
+PT C
+DE cellular automata; numerical method; mode-I crack propagation; size
+   effect; heterogeneity
+ID UNIAXIAL COMPRESSION; FRACTURE; ROCK; SIMULATION
+ER
+
+PT J
+DE cellular automata; number-conserving systems; universality
+ER
+
+PT J
+DE Probabilistic cellular automaton; Ergodicity; Random field; Bernoulli
+   product measure; Markov measure; Gibbs measure
+ID DIRECTED ANIMALS; DENSITY CLASSIFICATION; INVARIANT-MEASURES; BEHAVIOR;
+   SYSTEMS; ENUMERATION; NILPOTENCY; MODELS; INPUT
+ER
+
+PT J
+DE non-uniform Cellular Automata; asynchronous Cellular Automata; cellular
+   programming; evolutionary computation; fault tolerance; Evolware
+ID COMPLEXITY
+ER
+
+PT J
+DE cellular automata; speed-up; machine simulation; computational
+   complexity
+ER
+
+PT J
+DE Granular flow; Cellular automata; Kinetic sieving; segregation
+ID PARTICLE-SIZE SEGREGATION; FLOW; MIXTURES; MODEL
+ER
+
+PT J
+DE cellular automata; pseudorandom number generation
+ER
+
+PT J
+DE elementary cellular automata; secret sharing; threshold schemes;
+   cryptography
+ID GENERATORS
+ER
+
+PT J
+DE One-dimensional cellular automata; number-conserving cellular automata
+   rules; conservation degree; discrete dynamical system
+ER
+
+PT C
+DE Cellular automata; Crack propagation; Heterogeneity; Quasi-brittle
+   materials
+ID FRACTURE; ROCK; COMPRESSION; COALESCENCE; MODEL
+ER
+
+PT J
+DE cellular automaton; lattice; semantics; hierarchy; wholeness
+ER
+
+PT J
+DE quantum cellular automata; complexity; entanglement
+ID STATISTICAL-MECHANICS; PHASE-TRANSITION; NETWORKS; DYNAMICS; ENTROPY
+ER
+
+PT C
+DE Simulation; cellular automaton; deposition; etching
+ER
+
+PT J
+DE additive cellular automata; self-replication; artificial life
+ER
+
+PT J
+DE Additivity; cellular automaton; replicator; quasireplicator; ether;
+   percolation
+ID BOOTSTRAP PERCOLATION; DEPENDENT PERCOLATION; REPLICATION; DIMENSIONS;
+   SNOWFLAKES; THRESHOLD; SEEDS
+ER
+
+PT J
+DE Intensity; Grid; Encryption; Decryption; Cellular automata
+ID ALGORITHM
+ER
+
+PT J
+DE cellular automata; reversibility; Welch indices
+ER
+
+PT C
+DE Cellular automata; efficiency factor; quantization; transition cycle
+ER
+
+PT J
+DE cellular automaton; evolution pattern; evolution-wise equivalent Wolfram
+   code; elementary cellular automaton
+ER
+
+PT J
+DE Cellular automata; dynamical systems; basic sets
+ID PERSPECTIVE; WOLFRAMS; SCIENCE; KIND; COMPLEXITY; ISLES; EDEN
+ER
+
+PT J
+DE soliton; discrete; cellular automaton; nonlinear; Toda lattice
+ID DIFFERENCE EQUATIONS
+ER
+
+PT J
+DE Regional controllability; deterministic cellular automata; Markov chains
+ER
+
+PT J
+DE cellular automata; Boolean formula minimization; Boolean functions
+ER
+
+PT C
+DE path planning; cellular automaton; mobile robot
+ER
+
+PT J
+DE Underwater sensor network; network topology; cellular automata; topology
+   control solutions; simulation
+ID AD-HOC
+ER
+
+PT J
+DE Cellular automata (CAs); asynchronous cellular automata (ACAs);
+   convergence; basins of attraction; density classification problem
+ID DENSITY CLASSIFICATION; ROBUSTNESS
+ER
+
+PT C
+DE Ebola virus; cellular automata; randomly moving
+ER
+
+PT C
+DE Linear cellular automata; probabilistic cellular automata; limiting
+   behavior; ergodicity
+ER
+
+PT J
+DE discrete dynamical system; composition cellular automata; inverse
+   iteration; block ciphers
+ER
+
+PT C
+DE cellular automaton; traffic jam; railroad crossing
+ER
+
+PT J
+DE QCA; quantum-dot cellular automata; quantum-dot devices; nanoelectronics
+ID BISTABLE SATURATION; DYNAMICAL RESPONSE; NEURAL NETWORKS; GROUND-STATE;
+   BINARY WIRE; LOGIC; CELLS; ARCHITECTURE; COMPUTATION; BEHAVIOR
+ER
+
+PT C
+DE cellular automata; encrypt; decrypt; cryptography; randomness
+ER
+
+PT J
+DE cellular automata; cryptography; discrete dynamical systems; secret
+   sharing; threshold scheme
+ER
+
+PT J
+DE cellular automata; parallel computation; artificial life;
+   self-replicating machines; computer modeling
+ID SELF-REPRODUCTION; SYSTEMS; MODEL
+ER
+
+PT J
+DE monitoring system; UAV; power system; cellular automaton; optimization;
+   clustering
+ER
+
+PT J
+DE adder; cost; crossover; missing cell defect; quantum-dot cellular
+   automata; QCA
+ID 5-INPUT MAJORITY GATE; DIVIDER; DEVICE
+ER
+
+PT J
+DE Probabilistic cellular automata; perfect sampling; ergodicity; invariant
+   measure
+ID LIMIT-SETS; NILPOTENCY; ANIMALS
+ER
+
+PT C
+DE Cellular automata; gas flow; cumulative jet
+ER
+
+PT J
+DE Reversibility; Non -uniform cellular automata
+ID SOFIC GROUPS; ENDOMORPHISMS
+ER
+
+PT J
+DE additive cellular automata; set of periods; binomial coefficient
+ER
+
+PT J
+DE Hyperspectral imaging; Evolution; Cellular automata; Segmentation
+ID MORPHOLOGICAL SEGMENTATION; MAP
+ER
+
+PT J
+DE Cellular automaton (CA); reversibility; reachability; iterative
+   level-wise clustering; connectivity; Silhouette score; Dunn index
+ID VALIDATION; ALGORITHM
+ER
+
+PT C
+DE collider; collisions; beam routing; cellular automata; localisations;
+   computability
+ID COMPUTATION
+ER
+
+PT C
+DE Cellular automata; Belousov-Zabotinsky reaction; Unconventional
+   computing; Chemical computing
+ID MODEL; PROPAGATION
+ER
+
+PT C
+DE Hexagonal cellular automaton; GPU-accelerated computation; Digital
+   imaging; Real-time rendering; Emerging behavior
+ID MODELS
+ER
+
+PT C
+DE Cellular automata; rule space; templates; difference between templates;
+   exception templates
+ER
+
+PT C
+DE memristor; cellular automaton; wave propagation; Margolus gate
+ID THEORETICAL FOUNDATIONS; NONLINEAR NETWORKS; MODEL
+ER
+
+PT J
+DE Cellular automata; synchronization; chaotic systems; Boolean derivative
+ID CHAOS
+ER
+
+PT C
+ER
+
+PT C
+DE cellular automata; parallel computing; dissolution; diffusion; C#
+ER
+
+PT J
+DE solution phenomena; water structure; cellular automata; in silico
+   experiments; dynamic simulation
+ID LIQUID LIQUID INTERFACE; MOLECULAR-DYNAMICS; MONTE-CARLO; WATER;
+   HYDRATION; SIMULATION; DIFFUSION; STATE
+ER
+
+PT C
+DE Evolutionary Algorithm; Cellular Automaton; Transition Function;
+   Conditional Rule; Square Calculation
+ID 1-D
+ER
+
+PT J
+DE cellular automata; control systems; controllability; observability
+ID SENSOR NETWORKS; REGIONAL CONTROLLABILITY; OBSTACLE AVOIDANCE;
+   PLACEMENT; OBSERVERS
+ER
+
+PT J
+DE CELLULAR AUTOMATON; ENTROPY; INVARIANT MEASURE; LYAPUNOV EXPONENTS
+ID ERGODIC-THEORY; SYSTEMS
+ER
+
+PT C
+DE Threshold Schemes; 3D objects; Cellular Automata; Reversibility
+ID WATERMARKING; AUTHENTICATION; SOLIDIFICATION
+ER
+
+PT J
+DE Cellular automata; Computational complexity; Freezing cellular automata;
+   Totalistic cellular automata; Fast parallel algorithms; P-Complete
+ER
+
+PT J
+DE Wythoff Nim; Blocking Wythoff Nim; Cellular automata; Self-organization
+ER
+
+PT C
+DE Information geometry; quantum cellular automata; quantum information;
+   quantum computation
+ID INFORMATION; COMPUTATION
+ER
+
+PT C
+DE reconfigurable systems; cellular learning automata
+ER
+
+PT J
+DE cellular automaton; tessellation space; global map of configurations;
+   mutually erasable; Garden of Eden
+ER
+
+PT J
+DE Global optimization; Cellular automata; Metaheuristics; Engineering
+   applications
+ID KRILL HERD
+ER
+
+PT J
+DE Image denoising; salt-n-pepper noise; cellular automata
+ID SWITCHING MEDIAN FILTER; IMPULSE NOISE; CORRUPTED IMAGES;
+   EDGE-DETECTION; REMOVAL; SEGMENTATION; ALGORITHM; IMPLEMENTATION;
+   ARCHITECTURE; DESIGN
+ER
+
+PT C
+DE cellular automata; FPGA; BIST
+ER
+
+PT C
+DE Noise removal; Salt and pepper; Cellular Automata; Uniform
+ER
+
+PT J
+DE Probabilistic cellular automata; Bootstrap percolation; Kinetically
+   constrained models; Sharp phase transition; Stability
+ID EXPONENTIAL DECAY; PHASE-TRANSITION; CRITICAL-POINTS
+ER
+
+PT J
+DE CELLULAR AUTOMATA; TRANSITION FUNCTION; MARKOV CHAIN; CORRELATION
+   DIMENSION
+ER
+
+PT J
+DE Cellular automata; Chaos; Sensitivity to initial conditions; Topological
+   mixing; Topological transitivity; Undecidability
+ID CHAOS
+ER
+
+PT C
+DE Cellular automata; Fire spread; Forest burning; Computational modelling;
+   Genetic algorithms; Bio-inspired simulation
+ER
+
+PT J
+DE cellular automata; closure properties; real time and linear time classes
+ID ARRAYS; POWER
+ER
+
+PT C
+DE stable patterns formation; totalistic cellular automata; weighted
+   templates; synchronous and asynchronous mode; nucleation cell
+ER
+
+PT C
+DE Evacuation dynamics; Bottleneck; Exit; Cellular automata
+ID PEDESTRIAN DYNAMICS; LATTICE-GAS; SIMULATION; MODEL
+ER
+
+PT J
+DE Cellular automata; Linear cellular automata; Block invariance;
+   Reversibility
+ER
+
+PT S
+DE cellular automata; chemistry; chemical engineering
+ID DIFFUSION-LIMITED AGGREGATION; DYNAMIC RECRYSTALLIZATION; MESOSCALE
+   SIMULATION; DRUG-RELEASE; PHASE-TRANSFORMATION; SPHERULITE GROWTH;
+   FRACTAL DIMENSION; HYBRID MODEL; SOLIDIFICATION; PREDICTION
+ER
+
+PT J
+DE cellular automata; traffic flow; kinematic waves
+ID MODEL
+ER
+
+PT J
+DE Cellular automata; basin of attraction; limit set; attractor;
+   directional dynamics; Baire category; symbolic dynamics
+ID COMPUTATIONAL-COMPLEXITY; ATTRACTORS
+ER
+
+PT J
+DE Cellular Automata; Undecidability; Symbolic dynamics
+ID DECIDABLE PROPERTIES; ATTRACTORS; SETS
+ER
+
+PT J
+DE Quantum field theory; Quantum cellular automata; Quantum walks
+ID NONRELATIVISTIC ZITTERBEWEGUNG; NEUTRINO THEORY; RELATIVITY; LATTICE;
+   WALKS
+ER
+
+PT C
+DE Cellular Automata; Cellular Automata Classification; Convolutional
+   Neural Network
+ER
+
+PT C
+DE AES; Cellular Automata; Cryptography; S-Box
+ER
+
+PT J
+DE Quantum cellular automata; Quantum walks; Dirac quantum cellular
+   automaton; Discrete path-integral
+ID WALKS; LATTICE
+ER
+
+PT C
+DE cellular automata; pattern reconstruction task; genetic algorithm;
+   scalability of rules
+ER
+
+PT C
+DE cellular automaton; evacuation simulation
+ID TRAFFIC SIMULATIONS; MODEL
+ER
+
+PT J
+DE Cellular automaton (CA); inversions; neural network
+ID MODEL
+ER
+
+PT C
+DE Cellular Automata; Encryption; Decryption; Block Cipher; Symmetric key
+ER
+
+PT J
+DE quantum; games; spatial; cellular automata
+ID SELF-ORGANIZATION; GAMES; BATTLE; SEXES; STRATEGIES
+ER
+
+PT J
+DE cellular automaton; molecular dynamics; dislocation pattern
+ID LOW-CARBON STEELS; AUSTENITE; FERRITE; TRANSFORMATION; METALS
+ER
+
+PT J
+DE Cellular automata; deep learning; single image; dehazing
+ID VISION; RESTORATION; ENHANCEMENT; VISIBILITY; ALGORITHM; WEATHER
+ER
+
+PT C
+DE Cellular automata; Stream ciphers; Semi-bent functions; Nonlinearity;
+   Combinatorial search; Balancedness; Linear structures
+ER
+
+PT C
+DE cellular automata (CA); extended cellular automata (ECA); parallel
+   cellular automata (PCA); flight delay; delay propagation
+ER
+
+PT C
+DE Cellular Automata; Evacuation; Potential Fields; Hardware; FPGA
+ID FEATURES
+ER
+
+PT J
+DE Cellular automata; convex hull; 45-convex hull; algorithm
+ER
+
+PT J
+DE Cellular Automata; Stream Cipher; NMix; Hybrid Nonlinear Cellular
+   Automata
+ER
+
+PT C
+DE FPGA; Cellular Automata; Processor Architecture; Parallel Processing;
+   Dataflow
+ER
+
+PT J
+DE quantum computing applications; partitioned quantum cellular automata;
+   cellular automata music; quantum computer music; generative music
+ER
+
+PT J
+DE cellular automata; conservation laws; partial differential equations;
+   spin systems
+ER
+
+PT C
+DE cellular automata; elementary cellular automata; image encryption; image
+   decryption
+ER
+
+PT J
+DE Designing; filtering; particle dynamics; domains; emergence; one
+   dimensional cellular automata; parallel programming; GPU computing
+ID MECHANICS
+ER
+
+PT J
+DE linear cellular automata; reversibility; symmetric rules
+ID FINITE-FIELDS; ENCRYPTION; RULES
+ER
+
+PT J
+DE linear cellular automata; boundary conditions; state transition diagram
+ER
+
+PT J
+DE Cellular automaton; Biomass-spreading rule; Biofilm model; Multispecies
+ID STEADY-STATE; SIMULTANEOUS REDUCTION; BIOMASS; PERCHLORATE; SIMULATION;
+   KINETICS; HYDROGEN; ACETATE; NITRATE; GROWTH
+ER
+
+PT C
+DE Land use change; cellular automata; assumptions; progress
+ID URBAN-GROWTH; LAND-USE; LOGISTIC-REGRESSION
+ER
+
+PT J
+DE cellular automaton; traffic flow; fluctuation
+ID HIGH-SPEED; FLOW; MODEL
+ER
+
+PT J
+DE &nbsp; full shift; automorphism group; reversible cellular automata
+ID AUTOMORPHISM GROUP; SHIFT; SYSTEMS
+ER
+
+PT C
+DE Cellular automata; image processing; edge detection; cellular automata
+   linear rules
+ER
+
+PT C
+DE Cellular automata (CA); Computer simulation; Urban freight transport
+   (UFT)
+ID TRANSPORT; SZCZECIN; AREAS
+ER
+
+PT J
+DE Cellular automata; Curtis-Hedlund theorem; monoid of cellular automata;
+   outer automorphism group; 37B15; 68Q80
+ER
+
+PT J
+DE Cellular automata; glider; collision; symbolic dynamics; chaos
+ID NONLINEAR DYNAMICS PERSPECTIVE; SYMBOLIC DYNAMICS; BERNOULLI-SHIFT;
+   WOLFRAMS; KIND; ATTRACTORS; SCIENCE
+ER
+
+PT J
+DE Cellular automata; Communication complexity; Elementary cellular
+   automata; Number-conserving
+ID UNIVERSALITY
+ER
+
+PT C
+DE Image resizing; Color/Grayscale image enlargement; Edge-oriented method;
+   Cellular automata
+ID INTERPOLATION; ALGORITHM; SCHEME
+ER
+
+PT J
+DE CELLULAR AUTOMATA
+ER
+
+PT C
+DE cellular automata; mammogram image processing
+ER
+
+PT J
+DE Cellular automata; reversibility; Welch sets
+ER
+
+PT J
+DE Bio-inspired computing; Cellular automata variants; Computational
+   complexity; Varying acceptance conditions
+ID PARALLEL LANGUAGE RECOGNITION; CONSTANT-TIME
+ER
+
+PT J
+DE cellular automata; entropy; automaton network
+ID CELLULAR-AUTOMATA
+ER
+
+PT C
+DE Cellular automata (CA); Toxic text classification; Machine learning;
+   Long Short-Term Memory (LSTM)
+ER
+
+PT J
+DE Complex systems; emergent computation; cellular automata; density
+   classification task; number-conserving property; symmetry property
+ER
+
+PT J
+DE cellular automata; fuzzy cellular automata; TASEP; bottleneck
+ER
+
+PT J
+DE integrable lattice equations; cellular automata; soliton cellular
+   automata
+ID PARTIAL DIFFERENCE EQUATIONS
+ER
+
+PT J
+DE Evolutionary algorithm; Cellular evolutionary algorithm; Cellular
+   automata; Learning automata; Cellular learning automata; Chaos theory;
+   Community structure detection
+ID GENETIC ALGORITHM; OPTIMIZATION
+ER
+
+PT J
+DE cellular automata on groups; tessellations; Cayley graphs; periods;
+   residually finite groups
+ID INJECTIVITY; MAPS
+ER
+
+PT J
+DE reversible cellular automaton; hybrid cellular automaton; finite state
+   automaton; regular language
+ER
+
+PT J
+DE Image scrambling; Elementary cellular automata; Complex and chaotic
+   rules; One-dimensional scrambling
+ID ENCRYPTION; ALGORITHM
+ER
+
+PT J
+DE Vertex coloring problem; Learning automata; Cellular learning automata
+ID AD-HOC NETWORKS; LOCAL SEARCH; TABU SEARCH; GRAPH; HYBRID; OPTIMIZATION;
+   SET
+ER
+
+PT J
+DE cellular automata; expansive dynamical systems; topological
+   classification
+ID EQUICONTINUITY; ATTRACTORS
+ER
+
+PT J
+DE cellular automata; lattice gases; hydrodynamics; discrete kinetic
+   theory; Ising model; complex fluids; microemulsions
+ID TIME CORRELATION-FUNCTIONS; LIQUID-GAS; MODEL; FLUIDS; MICROEMULSIONS;
+   SIMULATION; TRANSITION; DYNAMICS
+ER
+
+PT C
+DE Cellular Automata; Wave Propagation; Incident Sound Wave; Diffraction;
+   Sound Barrier
+ID NOISE BARRIER
+ER
+
+PT J
+DE cellular automata; partial differential equations; sensitivity analysis;
+   tumor growth
+ID PARAMETER-ESTIMATION; MATHEMATICAL-MODELS; SIGNALING PATHWAYS; ADJOINT;
+   DELAYS
+ER
+
+PT J
+DE cellular automata; elastic body; rictionless contact
+ER
+
+PT C
+DE Random Field; Cellular Automata; space-time interactions; statistical
+   model building; non-linear modeling; Complex space-time Systems
+ER
+
+PT J
+DE Cellular automata; Image processing; Edge detection; Cellular automata
+   linear rules
+ID ALGORITHM
+ER
+
+PT J
+DE Cellular automata; automorphism groups; Tits alternative
+ID TOPOLOGICAL FULL GROUPS; AUTOMORPHISM GROUP; SUBGROUPS; SHIFT; SUBSHIFT;
+   DYNAMICS; ENDOMORPHISMS; SYMMETRIES; SYSTEMS; POINTS
+ER
+
+PT J
+DE Generalised cellular automata; Mobile agent systems; Simulation;
+   Emulation; Equivalence; Local synchrony; Labels; Colours; Update rules;
+   Graph; Network
+ER
+
+PT J
+DE Compressive sensing; Audio coding; Cellular automata; Encryption
+ID SIGNAL RECOVERY; RECONSTRUCTION
+ER
+
+PT J
+DE discrete time dynamical systems; cellular automata; ergodicity;
+   topological transitivity
+ID LIMIT-SETS
+ER
+
+PT C
+DE distributed ledgers; peer-to-peer networks; consensus; cellular
+   automata; blockchain
+ID CONSENSUS
+ER
+
+PT J
+DE CELLULAR AUTOMATA; CHAOS; CIRCULATION; FRACTAL; LATTICE GAS;
+   MATHEMATICAL MODELING; RETINA
+ID LATTICE-GAS; FUNDUS; MODEL; QUANTIFICATION; OPHTHALMOSCOPE; DYNAMICS;
+   SYSTEMS; PHYSICS; MEDIA
+ER
+
+PT C
+DE Protein folding; Cellular automata; Evolutionary computing; Differential
+   evolution
+ID STRUCTURE PREDICTION
+ER
+
+PT J
+DE cellular automata; topological Markov shifts; expansive; symbolic
+   dynamics; textile systems
+ID ENDOMORPHISMS; SYSTEMS
+ER
+
+PT J
+DE cellular automata; reversibility; replication; budding
+ID REPRODUCTION; PHYSICS; MODELS
+ER
+
+PT C
+DE Memristor; Cellular Automata; Probabilistic Switching; Entropy
+ER
+
+PT J
+DE lava flow; simulation; cellular automata; Bingham fluid
+ID MOUNT ETNA; VISCOSITY; MODEL; FIELD; EARTH; DOME; MARS
+ER
+
+PT J
+DE complexity; measure; elementary cellular automaton
+ER
+
+PT C
+DE cellular automata; simulation; microcrystalline structure; magnetron;
+   plasma
+ER
+
+PT J
+DE elementary cellular automaton; ultradiscretization; filter function;
+   piecewise linear equation; difference equation
+ER
+
+PT C
+DE cellular automaton; transition function; conditional rule; evolutionary
+   algorithm
+ER
+
+PT J
+DE cellular automata; social networks; complex system; trellis automata;
+   computational complexity
+ER
+
+PT C
+DE DNA cellular automata; Self-assembly; Image encryption
+ER
+
+PT C
+DE Covid-19 prediction; cellular automata; simulation
+ER
+
+PT J
+DE cellular automata; density classification; density conservation
+ID RULES; 2-STATE
+ER
+
+PT C
+DE Cellular automata; urban growth; transition rules; complexity
+ER
+
+PT C
+DE Cellular automata; Byte error correcting codes; Finite fields
+ER
+
+PT C
+DE cellular automata; tumor modeling; stochastic growth model
+ER
+
+PT C
+DE Wireless sensor network; self-organization; synchronous cellular
+   automata; asynchronous cellular automata; coverage; connectivity;
+   network lifetime
+ER
+
+PT J
+DE cellular automata; traffic flow; moving block system
+ID FLOW
+ER
+
+PT C
+DE Cellular Automata; Urban Models; Cooperative Coevolution; GPU
+ID OPTIMIZATION; MODEL; CA
+ER
+
+PT J
+DE Quantum-dot Cellular Automata; QCA; Nanotechnology
+ID MAJORITY GATE; ENERGY-DISSIPATION; QCA CIRCUITS; RAM CELL; POWER
+   DISSIPATION; MODULAR DESIGN; REVERSIBLE ALU; MEMORY CELL; EFFICIENT;
+   ROBUST
+ER
+
+PT J
+DE Epidemic spreading; cellular automaton; Turing pattern
+ID SPATIAL-PATTERN; TRAVELING-WAVES; DYNAMICS; MODEL; FOOT
+ER
+
+PT J
+DE quantum games; noise; Samaritan dilemma; cellular automata
+ID BAYESIAN GAME; BATTLE; STRATEGIES; ADVANTAGE; AID
+ER
+
+PT J
+DE Cellular automata; numerical modelling; computer simulation; snow
+   avalanche; natural hazard; risk mitigation
+ID DEBRIS FLOWS; RUNOUT
+ER
+
+PT C
+DE Cellular automaton; Urban traffic; Intersection; Orderliness
+ID TRAFFIC-FLOW; SELF-ORGANIZATION; TRANSITION
+ER
+
+PT C
+DE SEIR model; Cellular automata; Extend Moore Neighborhood
+ER
+
+PT J
+DE Cellular automata; Iterative arrays; Restricted communication; Formal
+   languages; Computational capacity; Parallel computing; Closure
+   properties
+ID DIMENSIONAL ITERATIVE ARRAYS; FINITE-STATE MACHINES; TIME; GENERATION;
+   PRIMES
+ER
+
+PT C
+DE multiprocessor scheduling; cellular automata; genetic algorithms
+ER
+
+PT J
+DE subadditive function; product ordering; cellular automaton
+ER
+
+PT J
+DE cellular automata; scaling exponents; multifractal properties; memory
+ID SINGLE-SITE SEED
+ER
+
+PT J
+DE cellular automata; reversibility; conservation law; universality
+ID SAND PILE
+ER
+
+PT C
+DE (specific) flow rate; pedestrian dynamics; cellular automata; transition
+   probabilities; movement strategies
+ID DYNAMICS
+ER
+
+PT J
+DE Cellular automata; 3D modeling; wind flow; complex terrain
+ID SCALE SURFACE WINDS; FIRE SPREAD; LATTICE-GAS; SIMULATION; DYNAMICS;
+   SUPPORT; FIELD
+ER
+
+PT J
+DE Cellular automata; hyperbolic plane; tessellations
+ID PLANE
+ER
+
+PT J
+DE Discrete dynamical systems; elementary cellular automata; rule space
+ER
+
+PT J
+DE Natural computing; Asynchronous cellular automata; Computational
+   complexity
+ER
+
+PT C
+DE cellular automata; pseudorandom number generation; twi-layer cross
+   cellular automata
+ER
+
+PT J
+DE Reversibility; Cellular automata; Rule 150; DETGTRI algorithm; Null
+   boundary conditions
+ID PERIODIC BOUNDARY; REVERSIBILITY; CRYPTOGRAPHY
+ER
+
+PT J
+DE Anodization; Cellular automata; Parallel programing; Aluminum oxide
+   growth
+ID PORE ARRAYS; SIMULATION; GROWTH; FILMS
+ER
+
+PT C
+DE Coulomb blockade; single-electron tunneling; quantum-dot cellular
+   automata
+ID SMALL TUNNEL-JUNCTIONS; POWER GAIN; DISSIPATION; CHARGE; LOGIC
+ER
+
+PT J
+DE penrose tiles; cellular automata; graph coloring
+ER
+
+PT J
+DE Elementary Cellular Automata; Local rules; Analytic function
+ID PREDATOR-PREY SYSTEM; SPATIAL EPIDEMICS; PATTERN
+ER
+
+PT J
+DE Cellular automata; Binary classification problem; Genetic algorithm
+ID EVOLUTION
+ER
+
+PT J
+DE Measure-preserving transformation; invertible cellular automata; strong
+   mixing; bernoulli automorphism
+ID TOPOLOGICAL-ENTROPY; Z(M)
+ER
+
+PT C
+DE cellular automata; Larger than Life; three-dimension; weak universality
+ER
+
+PT C
+DE Ulam's cellular automaton; fractal pattern; Lebesgue's singular function
+ER
+
+PT J
+DE CELLULAR AUTOMATA; RANDOM PERTURBATIONS; SURVIVAL; RESCALING
+ID SYSTEMS
+ER
+
+PT J
+DE avalanche; mathematical modeling; cellular automata
+ER
+
+PT J
+DE linear cellular automata; invariant measure; automatic sequence;
+   Christol's theorem
+ID SEQUENCES; SERIES
+ER
+
+PT J
+DE Protector control; actuators; attributes; controllability; 3D Cellular
+   automata; fire forest
+ID SENSORS
+ER
+
+PT J
+DE cell differentiation; morphogenesis; cellular automata
+ID GENE NETWORKS
+ER
+
+PT J
+DE COMPUTATIONAL COMPLEXITY; CELLULAR AUTOMATA; REACHABILITY PROBLEMS;
+   INTERACTIVE PROOFS
+ER
+
+PT J
+DE Topological Markov chains; cellular automata; maximal measure; entropy;
+   additive cellular automata
+ER
+
+PT J
+DE Cellular automata; pseudorandom number generator; balance; boolean
+   function; cryptography
+ID GENERATION
+ER
+
+PT J
+DE cellular automata; error correction ability; expression ability
+ER
+
+PT J
+DE Cellular automata; symbolic dynamics; (un)decidability
+ID DYNAMICAL PROPERTIES; EQUICONTINUITY; LANGUAGES; SUBSHIFTS; GROWTH
+ER
+
+PT J
+DE cellular automata; block diagrams; differential equations
+ER
+
+PT C
+DE cellular automata; image; contour; image classification; machine vision;
+   image scaling; retina
+ER
+
+PT C
+DE discrete dynamical systems; cellular automata; symbolic dynamics; sofic
+   systems; formal languages; decidability
+ID NILPOTENCY
+ER
+
+PT J
+DE probabilistic cellular automata; interacting particle systems;
+   renormalization; ergodicity; reliability; fault-tolerance;
+   error-correction; simulation; hierarchy; self-organization
+ID SYSTEMS
+ER
+
+PT C
+DE Resistive memory; cellular automata; fault tolerance; SACA
+ID PHASE-CHANGE MEMORY
+ER
+
+PT C
+DE interactive simulation; computational science; cellular automata;
+   parallel computing
+ID ENVIRONMENT; SCIENCE
+ER
+
+PT J
+DE self-replication; self-organization; cellular automata
+ID REPRODUCTION; COMPUTER
+ER
+
+PT J
+DE Cellular automata; Complexity; Mean-field theory; Local information;
+   Entropy
+ID DYNAMICS; COLLISIONS; SEARCH
+ER
+
+PT C
+DE cellular automata; tumor modeling; stochastic growth model
+ID TUMOR-GROWTH
+ER
+
+PT J
+DE d-state cellular automata (CAs); de Bruijn graph; Reachability Tree;
+   Rule Min Term (RMT); reversibility
+ID PERIODIC BOUNDARY; SURJECTIVITY; INVERSE; MAPS
+ER
+
+PT C
+DE cellular automata; pattern matching; content-based image retrieval
+ER
+
+PT J
+DE Cellular Automata; Power Estimation; "Green" Circuit design; Entropy
+   variation; CMOS Power Consumption Estimation
+ID COMPUTATION
+ER
+
+PT C
+ER
+
+PT C
+DE cellular automata; charophyte; pectinatus; competitive growth; Lake
+   Veluwe
+ER
+
+PT J
+DE Cryptanalysis; Stream Cipher; Cellular Automata; Difference Equation
+ER
+
+PT J
+DE cellular automata; self-replication; stochatstic updating; shape
+   encoding; asynchronous
+ID REPRODUCTION; COMPUTATION; CIRCUITS; GAME
+ER
+
+PT J
+DE cellular automata; simulation machine; VLSI architecture; matrix
+   algebra; image analysis; fractal image generation
+ID PATTERN GENERATION
+ER
+
+PT J
+DE Fredkin gates; elementary cellular automata; memory; particles;
+   collisions; unconventional computing
+ID CLASS-IV; COMPUTATION
+ER
+
+PT J
+DE Reaction-diffusion; Cellular automata; DNA strand displacement; Chemical
+   reaction network; Intelligent materials; Molecular programming;
+   Programmable matter; Distributed computation
+ID GRAPH AUTOMATA; DNA; COMPUTATION
+ER
+
+PT C
+DE fracture; damage evolution; computer simulation; cellular automaton
+ID LOW-CARBON STEELS; SOLIDIFICATION PROCESSES; DENDRITIC GROWTH; GRAIN
+   STRUCTURES; PREDICTION; SIMULATION; AUSTENITE; FERRITE;
+   RECRYSTALLIZATION; TRANSFORMATION
+ER
+
+PT C
+DE Complexity; Elementary cellular automata; Non-uniform cellular automata;
+   Open-ended; Rule evolution
+ID CHAOS; EDGE
+ER
+
+PT J
+DE Cellular automata; Particles; Limit measures; Brownian motion
+ID ERGODIC-THEORY; LIMIT-SETS; DIFFUSION; SYSTEMS
+ER
+
+PT C
+DE cellular automata (CA); linear feedback shift register (LFSR); very
+   large scale integrity (VLSI); and complex programmable logic device
+   (CPLD)
+ER
+
+PT C
+DE Virtual engineering; collaboration; multi-agent resource allocation;
+   reinforcement learning; cellular automata; emergent complexity
+ER
+
+PT C
+DE Pattern formation; Mathematical modelling; Cellular automata
+ID POLARITY
+ER
+
+PT J
+DE cellular automaton; tessellation space; global map of configurations;
+   mutually erasable; Garden of Eden
+ER
+
+PT J
+DE cellular automata; mean equicontinuity; mean sensitivity; almost
+   equicontinuity; almost mean equicontinuity
+ER
+
+PT J
+DE Parallel computation; One-way cellular automata; Boolean circuit
+ID ARRAYS
+ER
+
+PT J
+DE quantum; games; spatial; cellular automata
+ID SELF-ORGANIZATION; GAMES; MEMORY
+ER
+
+PT C
+DE cellular automata; nilpotency; dynamical systems; attractors
+ER
+
+PT C
+DE reconfigurable computing; programmable cellular; automata; encryption;
+   VLSI
+ER
+
+PT J
+DE discrete sphere; 3D cellular automata; discrete circle; discrete waves
+ID CIRCLES
+ER
+
+PT J
+DE cellular automata; image processing; neighbourhood; noise filtering;
+   totalistic; identification
+ID IDENTIFICATION; MODEL
+ER
+
+PT C
+DE binary counter; digital circuit; cellular automata; performance
+ID DIVIDERS
+ER
+
+PT J
+DE cellular automata; networks; simulations; transitivity
+ID EXCHANGE NETWORKS; POWER
+ER
+
+PT C
+DE Asynchronous cellular automata (ACA); reversibility; ACA cycle;
+   reversible ACA rules
+ID COMPUTATION
+ER
+
+PT C
+DE Landslides; Debris flow; Cellular Automata; Dynamic systems simulations
+ID DEBRIS FLOWS; CLASSIFICATION
+ER
+
+PT C
+DE Encryption; Cellular automata; Game of Life; Gray difference degree;
+   Correlation coefficient
+ER
+
+PT J
+DE image encryption; elementary cellular automaton; life-liked cellular
+   automaton; chaotic system
+ID ALGORITHM; MAP; SECURITY; DIFFUSION; SYSTEM
+ER
+
+PT C
+DE Modeling; Cellular automata; Spreadability; Wind flow; Forest fire
+ID SLOPE
+ER
+
+PT C
+DE Abstract geometrical computation; Automatic discretization; Cellular
+   automata; Signal machines; Unconventional models of computation
+ID ABSTRACT GEOMETRICAL COMPUTATION
+ER
+
+PT C
+DE cellular automaton; traffic flow model; simulation; traffic-police
+ER
+
+PT J
+DE earthquakes; recurrence statistics; cellular automata
+ID SELF-ORGANIZED CRITICALITY; EARTHQUAKES; EVOLUTION; SIZE; SIMULATION;
+   FAULT
+ER
+
+PT J
+DE Memristor; cellular automaton; CNN; difference equation; complex
+   behavior; image processing; logical operation; multitasking; RSA
+ID ELEMENT; CNN
+ER
+
+PT C
+DE Linear cellular automata; fractal geometry; Hausdorff dimension
+ER
+
+PT J
+DE Cellular automata; Garden of Eden; Matrix algebra
+ER
+
+PT C
+DE Wildfire simulation; Cellular Automata; Genetic Programming
+ID FOREST-FIRES; SPREAD
+ER
+
+PT J
+DE cellular automata; complex patterns; Markov chains
+ER
+
+PT J
+DE cellular automata (ca); bernoulli shift; topological entropy; symbolic
+   dynamics
+ID WOLFRAMS; KIND; PERSPECTIVE; SCIENCE; THEOREM; MEMORY
+ER
+
+PT C
+DE Edge detection; Cellular Automata; Evolutionary Computation
+ER
+
+PT C
+DE Cellular automata; number-conservation; intrinsic universality; one-way
+   automata; state complexity
+ID DECIDABILITY; MODEL
+ER
+
+PT J
+DE Measure-preserving transformation; Invertible cellular automata; Strong
+   mixing; Bernoulli automorphism
+ID LIMIT MEASURES; DYNAMICS; Z(M)
+ER
+
+PT J
+DE surjective cellular automata; conservation laws; invariant measures;
+   statistical equilibrium
+ID NUMBER
+ER
+
+PT C
+DE Cellular automata; Water pollution; Diffusion; Simulation
+ID CRUDE-OIL; PREDICTION
+ER
+
+PT J
+DE cellular automata; topological entropy; Galois rings; computational
+   complexity
+ER
+
+PT J
+DE Hexagonal cellular automata; 3-state cellular automata; rule matrix;
+   matrix algebra; ternary field; periodic boundary; reversible CA
+ER
+
+PT C
+ID ARRAYS
+ER
+
+PT C
+DE cellular automata; Petri nets; hierarchy; ecology
+ID NETS
+ER
+
+PT J
+DE HASHING; CELLULAR AUTOMATA; ASSOCIATIVE MEMORY
+ER
+
+PT C
+DE Stochastic cellular automata; Probabilistic dynamical systems; Zero-sum
+   markov strategy games
+ID GAMES
+ER
+
+PT J
+DE CELLULAR AUTOMATA; LATTICE GAS; DIFFUSION EQUATION; TELEGRAPHIST
+   EQUATION
+ER
+
+PT C
+DE component; global path planning; multi-robot; cellular automata
+ER
+
+PT J
+DE surface growth; probabilistic cellular automata; depinning transition;
+   correlated deposition; kinetic roughening
+ID CORRELATED BALLISTIC DEPOSITION; ROUGHENING TRANSITION; DIRECTED
+   PERCOLATION; MODEL
+ER
+
+PT C
+DE Cellular automata; carbo-nitrides; micro-alloyed steels
+ID MICROALLOYED STEELS
+ER
+
+PT J
+DE zero knowledge protocol; cellular automata; cryptography; symmetric
+   cipher; stream cipher
+ID ALGORITHM; CRYPTOSYSTEM
+ER
+
+PT C
+DE Urban Macro-Traffic Flow; Simulation; Cellular Automata
+ID MODEL
+ER
+
+PT C
+DE cellular automaton; semitotalistic; code; number theory
+ER
+
+PT C
+DE Parallel image encryption; Life-Like Cellular Automaton; Balance rule
+ID CHAOS; SCHEME; PERMUTATION
+ER
+
+PT J
+DE quantum computation; cellular automata; de Bruijn graphs
+ID TURING-MACHINES; COMPUTERS; MODELS
+ER
+
+PT C
+DE cellular automata; rule 110; cyclic tag system; virtual collider;
+   unconventional computing
+ER
+
+PT J
+DE Granular material; Stockpile; Granular flow; Cellular automata; Modeling
+ID MODEL; SEGREGATION; FLOW; REPOSE; ANGLE; TOOL
+ER
+
+PT C
+DE cellular automata; symbolic dynamics; chaos; blocking transformation
+ID NONLINEAR DYNAMICS PERSPECTIVE; WOLFRAMS; SCIENCE; KIND
+ER
+
+PT J
+DE cellular automata; spreadability; simulation; shape theory
+ID FEEDBACK SPREADING CONTROL; THRESHOLD GROWTH DYNAMICS; SYSTEMS;
+   IMMUNOTHERAPY; DISPERSAL; PHYSICS; SPEED; FIRE
+ER
+
+PT J
+DE Hybrid cellular automata; minority memory; block transform; symbolic
+   dynamics; chaos
+ID NONLINEAR DYNAMICS PERSPECTIVE; WOLFRAMS; KIND; COMPLEX
+ER
+
+PT J
+DE cellular automaton; density classification; discrete dynamical system
+   symbolic dynamics
+ER
+
+PT C
+DE Evacuation plan; Cellular Automata; Verification
+ID PEDESTRIAN DYNAMICS; SIMULATION; FIRE
+ER
+
+PT C
+DE Hyperspectral imaging; Evolution; Cellular Automata; Segmentation
+ER
+
+PT C
+DE Cellular automata; Reversible cellular automata; Turing-complete
+   cellular automata; Attribute-based access control; Multi-authority
+   access control; Cloud system
+ER
+
+PT C
+DE Gene correlation network; shared neighbor ranking; cellular automata;
+   cancer biomarker; gene silencing
+ID HUMAN BREAST; IDENTIFICATION
+ER
+
+PT C
+DE cellular automata; hash function; sponge function; FPGA
+ID KECCAK-F; DISTINGUISHERS
+ER
+
+PT C
+DE Cryptography; Image scrambling; Cellular automaton
+ER
+
+PT C
+DE multi-agent simulation; cellular automata; urban modelling
+ER
+
+PT C
+DE Cellular automaton; Social network; Cellular state; Rumor spreading
+   model; Immunization Strategy
+ER
+
+PT J
+DE cellular automata; epidemic spreading; mathematical modeling;
+   rectangular lattices; SIR model
+ID DISCRETE-TIME; POPULATION; SPREAD
+ER
+
+PT J
+DE Constructing method of cellular automata; noisy observation data; the
+   diffusion equation; the Burgers equation
+ID LATTICE-GAS; EXCITABLE MEDIA; MODEL; DYNAMICS
+ER
+
+PT J
+DE emergent computation; synchronization; cellular automata; particles
+ID BEHAVIOR; SYSTEMS
+ER
+
+PT J
+DE duality; cellular automata; finite range
+ID INTERACTING PARTICLE-SYSTEMS; QUANTUM OPERATORS
+ER
+
+EF
