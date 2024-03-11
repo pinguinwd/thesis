@@ -1,0 +1,11 @@
+pandas
+numpy
+matplotlib
+twilio
+yfinance
+discord.py
+networkx
+imageio
+scikit-learn
+statsmodels
+scipy
