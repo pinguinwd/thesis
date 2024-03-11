@@ -1,3 +1,4 @@
+import uuid
 import numpy as np
 from multiprocessing import Pool, cpu_count
 from GA_functions import *
@@ -31,12 +32,16 @@ def genetic_algorithm(ga_params):
     best_fitness_training = []
     best_fitness_control = []
     best_chromosomes = []  # List to track the best chromosome in each generation
-    last_control_fitness = None
+    last_control_fitness = [0]
     fitnesses_training = []
     fitnesses_control = []
 
-    for generation in range(generations):
+    identifier = uuid.uuid4()
+    base_path = 'D:/PythonProjects/Thesis/simulations/' + str(identifier) + '/'
 
+    for generation in range(generations):
+        print('generation: ' + str(generation) + '/' + str(generations))
+        fitnesses_training = []
         for individual in population:
             input_cells = individual['input_locations']
             output_cells = individual['output_locations']
@@ -47,6 +52,8 @@ def genetic_algorithm(ga_params):
             fitnesses_training.append(fitness)
 
         if generation % 20 == 0 or generation == 0:
+
+            fitnesses_control = []
             for individual in population:
                 input_cells = individual['input_locations']
                 output_cells = individual['output_locations']
@@ -54,10 +61,10 @@ def genetic_algorithm(ga_params):
                 fitnesses = evaluate_fitness(individual['chromosome'], input_output_pairs_control, input_cells, output_cells, ga_params['steps'],
                     ga_params['distance'])
                 fitnesses_control.append(fitnesses)
-            last_control_fitness = np.mean(fitnesses_control)
+            last_control_fitness = fitnesses_control
         else:
             # Use the last calculated control fitness
-            fitness_control = last_control_fitness
+            fitnesses_control = last_control_fitness
 
         # Update trackers
         mean_fitness_training.append(np.mean(fitnesses_training))
@@ -74,44 +81,64 @@ def genetic_algorithm(ga_params):
 
         # Crossover and mutation
         offspring = []
+        # Crossover and mutation
+        offspring = []
         for _ in range(len(population) // 2):
             parent1, parent2 = np.random.choice(parents, 2, replace=False)
-            if np.random.rand() < ga_params['crossover']['rate']:
-                child1, child2 = crossover(parent1, parent2, ga_params['crossover'])
-            else:
-                child1, child2 = parent1.copy(), parent2.copy()
 
-            if np.random.rand() < ga_params['mutation']['rate']:
-                child1 = mutate(child1, ga_params['mutation'])
-            else:
-                child1 = parent1.copy()
+            # Initialize children as copies of parents
+            child1, child2 = parent1.copy(), parent2.copy()
 
-            if np.random.rand() < ga_params['mutation']['rate']:
-                child2 = mutate(child2, ga_params['mutation'])
-            else:
-                child2 = parent2.copy()
+            # Apply crossover
+            if ga_params['chromosome_evol'].lower() == 'yes' and np.random.rand() < ga_params['crossover']['rate']:
+                child1['chromosome'], child2['chromosome'] = crossover(parent1['chromosome'], parent2['chromosome'],
+                                                                       ga_params['crossover'])
 
-            offspring.append(child1).append(child2)
+            # Apply mutation
+            if ga_params['chromosome_evol'].lower() == 'yes' and np.random.rand() < ga_params['mutation']['rate']:
+                child1['chromosome'] = mutate(child1['chromosome'], ga_params['mutation'], 'rules', ga_params['CA_size'])
+                child2['chromosome'] = mutate(child2['chromosome'], ga_params['mutation'], 'rules', ga_params['CA_size'])
 
+            # Check for input locations evolution
+            if ga_params['input_loc_evol'].lower() == 'yes':
+                child1['input_locations'], child2['input_locations'] = crossover(parent1['input_locations'], parent2['input_locations'],
+                                                                       ga_params['crossover'])
+
+            # Apply mutation
+            if ga_params['input_loc_evol'].lower() == 'yes' and np.random.rand() < ga_params['mutation']['rate']:
+                child1['input_locations'] = mutate(child1['input_locations'], ga_params['mutation'], 'locations', ga_params['CA_size'])
+                child2['input_locations'] = mutate(child2['input_locations'], ga_params['mutation'],  'locations', ga_params['CA_size'])
+
+            # Check for output locations evolution
+            if ga_params['output_loc_evol'].lower() == 'yes':
+                child1['output_locations'], child2['output_locations'] = crossover(parent1['output_locations'],
+                                                                                 parent2['output_locations'],
+                                                                                 ga_params['crossover'])
+
+            # Apply mutation
+            if ga_params['output_loc_evol'].lower() == 'yes' and np.random.rand() < ga_params['mutation']['rate']:
+                child1['output_locations'] = mutate(child1['output_locations'], ga_params['mutation'], 'locations', ga_params['CA_size'])
+                child2['output_locations'] = mutate(child2['output_locations'], ga_params['mutation'], 'locations', ga_params['CA_size'])
+
+            offspring.extend([child1, child2])
+
+
+        save_info(mean_fitness_training[-1], mean_fitness_control[-1], best_fitness_training[-1],
+                  best_fitness_control[-1], ga_params, generation,
+                  base_path)
+        save_chromosomes(population[best_chromosome_index], base_path, generation)
         # Create the new population
         population = offspring
 
-        print(mean_fitness_training)
 
-    save_info(mean_fitness_training, mean_fitness_control, best_fitness_training, best_fitness_control, ga_params, 'D:/PythonProjects/Thesis/configurations/output')
-    save_chromosomes(best_chromosomes, 'D:/PythonProjects/Thesis/configurations/chromosomes')
-    # Return the best solution found
-    # For example:
-    best_overall_index = np.argmax(best_fitness_training)  # Index of best overall in best_fitness_training list
-    best_overall_chromosome = best_chromosomes[best_overall_index]  # The best ov
-    return population[best_overall_index]
 
 
 def generate_random_configuration():
     # Define possible configurations for each parameter, including single-point crossover
     crossover_options = {
         'uniform': {'type': 'uniform', 'rate': np.random.rand()},  # Random rate between 0 and 1
-        'single_point': {'type': 'single_point', 'rate': np.random.rand()},  # Random rate between 0 and 1
+        'single_point': {'type': 'single_point', 'rate': np.random.rand()},
+        'none': {'type': 'none', 'rate': np.random.rand()}# Random rate between 0 and 1
     }
 
     mutation_options = {
@@ -128,6 +155,10 @@ def generate_random_configuration():
     input_location_options = ['random', 'evenly_distributed']
     input_order_options = ['random', 'ordered']
     sort_rules_options = ['random', 'big_average_low_std', 'big_average_big_std', 'low_average_low_std', 'equal_behaviour', 'different_behaviour']
+    chromosome_evol_options = ['yes', 'no']
+    input_loc_evol = ['yes', 'no']
+    output_loc_evol = ['yes', 'no']
+
 
     # Randomly select a configuration for each key
     config = {
@@ -136,13 +167,16 @@ def generate_random_configuration():
         'selection': selection_options[np.random.choice(list(selection_options.keys()))],
         'distance': np.random.choice(distance_options),
         'case_study': np.random.choice(case_study_options),
-        'CA_size': np.random.choice(range(10, 51, 5)),
-        'population_size': np.random.choice(range(30, 201, 10)),
+        'CA_size': np.random.choice(range(10, 30, 5)),
+        'population_size': np.random.choice(range(8,20)),
         'input_locations': np.random.choice(input_location_options),
         'input_order': np.random.choice(input_order_options),
         'input_percentage': np.random.rand(),
         'steps': np.random.randint(10, 30),
-        'sort_rules': np.random.choice(sort_rules_options)
+        'sort_rules': np.random.choice(sort_rules_options),
+        'chromosome_evol': np.random.choice(chromosome_evol_options),
+        'input_loc_evol': np.random.choice(input_loc_evol),
+        'output_loc_evol': np.random.choice(output_loc_evol)
     }
 
     return config
@@ -150,8 +184,8 @@ def generate_random_configuration():
 def run_ga(ga_params):
     # Wrapper function to run the genetic algorithm with given parameters
     # This function will be executed in parallel
-    best_solution = genetic_algorithm(ga_params)
-    return best_solution
+    genetic_algorithm(ga_params)
+    return None
 
 def main():
     # Generate a list of GA configurations based on the number of available CPU cores

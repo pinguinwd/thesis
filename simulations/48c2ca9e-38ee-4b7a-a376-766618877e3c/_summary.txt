@@ -1,0 +1,38 @@
+GA Parameters:
+{
+    "crossover": {
+        "type": "none",
+        "rate": 0.9717520169457031
+    },
+    "mutation": {
+        "type": "bit_flip",
+        "rate": 0.497598479948981
+    },
+    "selection": {
+        "type": "roulette"
+    },
+    "distance": "euclidean",
+    "case_study": "number_divided_by_two",
+    "CA_size": 10,
+    "population_size": 11,
+    "input_locations": "evenly_distributed",
+    "input_order": "ordered",
+    "input_percentage": 0.0791190687175719,
+    "steps": 16,
+    "sort_rules": "different_behaviour",
+    "chromosome_evol": "no",
+    "input_loc_evol": "yes",
+    "output_loc_evol": "no"
+}
+
+Mean Fitness Training:
+0.4644245347845674 0.49169398709664514 0.48375868030535063
+
+Mean Fitness Control:
+0.43121226263362816 0.43121226263362816 0.43121226263362816
+
+Best Fitness Training:
+0.5394716090112839 0.5397782470479804 0.5377349926447863
+
+Best Fitness Control:
+0.5011233402931048 0.5011233402931048 0.5011233402931048

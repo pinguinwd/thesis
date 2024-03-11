@@ -1,10 +1,14 @@
 import numpy as np
 import cupy as cp
 import os
+import random
+import json
 
-def rule_to_binary_gpu(rule_number, amount_of_cells):
-    binary_string = cp.binary_repr(rule_number, width=amount_of_cells)
-    return [int(bit) for bit in binary_string]  # Convert each bit to an integer
+def rule_to_binary_gpu(rule_number):
+    binary_string = cp.binary_repr(rule_number, width=8)
+    # Convert binary string directly to a CuPy array of integers
+    return cp.array([int(bit) for bit in binary_string], dtype=cp.int32)
+
 
 
 def apply_rule_gpu(left, center, right, rule_binary):
@@ -14,7 +18,10 @@ def apply_rule_gpu(left, center, right, rule_binary):
 
 def evolve_cellular_automata_gpu(initial_sequence, rule_numbers, steps, amount_of_cells):
     # Convert rule numbers to binary representations and prepare rules as a 2D array
-    rules_binary = cp.array([rule_to_binary_gpu(int(rule), amount_of_cells) for rule in rule_numbers])
+
+
+    # Convert each rule to binary and stack them into a single CuPy array
+    rules_binary = cp.stack([rule_to_binary_gpu(int(rule)) for rule in rule_numbers])
 
     current_sequence = cp.array(initial_sequence)
     for _ in range(steps):
@@ -31,22 +38,53 @@ def evolve_cellular_automata_gpu(initial_sequence, rule_numbers, steps, amount_o
     return current_sequence.get()  # Return to CPU memory if necessary
 
 #GA steps
-def bit_flip_mutation(individual):
-    """Performs bit flip mutation on an individual."""
-    # Choose a random bit position to flip
-    bit_position = np.random.randint(len(individual))
-    # Flip the bit at the chosen position
-    individual[bit_position] = 1 - individual[bit_position]
-    return individual
 
-def gaussian_mutation(individual, std_dev=1.0):
-    """Performs Gaussian mutation on an individual."""
+def bit_flip_mutation(individual, type, CA_SIZE):
+    """Performs bit flip mutation on a randomly selected number from the individual list."""
+    # Choose a random index in the individual list to mutate
+    idx_to_mutate = np.random.randint(len(individual))
+
+    # Convert the selected number to binary, ensuring correct length for 'rules' or 'locations'
+    number_to_mutate = individual[idx_to_mutate]
+    binary_length = 8 if type == 'rules' else int(CA_SIZE).bit_length()
+    binary_rep = format(number_to_mutate, '0{}b'.format(binary_length))
+
+    success = False
+    while not success:
+        # Choose a random bit position to flip in the binary representation
+        bit_position = np.random.randint(len(binary_rep))
+        flipped_binary = list(binary_rep)
+        flipped_binary[bit_position] = '1' if binary_rep[bit_position] == '0' else '0'
+        flipped_binary = ''.join(flipped_binary)
+
+        # Convert the flipped binary back to a number
+        new_number = int(flipped_binary, 2)
+
+        # For 'locations', ensure the new number does not exceed CA_SIZE. If it does, try again.
+        if type == 'rules' or (type == 'locations' and new_number <= CA_SIZE):
+            success = True
+            individual[idx_to_mutate] = new_number  # Apply the mutation
+
+    return individual  # Return the mutated list of numbers
+
+
+def gaussian_mutation(individual, type, CA_SIZE, std_dev=1.0):
+    """Performs Gaussian mutation on an individual with type-specific bounds."""
     # Choose a random position to mutate
     position = np.random.randint(len(individual))
     # Add a Gaussian distributed random value
     mutation_value = np.random.normal(0, std_dev)
-    # Apply mutation with bounds checking
-    individual[position] = np.clip(individual[position] + mutation_value, 0, 255)
+
+    # Apply mutation with bounds checking, specific to 'rules' or 'locations'
+    if type == 'rules':
+        max_bound = 255  # For 'rules', the max bound is 255
+    elif type == 'locations':
+        max_bound = CA_SIZE  # For 'locations', the max bound is CA_SIZE
+    else:
+        raise ValueError("Unknown type specified. Type should be 'rules' or 'locations'.")
+
+    # Apply mutation within bounds
+    individual[position] = np.clip(individual[position] + mutation_value, 0, max_bound)
     return individual
 
 def roulette_wheel_selection(population, fitnesses):
@@ -70,21 +108,16 @@ def tournament_selection(population, fitnesses, tournament_size):
 
 def single_point_crossover(parent1, parent2, rate):
     """Performs single-point crossover between two parents."""
-    if np.random.rand() < rate:
-        crossover_point = np.random.randint(1, len(parent1))  # Choose crossover point
-        child1 = np.concatenate([parent1[:crossover_point], parent2[crossover_point:]])
-        child2 = np.concatenate([parent2[:crossover_point], parent1[crossover_point:]])
-        return child1, child2
-    else:
-        # Return parents as is if crossover does not happen
-        return parent1, parent2
+    crossover_point = np.random.randint(1, len(parent1))  # Choose crossover point
+    child1 = np.concatenate([parent1[:crossover_point], parent2[crossover_point:]])
+    child2 = np.concatenate([parent2[:crossover_point], parent1[crossover_point:]])
+    return child1, child2
 
 def uniform_crossover(parent1, parent2, rate):
     """Performs uniform crossover between two parents."""
     child1, child2 = parent1.copy(), parent2.copy()
     for i in range(len(parent1)):
-        if np.random.rand() < rate:  # With a certain probability, swap the genes
-            child1[i], child2[i] = child2[i], child1[i]
+        child1[i], child2[i] = child2[i], child1[i]
     return child1, child2
 
 def hamming_distance(s1, s2):
@@ -108,11 +141,8 @@ def generate_input_output_pairs(sort, CA_size, percentage):
     # Calculate the number of bits and total inputs
     num_bits = int(CA_size * percentage)
 
-    if num_bits > 8:
-        num_bits = 8
-
-    if num_bits < 3:
-        num_bits = 3
+    if num_bits < 5:
+        num_bits = 5
 
     total_inputs = 2 ** num_bits
 
@@ -126,8 +156,14 @@ def generate_input_output_pairs(sort, CA_size, percentage):
     else:
         raise ValueError(f"Unknown sort: {sort}")
 
-    # Generate all possible input-output pairs
-    input_output_pairs = {i: output_func(i) for i in range(total_inputs)}
+    # Make sure total_inputs is greater than the number of samples you want to draw
+    sample_size = min(100, total_inputs)
+
+    # Sample without replacement
+    sampled_indices = random.sample(range(total_inputs), sample_size)
+
+    # Create pairs
+    input_output_pairs = {i: output_func(i) for i in sampled_indices}
 
     # Randomly divide into training and control sets
     items = list(input_output_pairs.items())
@@ -165,18 +201,20 @@ def crossover(parent1, parent2, crossover_params):
         return single_point_crossover(parent1, parent2, crossover_params['rate'])
     elif crossover_params['type'] == 'uniform':
         return uniform_crossover(parent1, parent2, crossover_params['rate'])
+    elif crossover_params['type'] == 'none':
+        return parent1, parent2
     else:
         raise ValueError("Unknown crossover type specified")
 
 
-def mutate(individual, mutation_params):
+def mutate(individual, mutation_params, sort, CA_SIZE):
     """Main mutation function that redirects to specific mutation methods."""
     mutation_type = mutation_params.get('type', 'bit_flip')
     if mutation_type == 'bit_flip':
-        return bit_flip_mutation(individual)
+        return bit_flip_mutation(individual, sort, CA_SIZE)
     elif mutation_type == 'gaussian':
         std_dev = mutation_params.get('std_dev', 1.0)  # Default standard deviation
-        return gaussian_mutation(individual, std_dev)
+        return gaussian_mutation(individual, sort, CA_SIZE, std_dev=1.0)
     else:
         raise ValueError("Unsupported mutation type specified.")
 
@@ -230,11 +268,9 @@ def initialize_population(CA_size, population_size, percentage, input_locations,
 
     num_locations = int(CA_size * percentage)
 
-    if num_locations > 8:
-        num_locations = 8
 
-    if num_locations < 3:
-        num_locations = 3
+    if num_locations < 5:
+        num_locations = 5
 
     if sort_rules == 'random':
         possible_rules = [i for i in range(255)]
@@ -277,53 +313,83 @@ def initialize_population(CA_size, population_size, percentage, input_locations,
 
     return population
 
+def numpy_json_serializer(obj):
+    if isinstance(obj, np.integer):
+        return int(obj)
+    elif isinstance(obj, np.floating):
+        return float(obj)
+    elif isinstance(obj, np.ndarray):
+        return obj.tolist()
+    else:
+        raise TypeError(f'Object of type {obj.__class__.__name__} is not JSON serializable')
 
-def save_info(mean_fitness_training, mean_fitness_control, best_fitness_training, best_fitness_control, ga_params,
-              base_path):
-    # Determine the file path with an index that doesn't already exist
-    index = 0
-    path = f"{base_path}{index}.txt"
-    while os.path.exists(path):
-        index += 1
-        path = f"{base_path}{index}.txt"
+def save_info(mean_fitness_training, mean_fitness_control, best_fitness_training, best_fitness_control, ga_params, generation, base_path):
+    os.makedirs(os.path.dirname(base_path), exist_ok=True)
+    file_path = f"{base_path}_summary.txt"
 
-    with open(path, 'w') as file:
-        # Write ga_params details
-        file.write("GA Parameters:\n")
-        for key, value in ga_params.items():
-            file.write(f"{key}: {value}\n")
+    if not os.path.exists(file_path):
+        with open(file_path, 'w') as file:
+            file.write("GA Parameters:\n")
+            serialized_str = json.dumps(ga_params, default=numpy_json_serializer, indent=4)
+            file.write(serialized_str)
+            file.write("\n\n")
+            file.write("Mean Fitness Training:\n")
+            file.write(f"{mean_fitness_training}\n\n")
+            file.write("Mean Fitness Control:\n")
+            file.write(f"{mean_fitness_control}\n\n")
+            file.write("Best Fitness Training:\n")
+            file.write(f"{best_fitness_training}\n\n")
+            file.write("Best Fitness Control:\n")
+            file.write(f"{best_fitness_control}\n")
+    else:
+        updated_content = ""
+        section = None
+        with open(file_path, 'r') as file:
+            for line in file:
+                if "Mean Fitness Training:" in line:
+                    section = "Mean Fitness Training"
+                elif "Mean Fitness Control:" in line:
+                    section = "Mean Fitness Control"
+                elif "Best Fitness Training:" in line:
+                    section = "Best Fitness Training"
+                elif "Best Fitness Control:" in line:
+                    section = "Best Fitness Control"
+                elif section:
+                    line = line.strip()
+                    if section == "Mean Fitness Training":
+                        line += f" {mean_fitness_training}"
+                        section = None
+                    elif section == "Mean Fitness Control":
+                        line += f" {mean_fitness_control}"
+                        section = None
+                    elif section == "Best Fitness Training":
+                        line += f" {best_fitness_training}"
+                        section = None
+                    elif section == "Best Fitness Control":
+                        line += f" {best_fitness_control}"
+                        section = None
+                    line += "\n"
+                updated_content += line
 
-        # Write mean fitness for training
-        file.write("\nMean Fitness Training:\n")
-        file.write(', '.join(map(str, mean_fitness_training)) + '\n')
+        with open(file_path, 'w') as file:
+            file.write(updated_content)
 
-        # Write mean fitness for control
-        file.write("\nMean Fitness Control:\n")
-        file.write(', '.join(map(str, mean_fitness_control)) + '\n')
+def save_chromosomes(best_chromosomes, base_path, generation):
+    os.makedirs(os.path.dirname(base_path), exist_ok=True)
 
-        # Write best fitness for training
-        file.write("\nBest Fitness Training:\n")
-        file.write(', '.join(map(str, best_fitness_training)) + '\n')
+    # Construct the file path
+    file_path = f"{base_path}_chromosomes.txt"
 
-        # Write best fitness for control
-        file.write("\nBest Fitness Control:\n")
-        file.write(', '.join(map(str, best_fitness_control)) + '\n')
+    # Check if the file exists
+    if not os.path.exists(file_path):
+        # File does not exist, create it and write ga_params and initial fitness values
+        with open(file_path, 'w') as file:
+            # Write ga_params in a readable format
+            file.write("Best chromosomes:\n")
+            file.write(f"{best_chromosomes}")
 
-    print(f"Info saved to: {path}")
-
-def save_chromosomes(best_chromosomes, base_path):
-    # Determine the file path with an index that doesn't already exist
-    index = 0
-    path = f"{base_path}{index}.txt"
-    while os.path.exists(path):
-        index += 1
-        path = f"{base_path}{index}.txt"
-
-    with open(path, 'w') as file:
-        file.write("Best chromosomes:\n")
-        for chromosome in best_chromosomes:
-            # Assuming chromosome is iterable, convert it to a string to write
-            chromosome_str = ', '.join(map(str, chromosome))  # Convert each element to string and join with commas
-            file.write(chromosome_str + '\n')  # Write each chromosome on a new line
-
-    print(f"Info saved to: {path}")
+    else:
+        # File exists, append new fitness values
+        with open(file_path, 'a') as file:
+            # Append new fitness values
+            file.write(f"{best_chromosomes}\n")
