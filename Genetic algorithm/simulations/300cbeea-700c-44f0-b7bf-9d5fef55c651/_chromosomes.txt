@@ -1,0 +1,2 @@
+Best chromosomes:
+{'chromosome': array([211, 239, 181,  28, 111, 154,  77, 196,  10, 239]), 'input_locations': [0, 2, 0, 6, 9], 'output_locations': [0, 2, 0, 6, 9]}

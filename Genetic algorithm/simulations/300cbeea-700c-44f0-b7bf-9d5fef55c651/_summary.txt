@@ -1,0 +1,39 @@
+GA Parameters:
+{
+    "crossover": {
+        "type": "none",
+        "rate": 0.790580320251937
+    },
+    "mutation": {
+        "type": "bit_flip",
+        "rate": 0.7261259189647583
+    },
+    "selection": {
+        "type": "tournament",
+        "size": 6
+    },
+    "distance": "perfect_match",
+    "case_study": "number_plus_one",
+    "CA_size": 10,
+    "population_size": 13,
+    "input_locations": "evenly_distributed",
+    "input_order": "ordered",
+    "input_percentage": 0.07690863767161782,
+    "steps": 29,
+    "sort_rules": "random",
+    "chromosome_evol": "yes",
+    "input_loc_evol": "yes",
+    "output_loc_evol": "yes"
+}
+
+Mean Fitness Training:
+0.9879807692307693
+
+Mean Fitness Control:
+0.96875
+
+Best Fitness Training:
+1.0
+
+Best Fitness Control:
+1.0

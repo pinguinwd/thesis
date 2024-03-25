@@ -1,0 +1,10 @@
+Best chromosomes:
+{'chromosome': array([217, 217, 178,  71, 217, 164, 164,  71, 233, 164, 164, 233, 233,
+       164, 233]), 'input_locations': [7, 8, 9, 12, 14], 'output_locations': [7, 8, 9, 12, 14]}{'chromosome': array([233, 217, 217, 164, 233, 164, 164, 217, 178, 164,  71, 164, 217,
+       178, 233]), 'input_locations': [2, 6, 7, 9, 10], 'output_locations': array([ 2,  6,  7, 11, 13])}
+{'chromosome': array([233, 217, 217, 164, 233, 164, 164, 217, 178, 164,  71, 164, 217,
+       178, 233]), 'input_locations': [2, 6, 7, 9, 10], 'output_locations': array([ 2,  6,  8, 12, 13])}
+{'chromosome': array([233, 217, 217, 164, 233, 164, 164, 217, 178, 164,  71, 164, 217,
+       178, 233]), 'input_locations': [2, 6, 7, 9, 10], 'output_locations': array([ 2,  4,  8, 14, 13])}
+{'chromosome': array([217, 164, 178, 217, 178, 164, 233, 217, 233, 178,  71, 164, 233,
+       164,  71]), 'input_locations': [0, 5, 8, 12, 14], 'output_locations': array([ 2,  6,  5,  9, 13])}

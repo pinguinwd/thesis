@@ -1,0 +1,16 @@
+Best chromosomes:
+{'chromosome': array([122, 105, 122, 129, 129, 105, 122, 129, 165, 165, 165, 165, 122,
+       165, 129]), 'input_locations': [0, 1, 2, 3, 4, 5, 6, 7], 'output_locations': [0, 1, 2, 3, 4, 5, 6, 7]}{'chromosome': array([122, 129, 105, 165, 129, 122, 122, 129, 165, 129, 122, 105, 165,
+       165, 105]), 'input_locations': array([0, 1, 2, 3, 4, 5, 6, 7]), 'output_locations': array([0, 1, 2, 3, 4, 5, 6, 7])}
+{'chromosome': array([105, 129, 129, 105, 129, 129, 122, 129, 165, 129, 122, 165, 105,
+       122, 129]), 'input_locations': array([0, 1, 3, 3, 4, 5, 6, 7]), 'output_locations': array([0, 1, 2, 3, 4, 5, 6, 7])}
+{'chromosome': array([105, 129, 129, 105, 129, 129, 122, 129, 165, 129, 122, 165, 105,
+       122, 129]), 'input_locations': array([0, 1, 3, 3, 4, 5, 6, 7]), 'output_locations': array([0, 1, 2, 3, 4, 5, 6, 7])}
+{'chromosome': array([122, 165, 165, 105, 129, 129, 122, 129, 165, 129, 122, 165, 105,
+       122, 129]), 'input_locations': array([0, 1, 2, 3, 4, 5, 6, 7]), 'output_locations': array([0, 1, 2, 3, 4, 5, 6, 7])}
+{'chromosome': array([122, 165, 165, 105, 129, 129, 122, 129, 165, 129, 122, 165, 105,
+       122, 129]), 'input_locations': array([0, 1, 2, 3, 0, 5, 6, 7]), 'output_locations': array([2, 1, 2, 3, 4, 5, 6, 7])}
+{'chromosome': array([122, 165, 165, 105, 129, 129, 122, 129, 165, 129, 122, 165, 105,
+       122, 129]), 'input_locations': array([0, 1, 3, 3, 4, 5, 6, 7]), 'output_locations': array([ 0,  1,  2,  3,  4, 13,  7,  7])}
+{'chromosome': array([122, 165, 165, 105, 129, 129, 122, 129, 165, 129, 122, 165, 105,
+       122, 129]), 'input_locations': array([0, 1, 3, 3, 4, 5, 6, 7]), 'output_locations': array([0, 0, 2, 3, 4, 5, 6, 7])}

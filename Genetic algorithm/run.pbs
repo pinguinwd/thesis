@@ -1,0 +1,34 @@
+#!/bin/bash
+#PBS -l walltime=72:00:00
+#PBS -l mem=10G
+#PBS -o job_output.log
+#PBS -e job_error.log
+#PBS -l nodes=1:ppn=32
+#PBS -M wannes.dewulf@ugent.be
+#PBS -m abe
+#PBS -N GA_CA_version1
+
+set -x
+
+###------------------------------------------------- module loading
+module purge
+module load python/3.7.1  # Adjust this line based on available modules
+module load pod5-file-format/0.1.8-foss-2022a
+
+# Create a virtual environment named myenv in the current directory
+python -m venv myenv
+
+# Activate the virtual environment
+
+source myenv/bin/activate
+
+# Upgrade pip and install dependencies from requirements.txt located in the current directory
+python -m pip install --upgrade pip
+pip install -r requirements.txt
+
+# Execute your main Python script
+python -u GA_functions.py > output.log 2> error.log
+python -u GA_main.py > output.log 2> error.log
+
+# Deactivate the virtual environment
+deactivate

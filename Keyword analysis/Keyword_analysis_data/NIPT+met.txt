@@ -1,0 +1,1375 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Hui, WWI
+   Chiu, RWK
+AF Hui, Winnie W. I.
+   Chiu, Rossa W. K.
+TI Noninvasive prenatal testing beyond genomic analysis: what the future
+   holds
+DE DNA methylation; noninvasive prenatal testing; pregnancy-associated
+   disorders; RNA
+ID MATERNAL PLASMA; MESSENGER-RNA; FETAL DNA; GENE-EXPRESSION;
+   PREGNANT-WOMEN; DIAGNOSIS; METHYLATION; IDENTIFICATION; MICRORNAS;
+   MARKER
+DA 2023-11-28
+ER
+
+PT J
+AU Peng, XL
+   Jiang, PY
+AF Peng, Xianlu Laura
+   Jiang, Peiyong
+TI Bioinformatics Approaches for Fetal DNA Fraction Estimation in
+   Noninvasive Prenatal Testing
+DE noninvasive prenatal testing; circulating cell-free DNA; fetal DNA
+   fraction
+ID MATERNAL PLASMA DNA; CELL-FREE DNA; CONGENITAL ADRENAL-HYPERPLASIA;
+   HAPLOTYPE-BASED APPROACH; DIAGNOSIS; METHYLATION; ORIGIN; SERUM;
+   TRANSPLANTATION; ANEUPLOIDY
+DA 2023-11-28
+ER
+
+PT J
+AU Hong, DK
+   Park, JE
+   Kang, KM
+   Shim, SH
+   Shim, SH
+   Han, YJ
+   Cho, HY
+   Cha, DH
+AF Hong, Da Kyung
+   Park, Ji Eun
+   Kang, Kyung Min
+   Shim, Sung Han
+   Shim, So Hyun
+   Han, You Jung
+   Cho, Hee Young
+   Cha, Dong Hyun
+TI Prenatal Diagnosis of Uniparental Disomy in Cases of Rare Autosomal
+   Trisomies Detected Using Noninvasive Prenatal Test: A Case of
+   Prader-Willi Syndrome
+DE noninvasive prenatal test; uniparental disomy; Prader-Willi syndrome;
+   methylation analysis; rare autosomal trisomy; amniocentesis; karyotype;
+   imprinting disorder; trisomy rescue
+ID METHYLATION-SPECIFIC PCR; CELL-FREE DNA; ANGELMAN-SYNDROMES
+DA 2023-11-28
+ER
+
+PT J
+AU Blais, J
+   Giroux, S
+   Caron, A
+   Clément, V
+   Rousseau, F
+AF Blais, Jonatan
+   Giroux, Sylvie
+   Caron, Andre
+   Clement, Valerie
+   Rousseau, Francois
+TI Precision of Fetal DNA Fraction Estimation by Quantitative Polymerase
+   Chain Reaction Quantification of a Differently Methylated Target in
+   Noninvasive Prenatal Testing
+DE fetal DNA; ccffDNA; fetal fraction; NIPT; methylation; MSRE; noninvasive
+   prenatal testing; Down syndrome; next-generation sequencing
+ID CELL-FREE DNA; MATERNAL PLASMA; DIGITAL PCR; PERFORMANCE; EFFICIENCY
+DA 2023-11-28
+ER
+
+PT J
+AU Papageorgiou, EA
+   Karagrigoriou, A
+   Tsaliki, E
+   Velissariou, V
+   Carter, NP
+   Patsalis, PC
+AF Papageorgiou, Elisavet A.
+   Karagrigoriou, Alex
+   Tsaliki, Evdokia
+   Velissariou, Voula
+   Carter, Nigel P.
+   Patsalis, Philippos C.
+TI Fetal-specific DNA methylation ratio permits noninvasive prenatal
+   diagnosis of trisomy 21
+ID MATERNAL PLASMA; QUANTITATIVE-ANALYSIS; DOWNS-SYNDROME; MARKERS;
+   IDENTIFICATION; ANEUPLOIDY; SITES; WIDE
+DA 2023-11-28
+ER
+
+PT J
+AU Sun, K
+   Lun, FMF
+   Leung, TY
+   Chiu, RWK
+   Lo, YMD
+   Sun, H
+AF Sun, Kun
+   Lun, Fiona M. F.
+   Leung, Tak Y.
+   Chiu, Rossa W. K.
+   Lo, Y. M. Dennis
+   Sun, Hao
+TI Noninvasive reconstruction of placental methylome from maternal plasma
+   DNA: Potential for prenatal testing and monitoring
+ID FETAL DNA; METHYLATION; GROWTH; PREGNANCY; RASSF1A; REGIONS; ORIGIN;
+   GENE; CELL
+DA 2023-11-28
+ER
+
+PT J
+AU Lee, DE
+   Lim, JH
+   Kim, MH
+   Park, SY
+   Ryu, HM
+AF Lee, Da Eun
+   Lim, Ji Hyae
+   Kim, Min Hyoung
+   Park, So Yeon
+   Ryu, Hyun Mee
+TI Novel Epigenetic Markers on Chromosome 21 for Noninvasive Prenatal
+   Testing of Fetal Trisomy 21
+ID CELL-FREE DNA; MATERNAL PLASMA; DOWN-SYNDROME; METHYLATION; DIAGNOSIS;
+   GENOME; BLOOD; ANEUPLOIDIES; BIOMARKERS; RASSF1A
+DA 2023-11-28
+ER
+
+PT J
+AU Sun, K
+   Jiang, PY
+   Chan, KCA
+   Wong, J
+   Cheng, YKY
+   Liang, RHS
+   Chang, WK
+   Ma, ESK
+   Chan, SL
+   Cheng, SH
+   Chan, RWY
+   Tong, YK
+   Ng, SSM
+   Wong, RSM
+   Hui, DSC
+   Leung, TN
+   Leung, TY
+   Lai, PBS
+   Chiu, RWK
+   Lo, YMD
+AF Sun, Kun
+   Jiang, Peiyong
+   Chan, K. C. Allen
+   Wong, John
+   Cheng, Yvonne K. Y.
+   Liang, Raymond H. S.
+   Chang, Wai-kong
+   Ma, Edmond S. K.
+   Chan, Stephen L.
+   Cheng, Suk Hang
+   Chan, Rebecca W. Y.
+   Tong, Yu K.
+   Ng, Simon S. M.
+   Wong, Raymond S. M.
+   Hui, David S. C.
+   Leung, Tse Ngong
+   Leung, Tak Y.
+   Lai, Paul B. S.
+   Chiu, Rossa W. K.
+   Lo, Yuk Ming Dennis
+TI Plasma DNA tissue mapping by genome-wide methylation sequencing for
+   noninvasive prenatal, cancer, and transplantation assessments
+DE noninvasive prenatal testing; circulating tumor DNA; liquid biopsy;
+   transplantation monitoring; epigenetics
+ID CELL-FREE DNA; COPY NUMBER ABERRATIONS; MATERNAL PLASMA; FETAL;
+   PREGNANCY; ANEUPLOIDY; MICRORNAS; DIAGNOSIS; ORIGIN; SERUM
+HC Y
+HP N
+DA 2023-11-28
+ER
+
+PT J
+AU Lim, JH
+   Lee, BY
+   Kim, JW
+   Han, YJ
+   Kim, MH
+   Chung, JH
+   Han, JY
+   Kim, MY
+   Ryu, HM
+AF Lim, Ji Hyae
+   Lee, Bom Yi
+   Kim, Jin Woo
+   Han, You Jung
+   Kim, Min Hyoung
+   Chung, Jin Hoon
+   Han, Jung Yeol
+   Kim, Moon Young
+   Ryu, Hyun Mee
+TI Effective Fetal Epigenetic Biomarkers for Noninvasive Fetal Trisomy 21
+   Detections
+DE Cell-free fetal DNA; DNA methylation; Epigenetics; Noninvasive prenatal
+   test
+ID PRENATAL-DIAGNOSIS; DNA METHYLATION; MARKERS; RATIO
+DA 2023-11-28
+ER
+
+PT J
+AU Coppedè, F
+   Bhaduri, U
+   Stoccoro, A
+   Nicolì, V
+   Di Venere, E
+   Merla, G
+AF Coppede, Fabio
+   Bhaduri, Utsa
+   Stoccoro, Andrea
+   Nicoli, Vanessa
+   Di Venere, Eleonora
+   Merla, Giuseppe
+TI DNA Methylation in the Fields of Prenatal Diagnosis and Early Detection
+   of Cancers
+DE DNA methylation; DMNT; bisulfite sequencing; RRBS; epigenetics; cancer
+ID CELL-FREE DNA; FETAL DNA; MATERNAL PLASMA; POTENTIAL BIOMARKER;
+   COLORECTAL-CANCER; PERIPHERAL-BLOOD; VALIDATION; ASSAY; PERFORMANCE;
+   MARKERS
+DA 2023-11-28
+ER
+
+PT J
+AU Papageorgiou, EA
+   Fiegler, H
+   Rakyan, V
+   Beck, S
+   Hulten, M
+   Lamnissou, K
+   Carter, NP
+   Patsalis, PC
+AF Papageorgiou, Elisavet A.
+   Fiegler, Heike
+   Rakyan, Vardhman
+   Beck, Stephan
+   Hulten, Maj
+   Lamnissou, Klea
+   Carter, Nigel P.
+   Patsalis, Philippos C.
+TI Sites of Differential DNA Methylation between Placenta and Peripheral
+   Blood <i>Molecular Markers for Noninvasive Prenatal Diagnosis of
+   Aneuploidies</i>
+ID MATERNAL PLASMA; FETAL DNA; SERUM; WIDE; IDENTIFICATION; CELLS
+DA 2023-11-28
+ER
+
+PT S
+AU Wong, FCK
+   Lo, YMD
+AF Wong, Felix C. K.
+   Lo, Y. M. Dennis
+BE Caskey, CT
+TI Prenatal Diagnosis Innovation: Genome Sequencing of Maternal Plasma
+DE noninvasive prenatal testing; methylome; transcriptome; next-generation
+   sequencing; cell-free DNA
+ID CELL-FREE DNA; FREE FETAL DNA; NONINVASIVE DETECTION; DOWN-SYNDROME;
+   ANEUPLOIDY DETECTION; MONOGENIC DISEASES; CHROMOSOMES 13; TWIN ZYGOSITY;
+   RNA; METHYLATION
+DA 2023-11-28
+ER
+
+PT C
+AU Hultén, MA
+   Papageorgiou, EA
+   Della Ragione, F
+   D'Esposito, M
+   Carter, N
+   Patsalis, PC
+AF Hulten, Maj A.
+   Papageorgiou, Elisavet A.
+   Della Ragione, Floriana
+   D'Esposito, Maurizio
+   Carter, Nigel
+   Patsalis, Philippos C.
+BE Gahan, PB
+TI Non-invasive Prenatal Diagnosis: An Epigenetic Approach to the Detection
+   of Common Fetal Chromosome Disorders by Analysis of Maternal Blood
+   Samples
+DE Noninvasive prenatal diagnosis; Fetal; Maternal plasma; DNA methylation;
+   Aneuploidy
+ID DIFFERENTIAL DNA METHYLATION; PLASMA; MARKERS; RASSF1A; SITES; PCR
+DA 2023-11-28
+ER
+
+PT J
+AU Lo, YMD
+AF Lo, Y. M. D.
+TI Noninvasive prenatal detection of fetal chromosomal aneuploidies by
+   maternal plasma nucleic acid analysis: a review of the current state of
+   the art
+DE Plasma DNA; plasma RNA; Down syndrome; trisomy 21; prenatal diagnosis
+ID MESSENGER-RNA; PREGNANT-WOMEN; MICROSATELLITE ALTERATIONS;
+   DNA-METHYLATION; DIGITAL PCR; DIAGNOSIS; BLOOD; SERUM; THALASSEMIA;
+   CELLS
+DA 2023-11-28
+ER
+
+PT J
+AU Tong, YK
+   Lo, YMD
+AF Tong, Yu Kwan
+   Lo, Yuk Ming Dennis
+TI Plasma epigenetic markers for cancer detection and prenatal diagnosis
+DE plasma; epigenetic markers; cancer detection; prenatal diagnosis and
+   monitoring; methylation; methylation-sensitive restriction;
+   endonucleases; polymerase chain reaction; bisulfite modification;
+   methylation-specific PCR; tumor suppressor genes; genomic imprinting;
+   differential methylation; review
+ID TUMOR-SUPPRESSOR GENE; RASSF1A PROMOTER METHYLATION;
+   POLYMERASE-CHAIN-REACTION; ABERRANT P16 METHYLATION; FETAL DNA
+   CONCENTRATIONS; SQUAMOUS-CELL CARCINOMA; K-RAS MUTATIONS; BARR-VIRUS
+   DNA; COLI APC GENE; MATERNAL PLASMA
+DA 2023-11-28
+ER
+
+PT J
+AU Egger, G
+   Wielscher, M
+   Pulverer, W
+   Kriegner, A
+   Weinhäusel, A
+AF Egger, Gerda
+   Wielscher, Matthias
+   Pulverer, Walter
+   Kriegner, Albert
+   Weinhaeusel, Andreas
+TI DNA methylation testing and marker validation using PCR: diagnostic
+   applications
+DE cancer; DNA methylation; epigenetic biomarkers; imprinting disorders;
+   noninvasive diagnosis
+ID NONINVASIVE-PRENATAL-DIAGNOSIS; ABERRANT PROMOTER METHYLATION;
+   POLYMERASE-CHAIN-REACTION; BREAST-CANCER PATIENTS; FREE NUCLEIC-ACIDS;
+   CELL-FREE DNA; COLORECTAL-CANCER; LUNG-CANCER; SERUM DNA;
+   HIGH-THROUGHPUT
+DA 2023-11-28
+ER
+
+PT J
+AU Zhang, SS
+   Han, SY
+   Zhang, MX
+   Wang, YS
+AF Zhang, Shanshan
+   Han, Shuyi
+   Zhang, Maoxiu
+   Wang, Yunshan
+TI Non-invasive prenatal paternity testing using cell-free fetal DNA from
+   maternal plasma: DNA isolation and genetic marker studies
+DE Noninvasive prenatal paternity testing; Cell-free fetal DNA; DNA
+   isolation; Short tandem repeat; Single nucleotide polymorphism; Forensic
+   genetics
+ID ESTABLISHING PERSONAL IDENTIFICATION; SINGLE NUCLEOTIDE POLYMORPHISMS;
+   SIZE-SELECTIVE SEPARATION; SHORT TANDEM REPEATS; FATHER-SON PAIRS;
+   CIRCULATING FETAL; PERIPHERAL-BLOOD; MUTATION-RATES; NUCLEIC-ACIDS; STR
+   LOCI
+DA 2023-11-28
+ER
+
+PT J
+AU Lun, FMF
+   Chiu, RWK
+   Sun, K
+   Leung, TY
+   Jiang, PY
+   Chan, KCA
+   Sun, H
+   Lo, YMD
+AF Lun, Fiona M. F.
+   Chiu, Rossa W. K.
+   Sun, Kun
+   Leung, Tak Y.
+   Jiang, Peiyong
+   Chan, K. C. Allen
+   Sun, Hao
+   Lo, Y. M. Dennis
+TI Noninvasive Prenatal Methylomic Analysis by Genomewide Bisulfite
+   Sequencing of Maternal Plasma DNA
+ID FETAL DNA; QUANTITATIVE-ANALYSIS; METHYLATION; GENE; RESTRICTION;
+   EXPRESSION; PREGNANCY; PLACENTA; MARKERS; CELLS
+DA 2023-11-28
+ER
+
+PT J
+AU Peng, XQ
+   Li, HD
+   Wu, FX
+   Wang, JX
+AF Peng, Xiaoqing
+   Li, Hong-Dong
+   Wu, Fang-Xiang
+   Wang, Jianxin
+TI Identifying the tissues-of-origin of circulating cell-free DNAs is a
+   promising way in noninvasive diagnostics
+DE cell-free DNA; tissues-of-origin; cfDNA mutation; DNA methylation;
+   fragmentation pattern; noninvasive diagnosis
+ID FREE FETAL DNA; PLASMA DNA; PRENATAL-DIAGNOSIS; MATERNAL PLASMA; TUMOR
+   DNA; MICROSATELLITE ALTERATIONS; HEPATOCELLULAR-CARCINOMA; ACUTE
+   REJECTION; RARE MUTATIONS; NUCLEIC-ACIDS
+DA 2023-11-28
+ER
+
+PT J
+AU Kit, AH
+   Nielsen, HM
+   Tost, J
+AF Kit, Alexandre How
+   Nielsen, Helene Myrtue
+   Tost, Joerg
+TI DNA methylation based biomarkers: Practical considerations and
+   applications
+DE DNA methylation; Early detection; Cancer; Prenatal diagnosis; Biomarker
+   development
+ID CPG ISLAND HYPERMETHYLATION; POLYMERASE-CHAIN-REACTION;
+   NONINVASIVE-PRENATAL-DIAGNOSIS; ABERRANT PROMOTER METHYLATION;
+   BREAST-CANCER PATIENTS; QUANTITATIVE GSTP1 METHYLATION; CIRCULATING
+   NUCLEIC-ACIDS; HIGH-THROUGHPUT ANALYSIS; HORMONE-RECEPTOR STATUS;
+   DE-NOVO METHYLATION
+DA 2023-11-28
+ER
+
+PT J
+AU Ioannides, M
+   Achilleos, A
+   Kyriakou, S
+   Kypri, E
+   Loizides, C
+   Tsangaras, K
+   Constantinou, L
+   Koumbaris, G
+   Patsalis, PC
+AF Ioannides, Marios
+   Achilleos, Achilleas
+   Kyriakou, Skevi
+   Kypri, Elena
+   Loizides, Charalambos
+   Tsangaras, Kyriakos
+   Constantinou, Louiza
+   Koumbaris, George
+   Patsalis, Philippos C.
+TI Development of a new methylation-based fetal fraction estimation assay
+   using multiplex ddPCR
+DE differentially methylated regions; fetal fraction estimation; multiplex
+   ddPCR; non-invasive prenatal testing
+ID NONINVASIVE PRENATAL DETECTION; CELL-FREE DNA; MATERNAL PLASMA;
+   HYPERMETHYLATED RASSF1A; POSITION STATEMENT; ANEUPLOIDY; TRISOMY-21;
+   WOMEN; QUANTIFICATION; DIAGNOSIS
+DA 2023-11-28
+ER
+
+PT J
+AU Tsui, DWY
+   Lam, YMD
+   Lee, WS
+   Leung, TY
+   Lau, TK
+   Lau, ET
+   Tang, MHY
+   Akolekar, R
+   Nicolaides, KH
+   Chiu, RWK
+   Lo, YMD
+   Chim, SSC
+AF Tsui, Dana W. Y.
+   Lam, Y. M. Doris
+   Lee, Wing S.
+   Leung, Tak Y.
+   Lau, Tze K.
+   Lau, Elizabeth T.
+   Tang, Mary H. Y.
+   Akolekar, Ranjit
+   Nicolaides, Kypros H.
+   Chiu, Rossa W. K.
+   Lo, Y. M. Dennis
+   Chim, Stephen S. C.
+TI Systematic Identification of Placental Epigenetic Signatures for the
+   Noninvasive Prenatal Detection of Edwards Syndrome
+ID DIFFERENTIAL DNA METHYLATION; MATERNAL PLASMA; FETAL DNA; ALLELIC RATIO;
+   DIGITAL PCR; DIAGNOSIS; ORIGIN; SITES; GENE; EPIGENOMICS
+DA 2023-11-28
+ER
+
+PT J
+AU Sun, K
+   Jiang, PY
+   Wong, AIC
+   Cheng, YKY
+   Cheng, SH
+   Zhang, HQ
+   Chan, KCA
+   Leung, TY
+   Chiu, RWK
+   Lo, YMD
+AF Sun, Kun
+   Jiang, Peiyong
+   Wong, Ada I. C.
+   Cheng, Yvonne K. Y.
+   Cheng, Suk Hang
+   Zhang, Haiqiang
+   Chan, K. C. Allen
+   Leung, Tak Y.
+   Chiu, Rossa W. K.
+   Lo, Y. M. Dennis
+TI Size-tagged preferred ends in maternal plasma DNA shed light on the
+   production mechanism and show utility in noninvasive prenatal testing
+DE circulating cell-free DNA; prenatal diagnosis; nucleosome structure;
+   size-based molecular diagnostics; liquid biopsy
+ID CELL-FREE DNA; FETAL DNA; CANCER-PATIENTS; METHYLATION; ORIGIN;
+   TRANSPLANTATION; HYPOMETHYLATION; ANEUPLOIDY; CHROMATIN; INFORMS
+DA 2023-11-28
+ER
+
+PT J
+AU Chim, SSC
+   Jin, SN
+   Lee, TYH
+   Lun, FMF
+   Lee, WS
+   Chan, LYS
+   Jin, YJ
+   Yang, N
+   Tong, YK
+   Leung, TY
+   Lau, TK
+   Ding, CM
+   Chiu, RWK
+   Lo, YMD
+AF Chim, Stephen S. C.
+   Jin, Shengnan
+   Lee, Tracy Y. H.
+   Lun, Fiona M. F.
+   Lee, Wing S.
+   Chan, Lisa Y. S.
+   Jin, Yongjie
+   Yang, Ningning
+   Tong, Yu K.
+   Leung, Tak Y.
+   Lau, Tze K.
+   Ding, Chunming
+   Chiu, Rossa W. K.
+   Lo, Y. M. Dennis
+TI Systematic search for placental DNA-methylation markers on chromosome
+   21: Toward a maternal plasma-based epigenetic test for fetal trisomy 21
+ID NONINVASIVE PRENATAL-DIAGNOSIS; QUANTITATIVE-ANALYSIS; MESSENGER-RNA;
+   CPG ISLANDS; SERUM; RASSF1A; MOTHER; ORIGIN; SITES; FETUS
+DA 2023-11-28
+ER
+
+PT J
+AU Tong, YK
+   Ding, CM
+   Chiu, RWK
+   Gerovassili, A
+   Chim, SSC
+   Leung, TY
+   Leung, TN
+   Lau, TK
+   Nicolaides, KH
+   Lo, YMD
+AF Tong, Yu K.
+   Ding, Chunming
+   Chiu, Rossa W. K.
+   Gerovassili, Ageliki
+   Chim, Stephen S. C.
+   Leung, Tak Y.
+   Leung, Tse N.
+   Lau, Tze K.
+   Nicolaides, Kypros H.
+   Lo, Y. M. Dennis
+TI Noninvasive prenatal detection of fetal trisomy 18 by epigenetic allelic
+   ratio analysis in maternal plasma: Theoretical and empirical
+   considerations
+ID DNA CONCENTRATIONS; DOWN-SYNDROME; SERUM; GENE; MASPIN; 1ST-TRIMESTER;
+   METHYLATION; MARKER; WOMEN; PCR
+DA 2023-11-28
+ER
+
+PT J
+AU Butler, MG
+AF Butler, Merlin G.
+TI Benefits and limitations of prenatal screening for Prader-Willi syndrome
+ID CELL-FREE DNA; CONFINED PLACENTAL MOSAICISM; ANGELMAN-SYNDROMES;
+   UNIPARENTAL DISOMY; FETAL DNA; MICRODELETION SYNDROMES; MOLECULAR
+   DIAGNOSIS; IMPRINTING CENTER; RISK-FACTORS; SINGLE-GENE
+DA 2023-11-28
+ER
+
+PT J
+AU Zhou, Q
+   Kang, GN
+   Jiang, PY
+   Qiao, R
+   Lam, WKJ
+   Yu, SCY
+   Ma, MJL
+   Ji, L
+   Cheng, SH
+   Gai, WX
+   Peng, WL
+   Shang, HM
+   Chan, RWY
+   Chan, SL
+   Wong, GLH
+   Hiraki, LT
+   Volpi, S
+   Wong, VWS
+   Wong, J
+   Chiu, RWK
+   Chan, KCA
+   Lo, YMD
+AF Zhou, Qing
+   Kang, Guannan
+   Jiang, Peiyong
+   Qiao, Rong
+   Lam, W. K. Jacky
+   Yu, Stephanie C. Y.
+   Ma, Mary-Jane L.
+   Ji, Lu
+   Cheng, Suk Hang
+   Gai, Wanxia
+   Peng, Wenlei
+   Shang, Huimin
+   Chan, Rebecca W. Y.
+   Chan, Stephen L.
+   Wong, Grace L. H.
+   Hiraki, Linda T.
+   Volpi, Stefano
+   Wong, Vincent W. S.
+   Wong, John
+   Chiu, Rossa W. K.
+   Chan, K. C. Allen
+   Lo, Y. M. Dennis
+TI Epigenetic analysis of cell-free DNA by fragmentomic profiling
+DE epigenetics; fragmentomics; cancer detection; noninvasive prenatal
+   testing; liquid biopsy
+ID PLASMA DNA; METHYLATION; CANCER; MUTATIONS; DNASE1L3
+DA 2023-11-28
+ER
+
+PT J
+AU Ioannides, M
+   Papageorgiou, EA
+   Keravnou, A
+   Tsaliki, E
+   Spyrou, C
+   Hadjidaniel, M
+   Sismani, C
+   Koumbaris, G
+   Patsalis, PC
+AF Ioannides, Marios
+   Papageorgiou, Elisavet A.
+   Keravnou, Anna
+   Tsaliki, Evdokia
+   Spyrou, Christiana
+   Hadjidaniel, Michael
+   Sismani, Carolina
+   Koumbaris, George
+   Patsalis, Philippos C.
+TI Inter-individual methylation variability in differentially methylated
+   regions between maternal whole blood and first trimester CVS
+DE Non-invasive prenatal diagnosis; Inter-individual variability;
+   Differentially methylated regions; MeDIP
+ID NONINVASIVE-PRENATAL-DIAGNOSIS; DNA METHYLATION; EPIGENETIC BIOMARKERS;
+   EPIGENOME; PLASMA
+DA 2023-11-28
+ER
+
+PT J
+AU Wong, AIC
+   Lo, YMD
+AF Wong, Ada I. C.
+   Lo, Y. M. Dennis
+TI Noninvasive fetal genomic, methylomic, and transcriptomic analyses using
+   maternal plasma and clinical implications
+ID CELL-FREE DNA; PRENATAL-DIAGNOSIS; CHROMOSOMES 13; MESSENGER-RNA;
+   DIGITAL PCR; ANEUPLOIDY; METHYLATION; GENE; IDENTIFICATION; CLEARANCE
+DA 2023-11-28
+ER
+
+PT J
+AU Gai, WX
+   Zhou, Z
+   Agbor-Enoh, S
+   Fan, XD
+   Lian, S
+   Jiang, PY
+   Cheng, SH
+   Wong, J
+   Chan, SL
+   Jang, MK
+   Yang, YQ
+   Liang, RHS
+   Chan, WK
+   Ma, ESK
+   Leung, TY
+   Chiu, RWK
+   Valantine, H
+   Chan, KCA
+   Lo, YMD
+AF Gai, Wanxia
+   Zhou, Ze
+   Agbor-Enoh, Sean
+   Fan, Xiaodan
+   Lian, Sheng
+   Jiang, Peiyong
+   Cheng, Suk Hang
+   Wong, John
+   Chan, Stephen L.
+   Jang, Moon Kyoo
+   Yang, Yanqin
+   Liang, Raymond H. S.
+   Chan, Wai Kong
+   Ma, Edmond S. K.
+   Leung, Tak Y.
+   Chiu, Rossa W. K.
+   Valantine, Hannah
+   Chan, K. C. Allen
+   Lo, Y. M. Dennis
+TI Applications of genetic-epigenetic tissue mapping for plasma DNA in
+   prenatal testing, transplantation and oncology
+DA 2023-11-28
+ER
+
+PT J
+AU Zhang, R
+   Yin, YF
+   Zhang, SY
+   Chen, L
+   Pu, L
+   Deng, QC
+   Zhang, H
+   Xiao, L
+AF Zhang, Rong
+   Yin, Yufang
+   Zhang, Shuyun
+   Chen, Li
+   Pu, Li
+   Deng, Qicheng
+   Zhang, Hong
+   Xiao, Li
+TI Application of Differentially Methylated Loci in Clinical Diagnosis of
+   Trisomy 21 Syndrome
+DE cell-free fetal DNA; noninvasive prenatal diagnosis; differential
+   methylation genes; trisomy 21 syndrome; HLCS; C21orf25
+DA 2023-11-28
+ER
+
+PT J
+AU Yu, SCY
+   Jiang, PY
+   Peng, WL
+   Cheng, SH
+   Cheung, YTT
+   Tse, OYO
+   Shang, HM
+   Poon, LC
+   Leung, TY
+   Chan, KCA
+   Chiu, RWK
+   Lo, YMD
+AF Yu, Stephanie C. Y.
+   Jiang, Peiyong
+   Peng, Wenlei
+   Cheng, Suk Hang
+   Cheung, Y. T. Tommy
+   Tse, O. Y. Olivia
+   Shang, Huimin
+   Poon, Liona C.
+   Leung, Tak Y.
+   Chan, K. C. Allen
+   Chiu, Rossa W. K.
+   Lo, Y. M. Dennis
+TI Single-molecule sequencing reveals a large population of long cell-free
+   DNA molecules in maternal plasma
+DE cell-free DNA; noninvasive prenatal testing; third-generation
+   sequencing; epigenetics; monogenic diseases
+ID FETAL DNA; SIZE DISTRIBUTIONS; METHYLATION; PREGNANCY; MARKER; CANCER
+DA 2023-11-28
+ER
+
+PT J
+AU van den Oever, JME
+   Balkassmi, S
+   Segboer, T
+   Verweij, EJ
+   van der Velden, PA
+   Oepkes, D
+   Bakker, E
+   Boon, EMJ
+AF van den Oever, Jessica M. E.
+   Balkassmi, Sahila
+   Segboer, Tim
+   Verweij, E. Joanne
+   van der Velden, Pieter A.
+   Oepkes, Dick
+   Bakker, Egbert
+   Boon, Elles M. J.
+TI <i>Mrassf1a</i>-Pap, a Novel Methylation-Based Assay for the Detection
+   of Cell-Free Fetal DNA in Maternal Plasma
+ID NONINVASIVE-PRENATAL-DIAGNOSIS; PYROPHOSPHOROLYSIS-ACTIVATED
+   POLYMERIZATION; PLACENTAL EPIGENETIC SIGNATURE; RASSF1A GENE;
+   HYPERMETHYLATED RASSF1A; PCR; POLYMORPHISMS; RELIABILITY; MARKERS;
+   ORIGIN
+DA 2023-11-28
+ER
+
+PT J
+AU Lim, JH
+   Lee, DE
+   Kim, KS
+   Kim, HJ
+   Lee, BY
+   Park, SY
+   Ahn, HK
+   Lee, SW
+   Kim, MY
+   Ryu, HM
+AF Lim, Ji Hyae
+   Lee, Da Eun
+   Kim, Kyeong Sun
+   Kim, Hyun Jin
+   Lee, Bom Yi
+   Park, So Yeon
+   Ahn, Hyun Kyong
+   Lee, Si Won
+   Kim, Moon Young
+   Ryu, Hyun Mee
+TI Non-invasive detection of fetal trisomy 21 using fetal epigenetic
+   biomarkers with a high CpG density
+DE cell-free fetal DNA; DNA methylation; epigenetic marker; noninvasive
+   prenatal test; trisomy 21
+ID PRENATAL-DIAGNOSIS; MATERNAL PLASMA; DNA METHYLATION; ANEUPLOIDY
+   DETECTION; GENOME; TISSUES; GENES; SERUM
+DA 2023-11-28
+ER
+
+PT J
+AU Koumbaris, G
+   Kypri, E
+   Tsangaras, K
+   Achilleos, A
+   Mina, P
+   Neofytou, M
+   Velissariou, V
+   Christopoulou, G
+   Kallikas, I
+   González-Liñán, A
+   Benusiene, E
+   Latos-Bielenska, A
+   Marek, P
+   Santana, A
+   Nagy, N
+   Széll, M
+   Laudanski, P
+   Papageorgiou, EA
+   Loannides, M
+   Patsalis, PC
+AF Koumbaris, George
+   Kypri, Elena
+   Tsangaras, Kyriakos
+   Achilleos, Achilleas
+   Mina, Petros
+   Neofytou, Maria
+   Velissariou, Voula
+   Christopoulou, Georgia
+   Kallikas, Ioannis
+   Gonzalez-Linan, Alicia
+   Benusiene, Egle
+   Latos-Bielenska, Anna
+   Marek, Pietryga
+   Santana, Alfredo
+   Nagy, Nikoletta
+   Szell, Marta
+   Laudanski, Piotr
+   Papageorgiou, Elisavet A.
+   Loannides, Marios
+   Patsalis, Philippos C.
+TI Cell-Free DNA Analysis of Targeted Genomic Regions in Maternal Plasma
+   for Non-Invasive Prenatal Testing of Trisomy 21, Trisomy 18, Trisomy 13,
+   and Fetal Sex
+ID DIAGNOSIS; ANEUPLOIDY; METHYLATION; BLOOD
+DA 2023-11-28
+ER
+
+PT J
+AU Hahn, S
+   Rusterholz, C
+   Hösli, I
+   Lapaire, O
+AF Hahn, S.
+   Rusterholz, C.
+   Hoesli, I.
+   Lapaire, O.
+TI Cell-free Nucleic Acids as Potential Markers for Preeclampsia
+DE Preeclampsia; Cell-free fetal DNA; Noninvasive prenatal diagnosis;
+   Biomarker; Fetal RNA
+ID FREE FETAL DNA; NONINVASIVE PRENATAL-DIAGNOSIS; HORMONE MESSENGER-RNA;
+   MATERNAL PLASMA; HYPERMETHYLATED RASSF1A; PREGNANT-WOMEN; SERUM; BLOOD;
+   SYNCYTIOTROPHOBLAST; CIRCULATION
+DA 2023-11-28
+ER
+
+PT J
+AU Gai, WX
+   Sun, K
+AF Gai, Wanxia
+   Sun, Kun
+TI Epigenetic Biomarkers in Cell-Free DNA and Applications in Liquid Biopsy
+DE plasma; cell-free DNA; cancer testing; DNA methylation; preferred ends;
+   fragmentation pattern; tissue-of-origin analysis
+ID CIRCULATING TUMOR-CELLS; COPY NUMBER ABERRATIONS; MATERNAL PLASMA; FETAL
+   DNA; NONINVASIVE DETECTION; CANCER-PATIENTS; PROMOTER HYPERMETHYLATION;
+   METHYLATION PATTERNS; GENOME; ORIGIN
+DA 2023-11-28
+ER
+
+PT J
+AU Scheffer, PG
+   de Haas, M
+   van der Schoot, CE
+AF Scheffer, Peter G.
+   de Haas, Masja
+   van der Schoot, C. Ellen
+TI The controversy about controls for fetal blood group genotyping by
+   cell-free fetal DNA in maternal plasma
+DE cell-free DNA; controls; maternal plasma; noninvasive prenatal diagnosis
+ID NONINVASIVE PRENATAL DETERMINATION; HYPERMETHYLATED RASSF1A;
+   PREGNANT-WOMEN; MULTIPLEX PCR; RHD STATUS; RHESUS D; PROPHYLAXIS;
+   ALLOIMMUNIZATION; QUANTIFICATION; RELIABILITY
+DA 2023-11-28
+ER
+
+PT J
+AU Nygren, AOH
+   Dean, J
+   Jensen, TJ
+   Kruse, S
+   Kwong, W
+   van den Boom, D
+   Ehrich, M
+AF Nygren, Anders O. H.
+   Dean, Jarrod
+   Jensen, Taylor J.
+   Kruse, Selena
+   Kwong, William
+   van den Boom, Dirk
+   Ehrich, Mathias
+TI Quantification of Fetal DNA by Use of Methylation-Based DNA
+   Discrimination
+ID NONINVASIVE-PRENATAL-DIAGNOSIS; MATERNAL PLASMA; QUANTITATIVE-ANALYSIS;
+   DOWN-SYNDROME; SERUM; PCR; GENE; ANEUPLOIDIES; PREGNANCY; PLACENTA
+DA 2023-11-28
+ER
+
+PT J
+AU Keravnou, A
+   Ioannides, M
+   Loizides, C
+   Tsangaras, K
+   Achilleos, A
+   Mina, P
+   Kypri, E
+   Hadjidaniel, MD
+   Neofytou, M
+   Kyriacou, S
+   Sismani, C
+   Koumbaris, G
+   Patsalis, PC
+AF Keravnou, Anna
+   Ioannides, Marios
+   Loizides, Charalambos
+   Tsangaras, Kyriakos
+   Achilleos, Achilleas
+   Mina, Petros
+   Kypri, Elena
+   Hadjidaniel, Michael D.
+   Neofytou, Maria
+   Kyriacou, Skevi
+   Sismani, Carolina
+   Koumbaris, George
+   Patsalis, Philippos C.
+TI MeDIP combined with in-solution targeted enrichment followed by NGS:
+   Inter-individual methylation variability of fetal-specific biomarkers
+   and their implementation in a proof of concept study for NIPT
+ID NONINVASIVE-PRENATAL-DIAGNOSIS; CELL-FREE DNA; MATERNAL PLASMA;
+   PERIPHERAL-BLOOD; MARKERS; ANEUPLOIDY
+DA 2023-11-28
+ER
+
+PT J
+AU Cullinan, A
+   Cantor, C
+AF Cullinan, Amy
+   Cantor, Charles
+TI Sequenom, Inc
+DE CNV; comparative sequence analysis; epigenetics; gene expression;
+   genotyping; MALDlTOF mass spectrometry; mechylation; prenatal
+   diagnostics; SNP
+DA 2023-11-28
+ER
+
+PT J
+AU Lo, YMD
+AF Lo, Y. M. Dennis
+TI Screening of Fetal Chromosomal Aneuploidy by Noninvasive Prenatal
+   Testing: From Innovation to Setting Public Health Agendas to Potential
+   Impact on Other Fields
+ID CELL-FREE DNA; PLASMA DNA; INCIDENTAL DETECTION; LIVER-TRANSPLANT;
+   MATERNAL PLASMA; DIAGNOSIS; ORIGIN; METHYLATION; CARCINOMA; RASSF1A
+DA 2023-11-28
+ER
+
+PT J
+AU Chu, TJ
+   Shaw, P
+   McClain, L
+   Simhan, H
+   Peters, D
+AF Chu, Tianjiao
+   Shaw, Patricia
+   McClain, Lora
+   Simhan, Hyagriv
+   Peters, David
+TI High-resolutionepigenomic liquid biopsy fornoninvasivephenotyping in
+   pregnancy
+ID SPONTANEOUS PRETERM BIRTH; DNA METHYLATION; FETAL MICRODELETION;
+   GENE-EXPRESSION; ONSET PREECLAMPSIA; DIGITAL PCR; RISK-FACTOR;
+   DIAGNOSIS; ASSOCIATIONS; PATTERNS
+DA 2023-11-28
+ER
+
+PT S
+AU Lo, YMD
+   Lam, WKJ
+AF Lo, Yuk Ming Dennis
+   Lam, Wai Kei Jacky
+BE Zaidi, M
+TI Tracing the tissue of origin of plasma DNA-feasibility and implications
+DE plasma DNA; liquid biopsy; methylation; epigenetics; tumor markers
+ID CELL-FREE DNA
+DA 2023-11-28
+ER
+
+PT J
+AU Lo, YMD
+   Han, DSC
+   Jiang, PY
+   Chiu, RWK
+AF Lo, Y. M. Dennis
+   Han, Diana S. C.
+   Jiang, Peiyong
+   Chiu, Rossa W. K.
+TI Epigenetics, fragmentomics, and topology of cell-free DNA in liquid
+   biopsies
+ID NONINVASIVE PRENATAL-DIAGNOSIS; COPY NUMBER ABERRATIONS; FREE FETAL DNA;
+   PLASMA DNA; MATERNAL PLASMA; CIRCULATING DNA; NASOPHARYNGEAL CARCINOMA;
+   LIBRARY PREPARATION; SERUM DNA; CANCER
+HC Y
+HP N
+DA 2023-11-28
+ER
+
+PT J
+AU Yu, SCY
+   Deng, J
+   Qiao, R
+   Cheng, SH
+   Peng, WL
+   Lau, SL
+   Choy, LYL
+   Leung, TY
+   Wong, J
+   Wong, VWS
+   Wong, GLH
+   Jiang, PY
+   Chiu, RWK
+   Chan, KCA
+   Lo, YMD
+AF Yu, Stephanie C. Y.
+   Deng, Jiaen
+   Qiao, Rong
+   Cheng, Suk Hang
+   Peng, Wenlei
+   Lau, So Ling
+   Choy, L. Y. Lois
+   Leung, Tak Y.
+   Wong, John
+   Wong, Vincent Wai-Sun
+   Wong, Grace L. H.
+   Jiang, Peiyong
+   Chiu, Rossa W. K.
+   Chan, K. C. Allen
+   Lo, Y. M. Dennis
+TI Comparison of Single Molecule, Real-Time Sequencing and Nanopore
+   Sequencing for Analysis of the Size, End-Motif, and Tissue-of-Origin of
+   Long Cell-Free DNA in Plasma
+DE liquid biopsy; single-molecule sequencing; third-generation sequencing;
+   noninvasive prenatal testing; cancer detection
+ID ANEUPLOIDY; DIAGNOSIS
+DA 2023-11-28
+ER
+
+PT J
+AU Wong, FCK
+   Sun, K
+   Jiang, PY
+   Cheng, YKY
+   Chan, KCA
+   Leung, TY
+   Chiu, RWK
+   Lo, YMD
+AF Wong, Felix C. K.
+   Sun, Kun
+   Jiang, Peiyong
+   Cheng, Yvonne K. Y.
+   Chan, K. C. Allen
+   Leung, Tak Y.
+   Chiu, Rossa W. K.
+   Lo, Yuk Ming Dennis
+TI Cell-free DNA in maternal plasma and serum: A comparison of quantity,
+   quality and tissue origin using genomic and epigenomic approaches
+DE Noninvasive prenatal testing; Serum cell-free DNA; Plasma cell-free DNA;
+   Epigenetics; Digital PCR; Massively parallel sequencing; Pregnancy
+ID NEUTROPHIL EXTRACELLULAR TRAPS; COPY NUMBER ABERRATIONS; LYMPHOCYTE
+   SUBSETS; FETAL DNA; NORMAL-PREGNANCY; CANCER-PATIENTS; BLOOD-SAMPLES;
+   LUNG-CANCER; TRANSPLANTATION; SIZE
+DA 2023-11-28
+ER
+
+PT J
+AU Shi, JP
+   Zhang, RL
+   Li, JM
+   Zhang, R
+AF Shi, Jiping
+   Zhang, Runling
+   Li, Jinming
+   Zhang, Rui
+TI Size profile of cell-free DNA: A beacon guiding the practice and
+   innovation of clinical testing
+DE cell-free DNA; size profile; mechanism; clinical application; quality
+   control
+ID EXTERNAL QUALITY ASSESSMENT; CIRCULATING TUMOR DNA; MATERNAL PLASMA DNA;
+   FREE FETAL DNA; MUTATIONAL LANDSCAPE; CANCER-PATIENTS; LIQUID BIOPSY;
+   BLOOD; METHYLATION; INTEGRITY
+DA 2023-11-28
+ER
+
+PT J
+AU Jensen, TJ
+   Kim, SK
+   Zhu, ZY
+   Chin, C
+   Gebhard, C
+   Lu, T
+   Deciu, C
+   van den Boom, D
+   Ehrich, M
+AF Jensen, Taylor J.
+   Kim, Sung K.
+   Zhu, Zhanyang
+   Chin, Christine
+   Gebhard, Claudia
+   Lu, Tim
+   Deciu, Cosmin
+   van den Boom, Dirk
+   Ehrich, Mathias
+TI Whole genome bisulfite sequencing of cell-free DNA and its cellular
+   contributors uncovers placenta hypomethylated domains
+ID NONINVASIVE-PRENATAL-DIAGNOSIS; MATERNAL PLASMA DNA; CANCER-CELLS; FETAL
+   DNA; METHYLATION; TRISOMY-21; ORIGIN; ANEUPLOIDIES; EXPRESSION; MARKERS
+DA 2023-11-28
+ER
+
+PT J
+AU Jiang, PY
+   Chan, KCA
+   Lo, YMD
+AF Jiang, Peiyong
+   Chan, K. C. Allen
+   Lo, Y. M. Dennis
+TI Liver-derived cell-free nucleic acids in plasma: Biology and
+   applications in liquid biopsies
+DE Liquid biopsy; Liver diseases; Hepatocellular carcinoma; fragmentomics
+ID CIRCULATING TUMOR DNA; COPY NUMBER ABERRATIONS;
+   HEPATOCELLULAR-CARCINOMA; PROMOTER METHYLATION; MICROSATELLITE
+   ALTERATIONS; NONINVASIVE DETECTION; MUTATIONAL LANDSCAPE; MATERNAL
+   PLASMA; RARE MUTATIONS; MESSENGER-RNA
+DA 2023-11-28
+ER
+
+PT J
+AU Jiang, PY
+   Xie, TT
+   Ding, SC
+   Zhou, Z
+   Cheng, SH
+   Chan, RWY
+   Lee, WS
+   Peng, WL
+   Wong, J
+   Wong, VWS
+   Chan, HLY
+   Chan, SL
+   Poon, LCY
+   Leung, TY
+   Chan, KCA
+   Chiu, RWK
+   Lo, YMD
+AF Jiang, Peiyong
+   Xie, Tingting
+   Ding, Spencer C.
+   Zhou, Ze
+   Cheng, Suk Hang
+   Chan, Rebecca W. Y.
+   Lee, Wing-Shan
+   Peng, Wenlei
+   Wong, John
+   Wong, Vincent W. S.
+   Chan, Henry L. Y.
+   Chan, Stephen L.
+   Poon, Liona C. Y.
+   Leung, Tak Y.
+   Chan, K. C. Allen
+   Chiu, Rossa W. K.
+   Lo, Y. M. Dennis
+TI Detection and characterization of jagged ends of double-stranded DNA in
+   plasma
+ID SIZE; ABERRATIONS
+DA 2023-11-28
+ER
+
+PT J
+AU Wu, DC
+   Lambowitz, AM
+AF Wu, Douglas C.
+   Lambowitz, Alan M.
+TI Facile single-stranded DNA sequencing of human plasma DNA via
+   thermostable group II intron reverse transcriptase template switching
+ID CELL-FREE DNA; HEPATOCELLULAR-CARCINOMA; NONINVASIVE DIAGNOSIS; LIBRARY
+   PREPARATION; GENERATION; RNA; CANCER; MUTATIONS; ORIGIN; PYTHON
+DA 2023-11-28
+ER
+
+PT J
+AU Sun, K
+   Jiang, PY
+   Cheng, SH
+   Cheng, THT
+   Wong, J
+   Wong, VWS
+   Ng, SSM
+   Ma, BBY
+   Leung, TY
+   Chan, SL
+   Mok, TSK
+   Lai, PBS
+   Chan, HLY
+   Sun, H
+   Chan, KCA
+   Chiu, RWK
+   Lo, YMD
+AF Sun, Kun
+   Jiang, Peiyong
+   Cheng, Suk Hang
+   Cheng, Timothy H. T.
+   Wong, John
+   Wong, Vincent W. S.
+   Ng, Simon S. M.
+   Ma, Brigette B. Y.
+   Leung, Tak Y.
+   Chan, Stephen L.
+   Mok, Tony S. K.
+   Lai, Paul B. S.
+   Chan, Henry L. Y.
+   Sun, Hao
+   Chan, K. C. Allen
+   Chiu, Rossa W. K.
+   Lo, Y. M. Dennis
+TI Orientation-aware plasma cell-free DNA fragmentation analysis in open
+   chromatin regions informs tissue of origin
+ID COPY NUMBER ABERRATIONS; NONINVASIVE DETECTION; METHYLATION PATTERNS;
+   MATERNAL PLASMA; GENOME; CANCER; GENE; DETERMINANTS; MUTATIONS;
+   EPIGENOME
+DA 2023-11-28
+ER
+
+PT J
+AU Di Tommaso, M
+   Seravalli, V
+   Salvianti, F
+   Bussani, C
+   Pasquini, L
+   Cordisco, A
+   Pinzani, P
+AF Di Tommaso, Mariarosaria
+   Seravalli, Viola
+   Salvianti, Francesca
+   Bussani, Cecilia
+   Pasquini, Lucia
+   Cordisco, Adalgisa
+   Pinzani, Pamela
+TI Cell-free fetal DNA in maternal circulation after chorionic villous
+   sampling
+ID SERUM ALPHA-FETOPROTEIN; NONINVASIVE PRENATAL-DIAGNOSIS; FETOMATERNAL
+   TRANSFUSION; AMNIOCENTESIS; PLASMA; HEMORRHAGE; BLOOD; PREGNANCY
+DA 2023-11-28
+ER
+
+PT J
+AU Jiang, PY
+   Sun, K
+   Peng, WL
+   Cheng, SH
+   Ni, M
+   Yeung, PC
+   Heung, MMS
+   Xie, TT
+   Shang, HM
+   Zhou, Z
+   Chan, RWY
+   Wong, J
+   Wong, VWS
+   Poon, LC
+   Leung, TY
+   Lam, WKJ
+   Chan, JYK
+   Chan, HLY
+   Chan, KCA
+   Chiu, RWK
+   Lo, YMD
+AF Jiang, Peiyong
+   Sun, Kun
+   Peng, Wenlei
+   Cheng, Suk Hang
+   Ni, Meng
+   Yeung, Philip C.
+   Heung, Macy M. S.
+   Xie, Tingting
+   Shang, Huimin
+   Zhou, Ze
+   Chan, Rebecca W. Y.
+   Wong, John
+   Wong, Vincent W. S.
+   Poon, Liona C.
+   Leung, Tak Yeung
+   Lam, W. K. Jacky
+   Chan, Jason Y. K.
+   Chan, Henry L. Y.
+   Chan, K. C. Allen
+   Chiu, Rossa W. K.
+   Lo, Y. M. Dennis
+TI Plasma DNA End-Motif Profiling as a Fragmentomic Marker in Cancer,
+   Pregnancy, and Transplantation
+ID CELL-FREE DNA; MATERNAL PLASMA; FETAL DNA; METHYLATION; ABERRATIONS;
+   CARCINOMA; ORIGIN
+DA 2023-11-28
+ER
+
+EF
