@@ -1,0 +1,6 @@
+Best chromosomes:
+{'chromosome': array([122, 129, 129, 165, 122, 129, 105, 165, 165, 129, 129, 122, 165,
+       122, 129]), 'input_locations': [0, 3, 6, 9, 12], 'output_locations': [0, 3, 6, 9, 12]}{'chromosome': array([165, 105, 105, 129, 122, 122, 122, 165, 129, 122, 165, 122, 105,
+       129, 165]), 'input_locations': [4, 3, 6, 9, 12], 'output_locations': [0, 3, 6, 9, 12]}
+{'chromosome': array([165, 105, 105, 129, 122, 122, 122, 165, 129, 122, 165, 122, 105,
+       129, 165]), 'input_locations': [0, 3, 6, 9, 12], 'output_locations': [0, 3, 6, 9, 12]}
